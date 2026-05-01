@@ -1,49 +1,49 @@
-# Dictionnaire français minimal auto-cohérent
+# Dictionnaire français contrôlé minimal étendu
 
-Ce dépôt contient une V0 concrète d'un dictionnaire français minimal à vocabulaire fermé.
+Ce projet construit un dictionnaire français à vocabulaire fermé, contrôlé et vérifiable automatiquement.
+Il part d’une base minimale, puis l’étend par versions successives sans perdre la cohérence lexicale.
+La version de référence actuelle est V6.2 stable.
+Elle contient `1573` lemmes, `1573` entrées définitoires et `1227` formes reconnues.
+Chaque définition doit rester à l’intérieur du vocabulaire autorisé ou des formes explicitement déclarées.
+Le projet sert à définir, expliquer, comparer et raisonner dans un français contraint mais exploitable.
+Il combine une liste de mots, un dictionnaire JSON, une table morphologique et un validateur C++.
+Il produit aussi des rapports de validation stricte et des tests d’expression conceptuelle.
+V6.2 conserve `0` mot hors vocabulaire, `0` circularité directe simple et `300/300` tests conceptuels valides.
+Le dépôt est conçu à la fois comme ressource linguistique, outil pédagogique et base de validation automatique.
 
-## Contenu
+## Statut de V6.2
 
-- `wordlist.txt` : liste fermée de 500 mots.
-- `dictionary.json` : 500 entrées alignées sur la liste.
-- `forms.txt` : formes fléchies explicites pour la validation.
-- `core_axioms.txt` : noyau limité de mots traités comme primitifs ou quasi primitifs.
-- `src/check_dictionary.cpp` : validateur en C++17 sans dépendance externe.
-- `missing_words.json` : rapport structuré des mots hors vocabulaire.
-- `missing_words_report.md` : synthèse lisible des mots manquants.
-- `validation_report.md` : bilan global de validation.
-- `definition_graph.dot` : graphe lexical optionnel.
-- `stats.json` : statistiques minimales.
+V6.2 est la version stable éditoriale et conceptuelle du projet.
 
-## Choix de conception
+- base : V6.0 stable ;
+- extension : `12` concepts transversaux ajoutés ;
+- nettoyage : accords suspects corrigés et formes orthographiques fautives ciblées supprimées ;
+- validation stricte : `1573/1573` définitions conformes ;
+- validation conceptuelle : `300/300` phrases valides, `0` impossible, `0` lourde.
 
-Le projet suit la logique demandée dans la spécification :
+Les fichiers de référence sont :
 
-- vocabulaire fermé ;
-- V0 réelle avant raffinement ;
-- définitions volontairement courtes ;
-- quelques mots primitifs explicités ;
-- vérification automatique reproductible.
+- [wordlist_v6_2.txt](/Users/avialle/dev/minidico/wordlist_v6_2.txt)
+- [dictionary_v6_2.json](/Users/avialle/dev/minidico/dictionary_v6_2.json)
+- [forms_v6_2.txt](/Users/avialle/dev/minidico/forms_v6_2.txt)
+- [README_V6_2.md](/Users/avialle/dev/minidico/README_V6_2.md)
+- [validation_report_v6_2_final.md](/Users/avialle/dev/minidico/validation_report_v6_2_final.md)
+- [expression_validation_conceptuelle_v6_2_final.md](/Users/avialle/dev/minidico/expression_validation_conceptuelle_v6_2_final.md)
 
-Le choix du C++ est pragmatique :
+## Structure des fichiers
 
-- manipulation plus simple des chaînes et des ensembles ;
-- parser JSON minimal embarqué ;
-- aucune dépendance externe ;
-- compilation directe avec un compilateur standard.
+- `wordlist_v6_2.txt` : liste stable des lemmes autorisés.
+- `dictionary_v6_2.json` : dictionnaire stable, une entrée par lemme.
+- `forms_v6_2.txt` : table explicite `forme -> lemme` pour les pluriels, accords, conjugaisons et quelques formes éditoriales retenues.
+- `src/check_dictionary.cpp` : validateur principal en C++.
+- `Makefile` : compilation et exécution du validateur.
+- `README_V6_2.md`, `CHANGELOG_V6_2.md`, `VERSION_SUMMARY_V6_2.md` : documentation de version.
+- `PROJECT_OVERVIEW.md`, `TECHNICAL_ARCHITECTURE.md`, `VALIDATION_METHOD.md` : documentation générale.
+- `validation_report_*.md`, `expression_validation_*.md`, `audit_*.md`, `diff_*.md` : rapports de contrôle et d’évolution.
 
-## Limites de la V0
+## Comment valider
 
-Cette version cherche d'abord la cohérence formelle :
-
-- toutes les entrées demandées existent ;
-- la liste cible de 500 mots est atteinte ;
-- les formes fléchies sont explicites ;
-- les définitions restent parfois très pauvres sémantiquement.
-
-Autrement dit, la V0 est faite pour stabiliser le système et l'outillage avant une V1 plus idiomatique.
-
-## Utilisation
+Compilation et exécution du validateur :
 
 ```sh
 make
@@ -56,11 +56,31 @@ Ou directement :
 make check
 ```
 
-Les rapports sont régénérés à chaque exécution du validateur.
+Le validateur travaille sur les noms attendus `wordlist.txt`, `dictionary.json` et `forms.txt`. Pour vérifier une version précise dans un répertoire temporaire, il faut y placer ces trois fichiers sous ces noms, puis exécuter `./check_dictionary` depuis ce répertoire. La méthode complète est décrite dans [VALIDATION_METHOD.md](/Users/avialle/dev/minidico/VALIDATION_METHOD.md).
 
-## Itérations recommandées
+## Exemple d’entrée JSON
 
-1. enrichir les définitions les plus centrales sans casser la fermeture lexicale ;
-2. améliorer la détection des formes fléchies ;
-3. ajouter un classement plus fin des dépendances lexicales ;
-4. décider seulement ensuite si une extension à 750 mots est nécessaire.
+Exemple simplifié d’entrée du dictionnaire :
+
+```json
+{
+  "principe": {
+    "categorie": "nom",
+    "definition": "idée générale qui aide à comprendre, choisir, évaluer ou expliquer"
+  }
+}
+```
+
+Chaque entrée associe un lemme, une catégorie grammaticale et une définition rédigée dans le vocabulaire contrôlé.
+
+## Limites connues
+
+- ce n’est pas un dictionnaire complet du français ;
+- la fermeture lexicale impose parfois des formulations moins idiomatiques que le français libre ;
+- certaines définitions restent fonctionnelles avant d’être élégantes ;
+- la qualité d’expression dépend encore d’une couche morphologique explicite dans `forms.txt` ;
+- plusieurs notions très abstraites restent difficiles à définir sans un petit noyau quasi primitif.
+
+## Licence
+
+Ce projet est distribué sous licence `BSD-3-Clause`.
