@@ -10,4 +10,4 @@
 
 ## Validation lexicale
 
-- Les 300 phrases utilisent uniquement [wordlist_v6_2.txt](/Users/avialle/dev/minidico/wordlist_v6_2.txt) et [forms_v6_2.txt](/Users/avialle/dev/minidico/forms_v6_2.txt).
+- Les 300 phrases utilisent uniquement [wordlist_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/wordlist_v6_2.txt) et [forms_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/forms_v6_2.txt).

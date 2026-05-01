@@ -102,9 +102,9 @@ Le corpus est donc très utile pour la cohérence, la pédagogie et la validatio
 
 La branche de référence est la branche V6.2 stable :
 
-- [wordlist_v6_2.txt](/Users/avialle/dev/minidico/wordlist_v6_2.txt)
-- [dictionary_v6_2.json](/Users/avialle/dev/minidico/dictionary_v6_2.json)
-- [forms_v6_2.txt](/Users/avialle/dev/minidico/forms_v6_2.txt)
-- [README_V6_2.md](/Users/avialle/dev/minidico/README_V6_2.md)
-- [validation_report_v6_2_final.md](/Users/avialle/dev/minidico/validation_report_v6_2_final.md)
-- [expression_validation_conceptuelle_v6_2_final.md](/Users/avialle/dev/minidico/expression_validation_conceptuelle_v6_2_final.md)
+- [wordlist_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/wordlist_v6_2.txt)
+- [dictionary_v6_2.json](/Users/avialle/dev/minidico/versions/v6_2/dictionary_v6_2.json)
+- [forms_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/forms_v6_2.txt)
+- [README_V6_2.md](/Users/avialle/dev/minidico/versions/v6_2/README_V6_2.md)
+- [validation_report_v6_2_final.md](/Users/avialle/dev/minidico/versions/v6_2/validation_report_v6_2_final.md)
+- [expression_validation_conceptuelle_v6_2_final.md](/Users/avialle/dev/minidico/versions/v6_2/expression_validation_conceptuelle_v6_2_final.md)

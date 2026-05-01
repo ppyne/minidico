@@ -9,8 +9,8 @@ V6.2 stabilise la proposition éditoriale et conceptuelle légère issue de V6.0
 - conservation intégrale de la base V6.0 ;
 - ajout de `12` concepts transversaux ;
 - correction des `14` définitions à accord suspect signalées en V6.1 ;
-- nettoyage des formes orthographiquement fautives ciblées dans [forms_v6_2.txt](/Users/avialle/dev/minidico/forms_v6_2.txt) ;
-- copie stable de [wordlist_v6_2.txt](/Users/avialle/dev/minidico/wordlist_v6_2.txt), [dictionary_v6_2.json](/Users/avialle/dev/minidico/dictionary_v6_2.json) et [forms_v6_2.txt](/Users/avialle/dev/minidico/forms_v6_2.txt) ;
+- nettoyage des formes orthographiquement fautives ciblées dans [forms_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/forms_v6_2.txt) ;
+- copie stable de [wordlist_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/wordlist_v6_2.txt), [dictionary_v6_2.json](/Users/avialle/dev/minidico/versions/v6_2/dictionary_v6_2.json) et [forms_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/forms_v6_2.txt) ;
 - relance de la validation stricte après stabilisation ;
 - relance de la validation conceptuelle sur la branche stable.
 

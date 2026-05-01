@@ -23,23 +23,25 @@ V6.2 est la version stable éditoriale et conceptuelle du projet.
 
 Les fichiers de référence sont :
 
-- [wordlist_v6_2.txt](/Users/avialle/dev/minidico/wordlist_v6_2.txt)
-- [dictionary_v6_2.json](/Users/avialle/dev/minidico/dictionary_v6_2.json)
-- [forms_v6_2.txt](/Users/avialle/dev/minidico/forms_v6_2.txt)
-- [README_V6_2.md](/Users/avialle/dev/minidico/README_V6_2.md)
-- [validation_report_v6_2_final.md](/Users/avialle/dev/minidico/validation_report_v6_2_final.md)
-- [expression_validation_conceptuelle_v6_2_final.md](/Users/avialle/dev/minidico/expression_validation_conceptuelle_v6_2_final.md)
+- [wordlist_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/wordlist_v6_2.txt)
+- [dictionary_v6_2.json](/Users/avialle/dev/minidico/versions/v6_2/dictionary_v6_2.json)
+- [forms_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/forms_v6_2.txt)
+- [README_V6_2.md](/Users/avialle/dev/minidico/versions/v6_2/README_V6_2.md)
+- [validation_report_v6_2_final.md](/Users/avialle/dev/minidico/versions/v6_2/validation_report_v6_2_final.md)
+- [expression_validation_conceptuelle_v6_2_final.md](/Users/avialle/dev/minidico/versions/v6_2/expression_validation_conceptuelle_v6_2_final.md)
 
-## Structure des fichiers
+## Structure du dépôt
 
-- `wordlist_v6_2.txt` : liste stable des lemmes autorisés.
-- `dictionary_v6_2.json` : dictionnaire stable, une entrée par lemme.
-- `forms_v6_2.txt` : table explicite `forme -> lemme` pour les pluriels, accords, conjugaisons et quelques formes éditoriales retenues.
+- `versions/v6_2/` : version stable de référence, avec la wordlist, le dictionnaire, les formes et les rapports finaux V6.2.
+- `versions/stable/` : versions stables antérieures et historique lexical.
+- `proposals/` : propositions intermédiaires, variantes checked et états pré-stabilisation.
+- `docs/general/` : documentation transversale du projet.
+- `docs/versions/` : README, changelogs et résumés des versions précédentes.
+- `reports/` : validations, audits, diffs, métriques et rapports d’analyse.
+- `tests/expression/` : batteries de phrases de test.
+- `releases/` : paquet de publication V6.2 et archive ZIP.
 - `src/check_dictionary.cpp` : validateur principal en C++.
 - `Makefile` : compilation et exécution du validateur.
-- `README_V6_2.md`, `CHANGELOG_V6_2.md`, `VERSION_SUMMARY_V6_2.md` : documentation de version.
-- `PROJECT_OVERVIEW.md`, `TECHNICAL_ARCHITECTURE.md`, `VALIDATION_METHOD.md` : documentation générale.
-- `validation_report_*.md`, `expression_validation_*.md`, `audit_*.md`, `diff_*.md` : rapports de contrôle et d’évolution.
 
 ## Comment valider
 
@@ -56,7 +58,13 @@ Ou directement :
 make check
 ```
 
-Le validateur travaille sur les noms attendus `wordlist.txt`, `dictionary.json` et `forms.txt`. Pour vérifier une version précise dans un répertoire temporaire, il faut y placer ces trois fichiers sous ces noms, puis exécuter `./check_dictionary` depuis ce répertoire. La méthode complète est décrite dans [VALIDATION_METHOD.md](/Users/avialle/dev/minidico/VALIDATION_METHOD.md).
+Le validateur travaille sur les noms attendus `wordlist.txt`, `dictionary.json` et `forms.txt`. Pour vérifier V6.2, il faut copier :
+
+- `versions/v6_2/wordlist_v6_2.txt`
+- `versions/v6_2/dictionary_v6_2.json`
+- `versions/v6_2/forms_v6_2.txt`
+
+dans un répertoire temporaire sous les noms `wordlist.txt`, `dictionary.json` et `forms.txt`, puis exécuter `./check_dictionary` depuis ce répertoire. La méthode complète est décrite dans [VALIDATION_METHOD.md](/Users/avialle/dev/minidico/docs/general/VALIDATION_METHOD.md).
 
 ## Exemple d’entrée JSON
 

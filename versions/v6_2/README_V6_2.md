@@ -4,7 +4,7 @@
 
 V6.2 est la version stable éditoriale et conceptuelle du corpus français contrôlé.
 
-- V6.2 part de [wordlist_v6_0.txt](/Users/avialle/dev/minidico/wordlist_v6_0.txt), [dictionary_v6_0.json](/Users/avialle/dev/minidico/dictionary_v6_0.json) et [forms_v6_0.txt](/Users/avialle/dev/minidico/forms_v6_0.txt) ;
+- V6.2 part de [wordlist_v6_0.txt](/Users/avialle/dev/minidico/versions/stable/wordlist_v6_0.txt), [dictionary_v6_0.json](/Users/avialle/dev/minidico/versions/stable/dictionary_v6_0.json) et [forms_v6_0.txt](/Users/avialle/dev/minidico/versions/stable/forms_v6_0.txt) ;
 - V6.2 ajoute `12` concepts transversaux ;
 - V6.2 corrige les accords suspects signalés en V6.1 ;
 - V6.2 nettoie les formes orthographiques fautives ciblées ;

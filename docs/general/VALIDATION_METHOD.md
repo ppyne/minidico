@@ -20,9 +20,9 @@ La validation s’appuie au minimum sur :
 
 Pour V6.2, les fichiers de référence sont :
 
-- [wordlist_v6_2.txt](/Users/avialle/dev/minidico/wordlist_v6_2.txt)
-- [dictionary_v6_2.json](/Users/avialle/dev/minidico/dictionary_v6_2.json)
-- [forms_v6_2.txt](/Users/avialle/dev/minidico/forms_v6_2.txt)
+- [wordlist_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/wordlist_v6_2.txt)
+- [dictionary_v6_2.json](/Users/avialle/dev/minidico/versions/v6_2/dictionary_v6_2.json)
+- [forms_v6_2.txt](/Users/avialle/dev/minidico/versions/v6_2/forms_v6_2.txt)
 
 ## Validation stricte
 
