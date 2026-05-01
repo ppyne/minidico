@@ -1,0 +1,55 @@
+{
+  "invalid_tokens_in_tests": [],
+  "suggested_words_for_next": [
+    {
+      "mot": "rouge",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "bleu",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "vert",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "jaune",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "noir",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "blanc",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "gris",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "brun",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "rose",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "orange",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    }
+  ]
+}

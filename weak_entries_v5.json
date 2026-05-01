@@ -1,0 +1,3152 @@
+[
+  {
+    "word": "de",
+    "category": "grammaire",
+    "definition": "mot pour montrer une relation entre chose personne action ou partie",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "du",
+    "category": "grammaire",
+    "definition": "article de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "à",
+    "category": "grammaire",
+    "definition": "mot pour direction ou relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "au",
+    "category": "grammaire",
+    "definition": "article avec à",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "aux",
+    "category": "grammaire",
+    "definition": "article avec à",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "il",
+    "category": "grammaire",
+    "definition": "pronom pour homme",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "elle",
+    "category": "grammaire",
+    "definition": "pronom pour femme",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "que",
+    "category": "grammaire",
+    "definition": "mot pour relation de phrase",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "où",
+    "category": "grammaire",
+    "definition": "mot pour demander un lieu",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "y",
+    "category": "grammaire",
+    "definition": "pronom pour lieu",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "en",
+    "category": "grammaire",
+    "definition": "pronom ou mot pour intérieur",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pas",
+    "category": "grammaire",
+    "definition": "mot pour dire non dans une phrase",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "plus",
+    "category": "grammaire",
+    "definition": "mot pour quantité ou pour fin de une action",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "jamais",
+    "category": "grammaire",
+    "definition": "à aucun moment",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rien",
+    "category": "grammaire",
+    "definition": "pas une chose",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tout",
+    "category": "grammaire",
+    "definition": "chose entier",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "toute",
+    "category": "grammaire",
+    "definition": "chose entier",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tous",
+    "category": "grammaire",
+    "definition": "groupe entier",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "toutes",
+    "category": "grammaire",
+    "definition": "groupe entier",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chaque",
+    "category": "grammaire",
+    "definition": "un par un",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "aucun",
+    "category": "grammaire",
+    "definition": "pas un",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "même",
+    "category": "grammaire",
+    "definition": "sans différence",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "si",
+    "category": "grammaire",
+    "definition": "mot pour une chose possible",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "quand",
+    "category": "grammaire",
+    "definition": "mot pour demander un temps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "comme",
+    "category": "grammaire",
+    "definition": "mot pour comparer ou montrer une manière",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "car",
+    "category": "grammaire",
+    "definition": "mot pour une raison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "donc",
+    "category": "grammaire",
+    "definition": "mot pour montrer un effet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ou",
+    "category": "grammaire",
+    "definition": "mot pour montrer un choix entre une chose et une autre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mais",
+    "category": "grammaire",
+    "definition": "mot pour montrer une différence",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "et",
+    "category": "grammaire",
+    "definition": "mot pour mettre ensemble",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ni",
+    "category": "grammaire",
+    "definition": "mot pour mettre ensemble avec pas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "puis",
+    "category": "grammaire",
+    "definition": "après ce",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "très",
+    "category": "grammaire",
+    "definition": "mot pour plus",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "trop",
+    "category": "grammaire",
+    "definition": "plus que assez",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "peu",
+    "category": "grammaire",
+    "definition": "petit quantité",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "beaucoup",
+    "category": "grammaire",
+    "definition": "grand quantité",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "oui",
+    "category": "grammaire",
+    "definition": "mot pour réponse bon",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "non",
+    "category": "grammaire",
+    "definition": "mot pour réponse mauvais",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ici",
+    "category": "grammaire",
+    "definition": "dans ce lieu",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "aujourd’hui",
+    "category": "grammaire",
+    "definition": "dans ce jour",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "toujours",
+    "category": "grammaire",
+    "definition": "dans tout temps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "déjà",
+    "category": "grammaire",
+    "definition": "avant maintenant",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "comment",
+    "category": "grammaire",
+    "definition": "mot pour demander une manière",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pourquoi",
+    "category": "grammaire",
+    "definition": "mot pour demander une raison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "parce",
+    "category": "grammaire",
+    "definition": "mot pour commencer une raison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "par",
+    "category": "grammaire",
+    "definition": "mot pour moyen cause ou chemin",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "avec",
+    "category": "grammaire",
+    "definition": "mot pour relation de groupe ou de moyen",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "sans",
+    "category": "grammaire",
+    "definition": "pas avec",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vers",
+    "category": "grammaire",
+    "definition": "dans une direction",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "hors",
+    "category": "grammaire",
+    "definition": "pas dans",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "jusque",
+    "category": "grammaire",
+    "definition": "avant une fin",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pendant",
+    "category": "grammaire",
+    "definition": "dans un temps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "afin",
+    "category": "grammaire",
+    "definition": "pour un but",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "savoir",
+    "category": "verbe",
+    "definition": "avoir une information",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "falloir",
+    "category": "verbe",
+    "definition": "être un besoin",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "entrer",
+    "category": "verbe",
+    "definition": "aller dans intérieur",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "répondre",
+    "category": "verbe",
+    "definition": "dire une réponse",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mourir",
+    "category": "verbe",
+    "definition": "finir la vie",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ouvrir",
+    "category": "verbe",
+    "definition": "rendre ouvert",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fermer",
+    "category": "verbe",
+    "definition": "rendre fermé",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chercher",
+    "category": "verbe",
+    "definition": "vouloir trouver",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "regarder",
+    "category": "verbe",
+    "definition": "voir de près",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bouger",
+    "category": "verbe",
+    "definition": "avoir un mouvement",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "perdre",
+    "category": "verbe",
+    "definition": "ne plus avoir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "monter",
+    "category": "verbe",
+    "definition": "aller vers haut",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "descendre",
+    "category": "verbe",
+    "definition": "aller vers bas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lever",
+    "category": "verbe",
+    "definition": "mettre plus haut",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "marcher",
+    "category": "verbe",
+    "definition": "aller avec jambe",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "créer",
+    "category": "verbe",
+    "definition": "faire exister",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "apprendre",
+    "category": "verbe",
+    "definition": "recevoir une information",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "enseigner",
+    "category": "verbe",
+    "definition": "donner une information",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "décider",
+    "category": "verbe",
+    "definition": "faire un choix",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "préparer",
+    "category": "verbe",
+    "definition": "faire être prêt",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rendre",
+    "category": "verbe",
+    "definition": "faire devenir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ajouter",
+    "category": "verbe",
+    "definition": "mettre en plus",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ôter",
+    "category": "verbe",
+    "definition": "prendre une partie",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "remplir",
+    "category": "verbe",
+    "definition": "rendre plein",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "gens",
+    "category": "nom",
+    "definition": "groupe de personne",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "enfant",
+    "category": "nom",
+    "definition": "personne jeune",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bras",
+    "category": "nom",
+    "definition": "partie de corps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "sang",
+    "category": "nom",
+    "definition": "matière de corps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "voix",
+    "category": "nom",
+    "definition": "son pour parler",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nom",
+    "category": "nom",
+    "definition": "mot pour nommer une chose une personne ou un lieu",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "livre",
+    "category": "nom",
+    "definition": "groupe de page",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lettre",
+    "category": "nom",
+    "definition": "signe pour écrire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nombre",
+    "category": "nom",
+    "definition": "mot pour compter",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "travail",
+    "category": "nom",
+    "definition": "fait de travailler",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "argent",
+    "category": "nom",
+    "definition": "chose pour acheter",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "prix",
+    "category": "nom",
+    "definition": "nombre pour acheter",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "achat",
+    "category": "nom",
+    "definition": "fait de acheter",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vente",
+    "category": "nom",
+    "definition": "fait de vendre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "jeu",
+    "category": "nom",
+    "definition": "fait de jouer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "matin",
+    "category": "nom",
+    "definition": "début de jour",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "heure",
+    "category": "nom",
+    "definition": "partie de temps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fois",
+    "category": "nom",
+    "definition": "un moment",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "moment",
+    "category": "nom",
+    "definition": "partie de temps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mort",
+    "category": "nom",
+    "definition": "fin de vie",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "terre",
+    "category": "nom",
+    "definition": "partie de monde",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ciel",
+    "category": "nom",
+    "definition": "haut de monde",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "soleil",
+    "category": "nom",
+    "definition": "grand lumière",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "air",
+    "category": "nom",
+    "definition": "chose pour vivre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "eau",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "feu",
+    "category": "nom",
+    "definition": "chaleur et lumière",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vent",
+    "category": "nom",
+    "definition": "air qui bouger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pluie",
+    "category": "nom",
+    "definition": "eau qui tomber",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mer",
+    "category": "nom",
+    "definition": "grand eau",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "herbe",
+    "category": "nom",
+    "definition": "plante petit",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "maison",
+    "category": "nom",
+    "definition": "lieu pour vivre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mur",
+    "category": "nom",
+    "definition": "partie de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lit",
+    "category": "nom",
+    "definition": "objet pour dormir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "papier",
+    "category": "nom",
+    "definition": "matière pour écrire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ombre",
+    "category": "nom",
+    "definition": "place sans lumière",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "intérieur",
+    "category": "nom",
+    "definition": "partie de dans",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "extérieur",
+    "category": "nom",
+    "definition": "partie de hors",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "but",
+    "category": "nom",
+    "definition": "fin de vouloir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "faute",
+    "category": "nom",
+    "definition": "mauvais fait",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vérité",
+    "category": "nom",
+    "definition": "information vrai",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ordre",
+    "category": "nom",
+    "definition": "mot pour demander une action",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "paix",
+    "category": "nom",
+    "definition": "état sans guerre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "avenir",
+    "category": "nom",
+    "definition": "temps après maintenant",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "passé",
+    "category": "nom",
+    "definition": "temps avant maintenant",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "présent",
+    "category": "nom",
+    "definition": "temps de maintenant",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "naissance",
+    "category": "nom",
+    "definition": "début de vie",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "école",
+    "category": "nom",
+    "definition": "lieu pour apprendre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pain",
+    "category": "nom",
+    "definition": "chose à manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "large",
+    "category": "adjectif",
+    "definition": "grand de côté",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "libre",
+    "category": "adjectif",
+    "definition": "sans règle proche",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ouvert",
+    "category": "adjectif",
+    "definition": "pas fermé",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fermé",
+    "category": "adjectif",
+    "definition": "pas ouvert",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vivant",
+    "category": "adjectif",
+    "definition": "qui avoir vie",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mortel",
+    "category": "adjectif",
+    "definition": "qui pouvoir mourir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "privé",
+    "category": "adjectif",
+    "definition": "pas public",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "inutile",
+    "category": "adjectif",
+    "definition": "sans usage utile",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "certain",
+    "category": "adjectif",
+    "definition": "très vrai",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "différent",
+    "category": "adjectif",
+    "definition": "pas le même",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lointain",
+    "category": "adjectif",
+    "definition": "très loin",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mouvement",
+    "category": "nom",
+    "definition": "fait de bouger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "espace",
+    "category": "nom",
+    "definition": "grand lieu",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "contact",
+    "category": "nom",
+    "definition": "fait de toucher",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "point",
+    "category": "nom",
+    "definition": "très petit lieu",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "état",
+    "category": "nom",
+    "definition": "manière de être",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "quantité",
+    "category": "nom",
+    "definition": "nombre de chose",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "devenir",
+    "category": "verbe",
+    "definition": "commencer à être",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "signifier",
+    "category": "verbe",
+    "definition": "avoir un sens",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "émotion",
+    "category": "nom",
+    "definition": "sentiment fort",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "grandir",
+    "category": "verbe",
+    "definition": "devenir plus grand",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nommer",
+    "category": "verbe",
+    "definition": "donner un nom",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "article",
+    "category": "nom",
+    "definition": "mot simple avant un nom",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "verbe",
+    "category": "nom",
+    "definition": "mot pour dire une action un état ou une relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "adjectif",
+    "category": "nom",
+    "definition": "mot pour dire une qualité ou un état de une chose",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bonjour",
+    "category": "grammaire",
+    "definition": "mot pour parler à une personne au début de un jour",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "merci",
+    "category": "grammaire",
+    "definition": "mot pour dire à une personne que on voir un bon effet de une action",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pardon",
+    "category": "grammaire",
+    "definition": "mot pour demander paix après une erreur ou un mal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "faim",
+    "category": "nom",
+    "definition": "besoin de manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "soif",
+    "category": "nom",
+    "definition": "besoin de boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "respiration",
+    "category": "nom",
+    "definition": "action de respirer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "saigner",
+    "category": "verbe",
+    "definition": "rendre sang",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "père",
+    "category": "nom",
+    "definition": "parent homme",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mère",
+    "category": "nom",
+    "definition": "parent femme",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "test",
+    "category": "nom",
+    "definition": "examen simple pour avoir un résultat",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "foie",
+    "category": "nom",
+    "definition": "organe de ventre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nausée",
+    "category": "nom",
+    "definition": "envie de vomir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "saignement",
+    "category": "nom",
+    "definition": "action de saigner",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "inconscient",
+    "category": "adjectif",
+    "definition": "sans conscience",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "paiement",
+    "category": "nom",
+    "definition": "action de payer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "reçu",
+    "category": "nom",
+    "definition": "preuve de paiement",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "conseil",
+    "category": "nom",
+    "definition": "mot pour aider une décision",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "jugement",
+    "category": "nom",
+    "definition": "décision de justice",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "attestation",
+    "category": "nom",
+    "definition": "document de preuve",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "épargne",
+    "category": "nom",
+    "definition": "argent pour après",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "antidouleur",
+    "category": "nom",
+    "definition": "médicament contre douleur",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "psychologue",
+    "category": "nom",
+    "definition": "personne qui aider par mot pour problème de esprit",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rouge",
+    "category": "adjectif",
+    "definition": "couleur comme sang",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bleu",
+    "category": "adjectif",
+    "definition": "couleur comme ciel",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vert",
+    "category": "adjectif",
+    "definition": "couleur comme herbe",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "jaune",
+    "category": "adjectif",
+    "definition": "couleur comme soleil",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "noir",
+    "category": "adjectif",
+    "definition": "couleur très sombre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "blanc",
+    "category": "adjectif",
+    "definition": "couleur simple de neige ou de nuage",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "midi",
+    "category": "nom",
+    "definition": "milieu de jour",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "minuit",
+    "category": "nom",
+    "definition": "milieu de nuit",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mois",
+    "category": "nom",
+    "definition": "partie de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "été",
+    "category": "nom",
+    "definition": "saison de chaleur",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "hiver",
+    "category": "nom",
+    "definition": "saison de froid",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "janvier",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "février",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mars",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "avril",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mai",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "juin",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "juillet",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "août",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "septembre",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "octobre",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "novembre",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "décembre",
+    "category": "nom",
+    "definition": "mois de année",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "week-end",
+    "category": "nom",
+    "definition": "fin de semaine",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "horaire-public",
+    "category": "nom",
+    "definition": "chose de temps",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nord",
+    "category": "nom",
+    "definition": "direction de carte",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "sud",
+    "category": "nom",
+    "definition": "direction de carte",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "entrée",
+    "category": "nom",
+    "definition": "lieu pour entrer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "sortie",
+    "category": "nom",
+    "definition": "lieu pour sortir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "orage",
+    "category": "nom",
+    "definition": "chose de météo",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "paysage",
+    "category": "nom",
+    "definition": "ensemble de lieu",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "grotte",
+    "category": "nom",
+    "definition": "lieu dans rocher",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "torrent",
+    "category": "nom",
+    "definition": "rivière très rapide",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "dune",
+    "category": "nom",
+    "definition": "colline de sable",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "zéro",
+    "category": "nom",
+    "definition": "nombre avant un",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "deux",
+    "category": "nom",
+    "definition": "nombre après un",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "trois",
+    "category": "nom",
+    "definition": "nombre après deux",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "quatre",
+    "category": "nom",
+    "definition": "nombre après trois",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cinq",
+    "category": "nom",
+    "definition": "nombre après quatre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "six",
+    "category": "nom",
+    "definition": "nombre après cinq",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "sept",
+    "category": "nom",
+    "definition": "nombre après six",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "huit",
+    "category": "nom",
+    "definition": "nombre après sept",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "neuf",
+    "category": "nom",
+    "definition": "nombre après huit",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "dix",
+    "category": "nom",
+    "definition": "nombre après neuf",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "onze",
+    "category": "nom",
+    "definition": "nombre après dix",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "douze",
+    "category": "nom",
+    "definition": "nombre après onze",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "treize",
+    "category": "nom",
+    "definition": "nombre après douze",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "quatorze",
+    "category": "nom",
+    "definition": "nombre après treize",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "quinze",
+    "category": "nom",
+    "definition": "nombre après quatorze",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "seize",
+    "category": "nom",
+    "definition": "nombre après quinze",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vingt",
+    "category": "nom",
+    "definition": "nombre après seize",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cent",
+    "category": "nom",
+    "definition": "dix fois dix",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mille",
+    "category": "nom",
+    "definition": "dix fois cent",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "unité",
+    "category": "nom",
+    "definition": "une chose simple pour mesurer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mètre",
+    "category": "nom",
+    "definition": "unité de longueur",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "kilomètre",
+    "category": "nom",
+    "definition": "mille mètre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "kilogramme",
+    "category": "nom",
+    "definition": "mille gramme",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "degré",
+    "category": "nom",
+    "definition": "unité pour température",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "hauteur",
+    "category": "nom",
+    "definition": "mesure de haut",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "largeur",
+    "category": "nom",
+    "definition": "mesure de large",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "longueur",
+    "category": "nom",
+    "definition": "mesure de long",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "moins",
+    "category": "nom",
+    "definition": "chose de nombre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "proportion",
+    "category": "nom",
+    "definition": "relation simple entre deux quantité",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "additionner",
+    "category": "verbe",
+    "definition": "faire une addition",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "soustraire",
+    "category": "verbe",
+    "definition": "faire une soustraction",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "diviser",
+    "category": "verbe",
+    "definition": "faire une division",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "multiplier",
+    "category": "verbe",
+    "definition": "faire une multiplication",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "insecte",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "espèce",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nid",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "œuf",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "branche",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fruit",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "graine",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tronc",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bois",
+    "category": "nom",
+    "definition": "matière de arbre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "légume",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "champignon",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bambou",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pin",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vigne",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "roseau",
+    "category": "nom",
+    "definition": "plante",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vache",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mouton",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lapin",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "taureau",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "coq",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chaton",
+    "category": "nom",
+    "definition": "petit de chat",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chiot",
+    "category": "nom",
+    "definition": "petit de chien",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "renard",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tigre",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "éléphant",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "zèbre",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "girafe",
+    "category": "nom",
+    "definition": "animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "hibou",
+    "category": "nom",
+    "definition": "oiseau de nuit",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "corbeau",
+    "category": "nom",
+    "definition": "oiseau noir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "abeille",
+    "category": "nom",
+    "definition": "petit animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mouche",
+    "category": "nom",
+    "definition": "petit animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "moustique",
+    "category": "nom",
+    "definition": "petit animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "papillon",
+    "category": "nom",
+    "definition": "petit animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "libellule",
+    "category": "nom",
+    "definition": "petit animal",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "crabe",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "coquillage",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "dauphin",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "méduse",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "huître",
+    "category": "nom",
+    "definition": "coquillage de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "truite",
+    "category": "nom",
+    "definition": "poisson de rivière",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "corail",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "savane",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "jungle",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "écorce",
+    "category": "nom",
+    "definition": "peau de arbre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "plume",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "aile",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "corne",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "queue",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bec",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ruche",
+    "category": "nom",
+    "definition": "maison de abeille",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "parc",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "réserve",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mousse",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "écureuil",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "souris-animal",
+    "category": "nom",
+    "definition": "petit animal gris",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "coquille",
+    "category": "nom",
+    "definition": "chose de nature",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pomme",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "poire",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "banane",
+    "category": "nom",
+    "definition": "fruit long jaune",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "raisin",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tomate",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "carotte",
+    "category": "nom",
+    "definition": "légume long orange",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pomme-de-terre",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "salade",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "oignon",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ail",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fraise",
+    "category": "nom",
+    "definition": "petit fruit rouge",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "melon",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pastèque",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "haricot",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pois",
+    "category": "nom",
+    "definition": "chose pour manger",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "courgette",
+    "category": "nom",
+    "definition": "légume vert long",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "café",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "thé",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "jus",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vin",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bière",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "alcool",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "sirop",
+    "category": "nom",
+    "definition": "chose pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mélanger",
+    "category": "verbe",
+    "definition": "faire en cuisine",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "verser",
+    "category": "verbe",
+    "definition": "faire en cuisine",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mordre",
+    "category": "verbe",
+    "definition": "prendre avec dent",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "éplucher",
+    "category": "verbe",
+    "definition": "faire en cuisine",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chauffer",
+    "category": "verbe",
+    "definition": "rendre plus chaud",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "assiette",
+    "category": "nom",
+    "definition": "chose de repas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "verre",
+    "category": "nom",
+    "definition": "objet pour boire",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bol",
+    "category": "nom",
+    "definition": "chose de repas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "couteau",
+    "category": "nom",
+    "definition": "outil pour couper",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cuillère",
+    "category": "nom",
+    "definition": "chose de repas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bouteille",
+    "category": "nom",
+    "definition": "chose de repas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nappe",
+    "category": "nom",
+    "definition": "chose de repas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "serviette",
+    "category": "nom",
+    "definition": "chose de repas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "menu",
+    "category": "nom",
+    "definition": "chose de repas",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "goût",
+    "category": "nom",
+    "definition": "chose de bouche",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cru",
+    "category": "adjectif",
+    "definition": "pas cuit",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cuit",
+    "category": "adjectif",
+    "definition": "pour goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "épicé",
+    "category": "adjectif",
+    "definition": "pour goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "doux",
+    "category": "adjectif",
+    "definition": "pour goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "yaourt",
+    "category": "nom",
+    "definition": "chose de goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "gâteau",
+    "category": "nom",
+    "definition": "chose de goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "miel",
+    "category": "nom",
+    "definition": "chose de goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "confiture",
+    "category": "nom",
+    "definition": "fruit sucré cuit",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "épice",
+    "category": "nom",
+    "definition": "chose de goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "graisse",
+    "category": "nom",
+    "definition": "chose de goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pâtisserie",
+    "category": "nom",
+    "definition": "chose de goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "omelette",
+    "category": "nom",
+    "definition": "plat de œuf",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vinaigre",
+    "category": "nom",
+    "definition": "chose de goût",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cerise",
+    "category": "nom",
+    "definition": "petit fruit rouge",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "abricot",
+    "category": "nom",
+    "definition": "fruit orange doux",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "noix",
+    "category": "nom",
+    "definition": "fruit sec dur",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "véhicule",
+    "category": "nom",
+    "definition": "objet pour transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "camion",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bateau",
+    "category": "nom",
+    "definition": "véhicule sur eau",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "avion",
+    "category": "nom",
+    "definition": "véhicule dans ciel",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "navire",
+    "category": "nom",
+    "definition": "grand bateau",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ambulance",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "gare",
+    "category": "nom",
+    "definition": "lieu de train",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "port",
+    "category": "nom",
+    "definition": "lieu pour bateau",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "aéroport",
+    "category": "nom",
+    "definition": "lieu pour avion",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pont",
+    "category": "nom",
+    "definition": "lieu de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bagage",
+    "category": "nom",
+    "definition": "chose de trajet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "valise",
+    "category": "nom",
+    "definition": "chose de trajet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "avance",
+    "category": "nom",
+    "definition": "chose de trajet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "correspondance",
+    "category": "nom",
+    "definition": "chose de trajet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "retour",
+    "category": "nom",
+    "definition": "chose de trajet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "voile",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rame",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "phare",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cabine",
+    "category": "nom",
+    "definition": "chose de mer",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "autoroute",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "piste",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rail",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "wagon",
+    "category": "nom",
+    "definition": "partie de train",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "moteur",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "roue",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "essence",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "frein",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "casque",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "ceinture",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "camping",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "auberge",
+    "category": "nom",
+    "definition": "lieu simple pour dormir pendant voyage",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "réservation",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "place-assise",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "atterrissage",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "décollage",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "portail",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "boussole",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "passager",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "passeur",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "retour-voyage",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cabine-pilotage",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "port-bagage",
+    "category": "nom",
+    "definition": "lieu pour bagage",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "remorque",
+    "category": "nom",
+    "definition": "chose de transport",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "piste-cyclable",
+    "category": "nom",
+    "definition": "voie pour vélo",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "atome",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "liquide",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "électricité",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "magnétique",
+    "category": "adjectif",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "observer",
+    "category": "nom",
+    "definition": "chose pour science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lunette",
+    "category": "nom",
+    "definition": "chose pour science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "théorie",
+    "category": "nom",
+    "definition": "chose pour science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "échantillon",
+    "category": "nom",
+    "definition": "chose pour science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "thermomètre",
+    "category": "nom",
+    "definition": "instrument pour température",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "baromètre",
+    "category": "nom",
+    "definition": "instrument pour pression",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "balance",
+    "category": "nom",
+    "definition": "instrument pour poids",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "métal",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cuivre",
+    "category": "nom",
+    "definition": "métal rouge brun",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fer",
+    "category": "nom",
+    "definition": "métal gris fort",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "acier",
+    "category": "nom",
+    "definition": "métal très fort",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "plastique",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "verre-matière",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "poussière",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "flamme",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fumée",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "vapeur",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cristal",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rotation",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "révolution",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mesure-temps",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "signal-science",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "champ-magnétique",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "réaction",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "densité",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "courant-électrique",
+    "category": "nom",
+    "definition": "mouvement de électricité",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "particule",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "thermique",
+    "category": "nom",
+    "definition": "chose de science",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "dessin",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "dessiner",
+    "category": "verbe",
+    "definition": "faire un dessin",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "peinture",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "peindre",
+    "category": "verbe",
+    "definition": "faire une peinture",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tableau",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "photo",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "cadre",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "sculpture",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "croquis",
+    "category": "nom",
+    "definition": "dessin rapide",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "toile",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "exposition",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rythme",
+    "category": "nom",
+    "definition": "chose de musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chanson",
+    "category": "nom",
+    "definition": "texte avec musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "mélodie",
+    "category": "nom",
+    "definition": "chose de musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "harmonie",
+    "category": "nom",
+    "definition": "chose de musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "piano",
+    "category": "nom",
+    "definition": "chose de musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "guitare",
+    "category": "nom",
+    "definition": "chose de musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "violon",
+    "category": "nom",
+    "definition": "chose de musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tambour",
+    "category": "nom",
+    "definition": "chose de musique",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "conte",
+    "category": "nom",
+    "definition": "chose de texte",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chapitre",
+    "category": "nom",
+    "definition": "chose de texte",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "paragraphe",
+    "category": "nom",
+    "definition": "chose de texte",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "acteur",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "costume",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "masque",
+    "category": "nom",
+    "definition": "objet devant visage",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "style",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "beauté",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "création",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "forme-art",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fiction",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "récit",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "édition",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "publication",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "bande-dessinée",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "illustration",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chant",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "refrain",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "couplet",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "micro",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "improvisation",
+    "category": "nom",
+    "definition": "chose de art",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "amitié",
+    "category": "nom",
+    "definition": "chose de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "message",
+    "category": "nom",
+    "definition": "chose de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "conversation",
+    "category": "nom",
+    "definition": "chose de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "respect",
+    "category": "nom",
+    "definition": "chose de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "conflit",
+    "category": "nom",
+    "definition": "chose de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "surprise",
+    "category": "nom",
+    "definition": "chose de émotion",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "colère",
+    "category": "nom",
+    "definition": "chose de émotion",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fierté",
+    "category": "nom",
+    "definition": "chose de émotion",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "espoir",
+    "category": "nom",
+    "definition": "chose de émotion",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "doute",
+    "category": "nom",
+    "definition": "chose de émotion",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "inquiétude",
+    "category": "nom",
+    "definition": "chose de émotion",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "précis",
+    "category": "adjectif",
+    "definition": "mot simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "réel",
+    "category": "adjectif",
+    "definition": "mot simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "imaginaire",
+    "category": "adjectif",
+    "definition": "mot simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "complet",
+    "category": "adjectif",
+    "definition": "mot simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "partiel",
+    "category": "adjectif",
+    "definition": "pas complet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "principal",
+    "category": "adjectif",
+    "definition": "le plus important",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nécessaire",
+    "category": "adjectif",
+    "definition": "mot simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "probable",
+    "category": "adjectif",
+    "definition": "mot simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "fréquent",
+    "category": "adjectif",
+    "definition": "qui venir souvent",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "pièce",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chambre",
+    "category": "nom",
+    "definition": "pièce pour dormir",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "salon",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "salle",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "toilette",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "linge",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "chaussure",
+    "category": "nom",
+    "definition": "objet pour pied",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "rideau",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "plafond",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "tapis",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "armoire",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "étagère",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lampe",
+    "category": "nom",
+    "definition": "objet pour lumière",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "prise",
+    "category": "nom",
+    "definition": "objet pour électricité",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "savon",
+    "category": "nom",
+    "definition": "chose pour laver",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "serviette-bain",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lessive",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "poubelle",
+    "category": "nom",
+    "definition": "objet pour déchet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "déchet",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "nettoyer",
+    "category": "verbe",
+    "definition": "rendre propre",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "courriel",
+    "category": "nom",
+    "definition": "autre mot pour mail",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "page-web",
+    "category": "nom",
+    "definition": "page sur internet",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "dossier-numérique",
+    "category": "nom",
+    "definition": "groupe de fichier",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "habitude",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "routine",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "préférence",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "objectif",
+    "category": "nom",
+    "definition": "but précis",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "progrès",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "échec",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "succès",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "motivation",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "silence",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "parfum",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "odeur",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "coussin",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "lavage",
+    "category": "nom",
+    "definition": "action de laver",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "placard",
+    "category": "nom",
+    "definition": "chose de maison",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "discussion",
+    "category": "nom",
+    "definition": "chose de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "désaccord",
+    "category": "nom",
+    "definition": "chose de relation",
+    "reason": "definition courte ou méta-linguistique"
+  },
+  {
+    "word": "présence",
+    "category": "nom",
+    "definition": "chose simple",
+    "reason": "definition courte ou méta-linguistique"
+  }
+]

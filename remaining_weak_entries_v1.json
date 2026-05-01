@@ -1,0 +1,3885 @@
+[
+  {
+    "word": "femme",
+    "categorie": "nom",
+    "definition_v1": "personne autre que homme",
+    "issues": [
+      "contrastive_definition_family",
+      "indirect_cycle",
+      "mutual_definition_pair",
+      "semantic_precision_still_limited"
+    ],
+    "severity": 8,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "homme",
+    "categorie": "nom",
+    "definition_v1": "personne autre que femme",
+    "issues": [
+      "contrastive_definition_family",
+      "indirect_cycle",
+      "mutual_definition_pair",
+      "semantic_precision_still_limited"
+    ],
+    "severity": 8,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "mal",
+    "categorie": "grammaire",
+    "definition_v1": "de manière mauvais",
+    "issues": [
+      "contrastive_definition_family",
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 5,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "loin",
+    "categorie": "grammaire",
+    "definition_v1": "avec grand distance",
+    "issues": [
+      "contrastive_definition_family",
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 5,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "haut",
+    "categorie": "adjectif",
+    "definition_v1": "avec place vers ciel",
+    "issues": [
+      "contrastive_definition_family",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 7,
+    "cycle_size": 194,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "proche",
+    "categorie": "adjectif",
+    "definition_v1": "avec peu de distance",
+    "issues": [
+      "contrastive_definition_family",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 7,
+    "cycle_size": 194,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "mauvais",
+    "categorie": "adjectif",
+    "definition_v1": "avec effet de mal ou de problème",
+    "issues": [
+      "contrastive_definition_family",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "bien",
+    "categorie": "grammaire",
+    "definition_v1": "de manière bon",
+    "issues": [
+      "contrastive_definition_family",
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 3,
+    "cycle_size": 3,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "vrai",
+    "categorie": "adjectif",
+    "definition_v1": "avec vérité",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle",
+      "semantic_precision_still_limited"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 3,
+    "cycle_size": 2,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "rapide",
+    "categorie": "adjectif",
+    "definition_v1": "pas lent",
+    "issues": [
+      "contrastive_definition_family",
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "lent",
+    "categorie": "adjectif",
+    "definition_v1": "pas rapide",
+    "issues": [
+      "contrastive_definition_family",
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "rewrite again"
+  },
+  {
+    "word": "de",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour relation",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 174,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ou",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour choix",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 127,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "faire",
+    "categorie": "verbe",
+    "definition_v1": "produire une action",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 42,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "action",
+    "categorie": "nom",
+    "definition_v1": "fait de faire",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 30,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sans",
+    "categorie": "grammaire",
+    "definition_v1": "pas avec",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 17,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "peu",
+    "categorie": "grammaire",
+    "definition_v1": "petit quantité",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 13,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "beaucoup",
+    "categorie": "grammaire",
+    "definition_v1": "grand quantité",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 12,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vers",
+    "categorie": "grammaire",
+    "definition_v1": "dans une direction",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 10,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "état",
+    "categorie": "nom",
+    "definition_v1": "manière de être",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 10,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "bon",
+    "categorie": "adjectif",
+    "definition_v1": "avec qualité utile ou de bien",
+    "issues": [
+      "contrastive_definition_family",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 7,
+    "cycle_size": 3,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "intérieur",
+    "categorie": "nom",
+    "definition_v1": "partie de dans",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "même",
+    "categorie": "grammaire",
+    "definition_v1": "sans différence",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "bas",
+    "categorie": "adjectif",
+    "definition_v1": "avec place vers sol",
+    "issues": [
+      "contrastive_definition_family",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 5,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "devenir",
+    "categorie": "verbe",
+    "definition_v1": "commencer à être",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "elle",
+    "categorie": "grammaire",
+    "definition_v1": "pronom pour femme",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "moment",
+    "categorie": "nom",
+    "definition_v1": "partie de temps",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "nombre",
+    "categorie": "nom",
+    "definition_v1": "mot pour compter",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "but",
+    "categorie": "nom",
+    "definition_v1": "fin de vouloir",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "il",
+    "categorie": "grammaire",
+    "definition_v1": "pronom pour homme",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "quantité",
+    "categorie": "nom",
+    "definition_v1": "nombre de chose",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "tout",
+    "categorie": "grammaire",
+    "definition_v1": "chose entier",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vivant",
+    "categorie": "adjectif",
+    "definition_v1": "qui avoir vie",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "fois",
+    "categorie": "nom",
+    "definition_v1": "un moment",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "hors",
+    "categorie": "grammaire",
+    "definition_v1": "pas dans",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "très",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour plus",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "voix",
+    "categorie": "nom",
+    "definition_v1": "son pour parler",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "au",
+    "categorie": "grammaire",
+    "definition_v1": "article avec à",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "contact",
+    "categorie": "nom",
+    "definition_v1": "fait de toucher",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "différent",
+    "categorie": "adjectif",
+    "definition_v1": "pas le même",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "du",
+    "categorie": "grammaire",
+    "definition_v1": "article de relation",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "point",
+    "categorie": "nom",
+    "definition_v1": "très petit lieu",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "aucun",
+    "categorie": "grammaire",
+    "definition_v1": "pas un",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ciel",
+    "categorie": "nom",
+    "definition_v1": "haut de monde",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "enfant",
+    "categorie": "nom",
+    "definition_v1": "personne jeune",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "espace",
+    "categorie": "nom",
+    "definition_v1": "grand lieu",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "jamais",
+    "categorie": "grammaire",
+    "definition_v1": "à aucun moment",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "livre",
+    "categorie": "nom",
+    "definition_v1": "groupe de page",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "nommer",
+    "categorie": "verbe",
+    "definition_v1": "donner un nom",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "présent",
+    "categorie": "nom",
+    "definition_v1": "temps de maintenant",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "rien",
+    "categorie": "grammaire",
+    "definition_v1": "pas une chose",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "répondre",
+    "categorie": "verbe",
+    "definition_v1": "dire une réponse",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "savoir",
+    "categorie": "verbe",
+    "definition_v1": "avoir une information",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "toute",
+    "categorie": "grammaire",
+    "definition_v1": "chose entier",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "toutes",
+    "categorie": "grammaire",
+    "definition_v1": "groupe entier",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "certain",
+    "categorie": "adjectif",
+    "definition_v1": "très vrai",
+    "issues": [
+      "definition_still_short",
+      "semantic_precision_still_limited"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "libre",
+    "categorie": "adjectif",
+    "definition_v1": "sans règle proche",
+    "issues": [
+      "definition_still_short",
+      "semantic_precision_still_limited"
+    ],
+    "severity": 3,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "une",
+    "categorie": "grammaire",
+    "definition_v1": "article pour un nom de chose ou de personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 146,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pour",
+    "categorie": "grammaire",
+    "definition_v1": "mot de but ou de fonction",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 132,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "chose",
+    "categorie": "nom",
+    "definition_v1": "objet ou partie qui peut exister ou faire",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 88,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "un",
+    "categorie": "grammaire",
+    "definition_v1": "article pour une chose ou une personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 80,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "avec",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour relation de groupe ou de moyen",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 64,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "dans",
+    "categorie": "grammaire",
+    "definition_v1": "à intérieur de un lieu ou de une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 55,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "personne",
+    "categorie": "nom",
+    "definition_v1": "homme femme ou enfant",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 48,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "partie",
+    "categorie": "nom",
+    "definition_v1": "chose dans un ensemble",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 47,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mot",
+    "categorie": "nom",
+    "definition_v1": "signe de langue avec un sens",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 46,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "à",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour direction ou relation",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 33,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "lieu",
+    "categorie": "nom",
+    "definition_v1": "place dans le monde",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 31,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "temps",
+    "categorie": "nom",
+    "definition_v1": "ensemble de moment entre avant et après",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 31,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "être",
+    "categorie": "verbe",
+    "definition_v1": "verbe pour exister ou pour dire un état",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 31,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "article",
+    "categorie": "nom",
+    "definition_v1": "mot simple avant un nom",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 27,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "autre",
+    "categorie": "grammaire",
+    "definition_v1": "différent de ce qui est là",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 27,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "dire",
+    "categorie": "verbe",
+    "definition_v1": "communiquer par mot ou par voix",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 27,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "que",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour relation de phrase",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 26,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "qui",
+    "categorie": "grammaire",
+    "definition_v1": "pronom pour personne ou chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 26,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pronom",
+    "categorie": "nom",
+    "definition_v1": "mot qui prendre la place de un nom",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 21,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "aller",
+    "categorie": "verbe",
+    "definition_v1": "changer de place vers un autre lieu",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 20,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "le",
+    "categorie": "grammaire",
+    "definition_v1": "article avant un nom",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 20,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "et",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour mettre ensemble",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 19,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "groupe",
+    "categorie": "nom",
+    "definition_v1": "ensemble de personne ou de chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 19,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pas",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour dire non dans une phrase",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 18,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "corps",
+    "categorie": "nom",
+    "definition_v1": "ensemble de partie de une personne ou de un animal",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 16,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "grand",
+    "categorie": "adjectif",
+    "definition_v1": "avec beaucoup de taille",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 16,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "place",
+    "categorie": "nom",
+    "definition_v1": "partie de lieu pour une chose ou une personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 16,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "appartenir",
+    "categorie": "verbe",
+    "definition_v1": "être à une personne ou à un groupe",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 15,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "avoir",
+    "categorie": "verbe",
+    "definition_v1": "verbe pour recevoir garder ou contenir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 15,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "la",
+    "categorie": "grammaire",
+    "definition_v1": "article avant un nom",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 14,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "avant",
+    "categorie": "grammaire",
+    "definition_v1": "dans le temps premier",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 13,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ce",
+    "categorie": "grammaire",
+    "definition_v1": "article ou pronom pour montrer",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 13,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "information",
+    "categorie": "nom",
+    "definition_v1": "mot ou signe qui dire une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 13,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "relation",
+    "categorie": "nom",
+    "definition_v1": "chose entre une personne ou une chose et une autre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 13,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "voir",
+    "categorie": "verbe",
+    "definition_v1": "recevoir une image par œil",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 13,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ensemble",
+    "categorie": "nom",
+    "definition_v1": "groupe de chose ou de personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 12,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "plus",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour quantité ou pour fin de une action",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 12,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "par",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour moyen cause ou chemin",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 11,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "fin",
+    "categorie": "nom",
+    "definition_v1": "dernier partie de un temps ou de une action",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 10,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "manière",
+    "categorie": "nom",
+    "definition_v1": "forme de faire une action",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 10,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "objet",
+    "categorie": "nom",
+    "definition_v1": "chose que une personne peut voir ou toucher",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 10,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "recevoir",
+    "categorie": "verbe",
+    "definition_v1": "avoir ce que une autre personne donner",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 10,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sur",
+    "categorie": "grammaire",
+    "definition_v1": "dans une place plus haut ou en contact",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 10,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "après",
+    "categorie": "grammaire",
+    "definition_v1": "dans un temps plus loin",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 9,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "donner",
+    "categorie": "verbe",
+    "definition_v1": "faire avoir une chose à une autre personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 9,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "effet",
+    "categorie": "nom",
+    "definition_v1": "ce qui venir après une cause",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 9,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "nom",
+    "categorie": "nom",
+    "definition_v1": "mot pour nommer une chose une personne ou un lieu",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 9,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "possible",
+    "categorie": "adjectif",
+    "definition_v1": "qui peut être ou devenir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 9,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sentiment",
+    "categorie": "nom",
+    "definition_v1": "état du cœur ou de esprit",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 9,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vie",
+    "categorie": "nom",
+    "definition_v1": "état de être vivant",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 9,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "eau",
+    "categorie": "nom",
+    "definition_v1": "chose pour boire",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 4,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "en",
+    "categorie": "grammaire",
+    "definition_v1": "pronom ou mot pour intérieur",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "esprit",
+    "categorie": "nom",
+    "definition_v1": "partie de personne pour penser comprendre et vouloir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mettre",
+    "categorie": "verbe",
+    "definition_v1": "placer une chose dans une place",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "montrer",
+    "categorie": "verbe",
+    "definition_v1": "faire voir ou faire savoir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "parler",
+    "categorie": "verbe",
+    "definition_v1": "communiquer par la voix",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "petit",
+    "categorie": "adjectif",
+    "definition_v1": "avec peu de taille",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "prendre",
+    "categorie": "verbe",
+    "definition_v1": "mettre une chose avec une personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 8,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "règle",
+    "categorie": "nom",
+    "definition_v1": "mot qui dire comment faire une action",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 7,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sens",
+    "categorie": "nom",
+    "definition_v1": "information ou idée de un mot ou de un signe",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 7,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "demander",
+    "categorie": "verbe",
+    "definition_v1": "dire une question ou un besoin",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "entre",
+    "categorie": "grammaire",
+    "definition_v1": "dans la relation de plus de un côté",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pouvoir",
+    "categorie": "verbe",
+    "definition_v1": "être possible pour une personne ou une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "qualité",
+    "categorie": "nom",
+    "definition_v1": "manière de être de une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "surface",
+    "categorie": "nom",
+    "definition_v1": "partie de hors de une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "taille",
+    "categorie": "nom",
+    "definition_v1": "mesure de grand ou de petit",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "usage",
+    "categorie": "nom",
+    "definition_v1": "fonction de une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 6,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "animal",
+    "categorie": "nom",
+    "definition_v1": "être vivant qui est pas une personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "argent",
+    "categorie": "nom",
+    "definition_v1": "chose pour acheter",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "côté",
+    "categorie": "nom",
+    "definition_v1": "partie de place ou de surface",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "cœur",
+    "categorie": "nom",
+    "definition_v1": "partie de corps pour vie et sentiment",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "des",
+    "categorie": "grammaire",
+    "definition_v1": "article pour un groupe",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "début",
+    "categorie": "nom",
+    "definition_v1": "premier partie de un temps ou de une action",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "fonction",
+    "categorie": "nom",
+    "definition_v1": "usage de une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "forme",
+    "categorie": "nom",
+    "definition_v1": "manière de être dans espace",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "image",
+    "categorie": "nom",
+    "definition_v1": "chose qui représenter une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "maintenant",
+    "categorie": "grammaire",
+    "definition_v1": "dans le temps présent",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mesure",
+    "categorie": "nom",
+    "definition_v1": "nombre pour dire quantité taille poids ou temps",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "monde",
+    "categorie": "nom",
+    "definition_v1": "tout lieu et toute chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "on",
+    "categorie": "grammaire",
+    "definition_v1": "pronom pour personne ou groupe sans nom",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "problème",
+    "categorie": "nom",
+    "definition_v1": "chose difficile pour une action ou une réponse",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "réponse",
+    "categorie": "nom",
+    "definition_v1": "information ou phrase pour répondre à une question",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vouloir",
+    "categorie": "verbe",
+    "definition_v1": "avoir une envie ou un but",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 5,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "changer",
+    "categorie": "verbe",
+    "definition_v1": "devenir autre ou différent",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "entier",
+    "categorie": "adjectif",
+    "definition_v1": "avec toutes les partie",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "garder",
+    "categorie": "verbe",
+    "definition_v1": "continuer à avoir ou à tenir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "idée",
+    "categorie": "nom",
+    "definition_v1": "forme de pensée dans esprit",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mouvement",
+    "categorie": "nom",
+    "definition_v1": "fait de bouger",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "page",
+    "categorie": "nom",
+    "definition_v1": "partie de livre ou de ensemble de mot",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "phrase",
+    "categorie": "nom",
+    "definition_v1": "ensemble de mot avec un sens",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "signe",
+    "categorie": "nom",
+    "definition_v1": "point image ou mot avec un sens",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "son",
+    "categorie": "grammaire",
+    "definition_v1": "article pour dire que une chose appartenir à il ou elle",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "besoin",
+    "categorie": "nom",
+    "definition_v1": "chose ou action de devoir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "cause",
+    "categorie": "nom",
+    "definition_v1": "ce qui produire un effet",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "chemin",
+    "categorie": "nom",
+    "definition_v1": "place ou ligne pour aller",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "choix",
+    "categorie": "nom",
+    "definition_v1": "action de choisir entre des sorte",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "différence",
+    "categorie": "nom",
+    "definition_v1": "fait de être autre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "distance",
+    "categorie": "nom",
+    "definition_v1": "mesure entre un lieu et un autre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "exister",
+    "categorie": "verbe",
+    "definition_v1": "être dans le monde",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "force",
+    "categorie": "nom",
+    "definition_v1": "qualité pour pousser tirer ou porter",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ne",
+    "categorie": "grammaire",
+    "definition_v1": "mot avec pas jamais ou rien",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "penser",
+    "categorie": "verbe",
+    "definition_v1": "former une idée dans esprit",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sorte",
+    "categorie": "nom",
+    "definition_v1": "groupe de chose proche",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "venir",
+    "categorie": "verbe",
+    "definition_v1": "aller vers le lieu de une personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "écrire",
+    "categorie": "verbe",
+    "definition_v1": "former des mot sur une page",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "bouger",
+    "categorie": "verbe",
+    "definition_v1": "avoir un mouvement",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "commencer",
+    "categorie": "verbe",
+    "definition_v1": "être au début de une action ou de un temps",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "comment",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour demander une manière",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "communiquer",
+    "categorie": "verbe",
+    "definition_v1": "parler pour donner une information",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "difficile",
+    "categorie": "adjectif",
+    "definition_v1": "possible avec beaucoup de problème ou proche de impossible",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "direction",
+    "categorie": "nom",
+    "definition_v1": "côté vers où on va",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "encore",
+    "categorie": "grammaire",
+    "definition_v1": "une autre fois ou maintenant aussi",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "fermé",
+    "categorie": "adjectif",
+    "definition_v1": "pas ouvert",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "former",
+    "categorie": "verbe",
+    "definition_v1": "faire un tout avec des partie",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "jeu",
+    "categorie": "nom",
+    "definition_v1": "fait de jouer",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "les",
+    "categorie": "grammaire",
+    "definition_v1": "article avant un nom de groupe",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "là",
+    "categorie": "grammaire",
+    "definition_v1": "dans un lieu montrer",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "moyen",
+    "categorie": "nom",
+    "definition_v1": "objet action ou relation pour faire un but",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ordre",
+    "categorie": "nom",
+    "definition_v1": "mot pour demander une action",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ouvert",
+    "categorie": "adjectif",
+    "definition_v1": "pas fermé",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "porter",
+    "categorie": "verbe",
+    "definition_v1": "tenir et aller avec une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "premier",
+    "categorie": "adjectif",
+    "definition_v1": "au début de un ordre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "produire",
+    "categorie": "verbe",
+    "definition_v1": "faire être une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "question",
+    "categorie": "nom",
+    "definition_v1": "phrase pour demander une information",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "rester",
+    "categorie": "verbe",
+    "definition_v1": "être encore dans le même lieu ou dans le même état",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "tenir",
+    "categorie": "verbe",
+    "definition_v1": "garder ou porter sans laisser",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "toucher",
+    "categorie": "verbe",
+    "definition_v1": "être en contact avec une chose ou une personne",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "travail",
+    "categorie": "nom",
+    "definition_v1": "fait de travailler",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "verbe",
+    "categorie": "nom",
+    "definition_v1": "mot pour dire une action un état ou une relation",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vérité",
+    "categorie": "nom",
+    "definition_v1": "information vrai",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "œil",
+    "categorie": "nom",
+    "definition_v1": "partie de corps pour voir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 2,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "aussi",
+    "categorie": "grammaire",
+    "definition_v1": "de la même manière ou avec le même effet",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "chercher",
+    "categorie": "verbe",
+    "definition_v1": "vouloir trouver",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "choisir",
+    "categorie": "verbe",
+    "definition_v1": "prendre entre des sorte",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "comprendre",
+    "categorie": "verbe",
+    "definition_v1": "recevoir le sens de une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "compter",
+    "categorie": "verbe",
+    "definition_v1": "dire ou écrire un nombre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "contenir",
+    "categorie": "verbe",
+    "definition_v1": "avoir une chose dans une autre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "continuer",
+    "categorie": "verbe",
+    "definition_v1": "rester dans la même action",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "dernier",
+    "categorie": "adjectif",
+    "definition_v1": "à la fin de un ordre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "devoir",
+    "categorie": "verbe",
+    "definition_v1": "avoir un besoin ou une règle",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "envie",
+    "categorie": "nom",
+    "definition_v1": "sentiment ou idée de vouloir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "faux",
+    "categorie": "adjectif",
+    "definition_v1": "sans vérité ou contre vérité",
+    "issues": [
+      "semantic_precision_still_limited"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "impossible",
+    "categorie": "adjectif",
+    "definition_v1": "qui ne peut pas être",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "jeune",
+    "categorie": "adjectif",
+    "definition_v1": "avec peu de temps de vie",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "laisser",
+    "categorie": "verbe",
+    "definition_v1": "ne plus garder ou ne pas prendre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "langue",
+    "categorie": "nom",
+    "definition_v1": "ensemble de mot et de règle pour parler",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ligne",
+    "categorie": "nom",
+    "definition_v1": "ensemble de point ou de mot",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "marcher",
+    "categorie": "verbe",
+    "definition_v1": "aller avec jambe",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "non",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour réponse mauvais",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "où",
+    "categorie": "grammaire",
+    "definition_v1": "mot pour demander un lieu",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pensée",
+    "categorie": "nom",
+    "definition_v1": "action de penser ou idée dans esprit",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "placer",
+    "categorie": "verbe",
+    "definition_v1": "mettre dans un lieu",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "plein",
+    "categorie": "adjectif",
+    "definition_v1": "avec beaucoup de chose dans intérieur",
+    "issues": [
+      "contrastive_definition_family"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "poids",
+    "categorie": "nom",
+    "definition_v1": "mesure de force sur une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pousser",
+    "categorie": "verbe",
+    "definition_v1": "faire aller loin de une personne ou de une place",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "représenter",
+    "categorie": "verbe",
+    "definition_v1": "montrer une chose par image ou par mot",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "simple",
+    "categorie": "adjectif",
+    "definition_v1": "avec peu de partie et peu de problème",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "tirer",
+    "categorie": "verbe",
+    "definition_v1": "faire venir vers une personne ou une place",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 194,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "trop",
+    "categorie": "grammaire",
+    "definition_v1": "plus que assez",
+    "issues": [
+      "definition_still_short",
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ancien",
+    "categorie": "adjectif",
+    "definition_v1": "de temps loin dans le passé",
+    "issues": [
+      "contrastive_definition_family"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "humide",
+    "categorie": "adjectif",
+    "definition_v1": "avec eau sur surface",
+    "issues": [
+      "contrastive_definition_family"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "musique",
+    "categorie": "nom",
+    "definition_v1": "ensemble de son pour entendre",
+    "issues": [
+      "semantic_precision_still_limited"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "normal",
+    "categorie": "adjectif",
+    "definition_v1": "comme une règle ou un usage souvent voir",
+    "issues": [
+      "semantic_precision_still_limited"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "nouveau",
+    "categorie": "adjectif",
+    "definition_v1": "de temps proche du début",
+    "issues": [
+      "contrastive_definition_family"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sec",
+    "categorie": "adjectif",
+    "definition_v1": "sans eau sur surface",
+    "issues": [
+      "contrastive_definition_family"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "train",
+    "categorie": "nom",
+    "definition_v1": "objet pour aller de un lieu à un autre",
+    "issues": [
+      "semantic_precision_still_limited"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vide",
+    "categorie": "adjectif",
+    "definition_v1": "sans chose dans intérieur",
+    "issues": [
+      "contrastive_definition_family"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "maison",
+    "categorie": "nom",
+    "definition_v1": "lieu pour vivre",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 5,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "dur",
+    "categorie": "adjectif",
+    "definition_v1": "pas mou et difficile à changer de forme",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 4,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "rendre",
+    "categorie": "verbe",
+    "definition_v1": "faire devenir",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 4,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "acheter",
+    "categorie": "verbe",
+    "definition_v1": "donner argent pour avoir une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 3,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "bouche",
+    "categorie": "nom",
+    "definition_v1": "partie de corps pour manger boire et parler",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 3,
+    "cycle_size": 4,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "bruit",
+    "categorie": "nom",
+    "definition_v1": "son que on peut entendre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 3,
+    "cycle_size": 3,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "chaleur",
+    "categorie": "nom",
+    "definition_v1": "état de ce qui est chaud",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 3,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "entendre",
+    "categorie": "verbe",
+    "definition_v1": "recevoir une voix ou un bruit par oreille",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 3,
+    "cycle_size": 3,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pendant",
+    "categorie": "grammaire",
+    "definition_v1": "dans un temps",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 3,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "trouver",
+    "categorie": "verbe",
+    "definition_v1": "voir ou recevoir ce que on chercher",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 3,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "air",
+    "categorie": "nom",
+    "definition_v1": "chose pour vivre",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 2,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "boire",
+    "categorie": "verbe",
+    "definition_v1": "prendre eau ou autre matière par la bouche",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 2,
+    "cycle_size": 4,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "entrer",
+    "categorie": "verbe",
+    "definition_v1": "aller dans intérieur",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 2,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "jambe",
+    "categorie": "nom",
+    "definition_v1": "partie de corps pour marcher",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "manger",
+    "categorie": "verbe",
+    "definition_v1": "prendre une chose par la bouche",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 2,
+    "cycle_size": 4,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "tristesse",
+    "categorie": "nom",
+    "definition_v1": "état de cœur triste",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 2,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "utile",
+    "categorie": "adjectif",
+    "definition_v1": "avec bon usage ou bon effet",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 2,
+    "cycle_size": 3,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "apprendre",
+    "categorie": "verbe",
+    "definition_v1": "recevoir une information",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "assez",
+    "categorie": "grammaire",
+    "definition_v1": "ni peu ni trop",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "chaud",
+    "categorie": "adjectif",
+    "definition_v1": "avec beaucoup de chaleur",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "extérieur",
+    "categorie": "nom",
+    "definition_v1": "partie de hors",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "faute",
+    "categorie": "nom",
+    "definition_v1": "mauvais fait",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "heure",
+    "categorie": "nom",
+    "definition_v1": "partie de temps",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "jouer",
+    "categorie": "verbe",
+    "definition_v1": "faire une action pour un jeu",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mou",
+    "categorie": "adjectif",
+    "definition_v1": "pas dur et facile à changer de forme",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mourir",
+    "categorie": "verbe",
+    "definition_v1": "finir la vie",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "nez",
+    "categorie": "nom",
+    "definition_v1": "partie de corps pour sentir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "oreille",
+    "categorie": "nom",
+    "definition_v1": "partie de corps pour entendre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 3,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "passé",
+    "categorie": "nom",
+    "definition_v1": "temps avant maintenant",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "perdre",
+    "categorie": "verbe",
+    "definition_v1": "ne plus avoir",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "prix",
+    "categorie": "nom",
+    "definition_v1": "nombre pour acheter",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "regarder",
+    "categorie": "verbe",
+    "definition_v1": "voir de près",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sentir",
+    "categorie": "verbe",
+    "definition_v1": "recevoir une information par nez peau ou esprit",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sol",
+    "categorie": "nom",
+    "definition_v1": "partie bas de un lieu",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "soleil",
+    "categorie": "nom",
+    "definition_v1": "grand lumière",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "terre",
+    "categorie": "nom",
+    "definition_v1": "partie de monde",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "toujours",
+    "categorie": "grammaire",
+    "definition_v1": "dans tout temps",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "tous",
+    "categorie": "grammaire",
+    "definition_v1": "groupe entier",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "travailler",
+    "categorie": "verbe",
+    "definition_v1": "faire une action de travail",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "triste",
+    "categorie": "adjectif",
+    "definition_v1": "avec tristesse ou mal dans cœur",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 1,
+    "cycle_size": 2,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "achat",
+    "categorie": "nom",
+    "definition_v1": "fait de acheter",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "afin",
+    "categorie": "grammaire",
+    "definition_v1": "pour un but",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ajouter",
+    "categorie": "verbe",
+    "definition_v1": "mettre en plus",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "aujourd’hui",
+    "categorie": "grammaire",
+    "definition_v1": "dans ce jour",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "aux",
+    "categorie": "grammaire",
+    "definition_v1": "article avec à",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "avenir",
+    "categorie": "nom",
+    "definition_v1": "temps après maintenant",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "bras",
+    "categorie": "nom",
+    "definition_v1": "partie de corps",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "chaque",
+    "categorie": "grammaire",
+    "definition_v1": "un par un",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "créer",
+    "categorie": "verbe",
+    "definition_v1": "faire exister",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "descendre",
+    "categorie": "verbe",
+    "definition_v1": "aller vers bas",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "décider",
+    "categorie": "verbe",
+    "definition_v1": "faire un choix",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "déjà",
+    "categorie": "grammaire",
+    "definition_v1": "avant maintenant",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "enseigner",
+    "categorie": "verbe",
+    "definition_v1": "donner une information",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "falloir",
+    "categorie": "verbe",
+    "definition_v1": "être un besoin",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "fermer",
+    "categorie": "verbe",
+    "definition_v1": "rendre fermé",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "feu",
+    "categorie": "nom",
+    "definition_v1": "chaleur et lumière",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "gens",
+    "categorie": "nom",
+    "definition_v1": "groupe de personne",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "grandir",
+    "categorie": "verbe",
+    "definition_v1": "devenir plus grand",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "herbe",
+    "categorie": "nom",
+    "definition_v1": "plante petit",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ici",
+    "categorie": "grammaire",
+    "definition_v1": "dans ce lieu",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "inutile",
+    "categorie": "adjectif",
+    "definition_v1": "sans usage utile",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "jusque",
+    "categorie": "grammaire",
+    "definition_v1": "avant une fin",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "large",
+    "categorie": "adjectif",
+    "definition_v1": "grand de côté",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "lettre",
+    "categorie": "nom",
+    "definition_v1": "signe pour écrire",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "lever",
+    "categorie": "verbe",
+    "definition_v1": "mettre plus haut",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "lit",
+    "categorie": "nom",
+    "definition_v1": "objet pour dormir",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "lointain",
+    "categorie": "adjectif",
+    "definition_v1": "très loin",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "matin",
+    "categorie": "nom",
+    "definition_v1": "début de jour",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mer",
+    "categorie": "nom",
+    "definition_v1": "grand eau",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mesurer",
+    "categorie": "verbe",
+    "definition_v1": "trouver une mesure",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "monter",
+    "categorie": "verbe",
+    "definition_v1": "aller vers haut",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mort",
+    "categorie": "nom",
+    "definition_v1": "fin de vie",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mortel",
+    "categorie": "adjectif",
+    "definition_v1": "qui pouvoir mourir",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "mur",
+    "categorie": "nom",
+    "definition_v1": "partie de maison",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "naissance",
+    "categorie": "nom",
+    "definition_v1": "début de vie",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ombre",
+    "categorie": "nom",
+    "definition_v1": "place sans lumière",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ouvrir",
+    "categorie": "verbe",
+    "definition_v1": "rendre ouvert",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pain",
+    "categorie": "nom",
+    "definition_v1": "chose à manger",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "paix",
+    "categorie": "nom",
+    "definition_v1": "état sans guerre",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "papier",
+    "categorie": "nom",
+    "definition_v1": "matière pour écrire",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "pluie",
+    "categorie": "nom",
+    "definition_v1": "eau qui tomber",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "privé",
+    "categorie": "adjectif",
+    "definition_v1": "pas public",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "préparer",
+    "categorie": "verbe",
+    "definition_v1": "faire être prêt",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "puis",
+    "categorie": "grammaire",
+    "definition_v1": "après ce",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "remplir",
+    "categorie": "verbe",
+    "definition_v1": "rendre plein",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "sang",
+    "categorie": "nom",
+    "definition_v1": "matière de corps",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "signifier",
+    "categorie": "verbe",
+    "definition_v1": "avoir un sens",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vent",
+    "categorie": "nom",
+    "definition_v1": "air qui bouger",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "vente",
+    "categorie": "nom",
+    "definition_v1": "fait de vendre",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "y",
+    "categorie": "grammaire",
+    "definition_v1": "pronom pour lieu",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "école",
+    "categorie": "nom",
+    "definition_v1": "lieu pour apprendre",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "émotion",
+    "categorie": "nom",
+    "definition_v1": "sentiment fort",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  },
+  {
+    "word": "ôter",
+    "categorie": "verbe",
+    "definition_v1": "prendre une partie",
+    "issues": [
+      "definition_still_short"
+    ],
+    "severity": 1,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "suggested_next_step": "keep but monitor"
+  }
+]

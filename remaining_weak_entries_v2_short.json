@@ -1,0 +1,216 @@
+[
+  {
+    "word": "haut",
+    "definition_v2_short": "avec place loin de sol",
+    "issues": [
+      "definition_still_compact",
+      "relational_scale_word",
+      "indirect_cycle"
+    ],
+    "severity": 5,
+    "inbound_dependencies": 7,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "bas",
+    "definition_v2_short": "avec place près de sol",
+    "issues": [
+      "definition_still_compact",
+      "relational_scale_word",
+      "indirect_cycle"
+    ],
+    "severity": 5,
+    "inbound_dependencies": 5,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "femme",
+    "definition_v2_short": "personne que on nommer elle",
+    "issues": [
+      "definition_still_compact",
+      "social_core_word",
+      "indirect_cycle"
+    ],
+    "severity": 5,
+    "inbound_dependencies": 3,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "homme",
+    "definition_v2_short": "personne que on nommer il",
+    "issues": [
+      "definition_still_compact",
+      "social_core_word",
+      "indirect_cycle"
+    ],
+    "severity": 5,
+    "inbound_dependencies": 3,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "de",
+    "definition_v2_short": "mot pour montrer une relation entre chose personne action ou partie",
+    "issues": [
+      "grammatical_core_word",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 176,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "ou",
+    "definition_v2_short": "mot pour montrer un choix entre une chose et une autre",
+    "issues": [
+      "grammatical_core_word",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 135,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "faire",
+    "definition_v2_short": "produire ou former une action un effet ou une chose",
+    "issues": [
+      "core_action_pair",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 44,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "action",
+    "definition_v2_short": "ce que une personne ou une chose faire",
+    "issues": [
+      "core_action_pair",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 33,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "proche",
+    "definition_v2_short": "avec peu de distance entre une chose ou personne et une autre",
+    "issues": [
+      "relational_scale_word",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 7,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "loin",
+    "definition_v2_short": "avec beaucoup de distance entre une chose ou personne et une autre",
+    "issues": [
+      "relational_scale_word",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 5,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "mal",
+    "definition_v2_short": "de manière qui faire problème ou douleur",
+    "issues": [
+      "abstract_core_word",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 5,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "mauvais",
+    "definition_v2_short": "avec effet qui faire mal ou problème",
+    "issues": [
+      "abstract_core_word",
+      "indirect_cycle"
+    ],
+    "severity": 4,
+    "inbound_dependencies": 5,
+    "cycle_size": 200,
+    "status": "improved_but_still_sensitive"
+  },
+  {
+    "word": "bon",
+    "definition_v2_short": "avec qualité qui aider une personne ou une chose",
+    "issues": [
+      "abstract_core_word"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 7,
+    "cycle_size": 0,
+    "status": "substantially_improved"
+  },
+  {
+    "word": "bien",
+    "definition_v2_short": "de manière utile ou avec bon effet",
+    "issues": [
+      "abstract_core_word"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 4,
+    "cycle_size": 0,
+    "status": "substantially_improved"
+  },
+  {
+    "word": "vrai",
+    "definition_v2_short": "qui représenter bien ce qui est",
+    "issues": [
+      "abstract_core_word"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 3,
+    "cycle_size": 0,
+    "status": "substantially_improved"
+  },
+  {
+    "word": "faux",
+    "definition_v2_short": "qui ne représenter pas bien ce qui est",
+    "issues": [
+      "abstract_core_word"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "status": "substantially_improved"
+  },
+  {
+    "word": "rapide",
+    "definition_v2_short": "avec peu de temps pour une action ou un mouvement",
+    "issues": [
+      "relational_scale_word"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 1,
+    "cycle_size": 0,
+    "status": "substantially_improved"
+  },
+  {
+    "word": "lent",
+    "definition_v2_short": "avec beaucoup de temps pour une action ou un mouvement",
+    "issues": [
+      "relational_scale_word"
+    ],
+    "severity": 2,
+    "inbound_dependencies": 0,
+    "cycle_size": 0,
+    "status": "substantially_improved"
+  }
+]

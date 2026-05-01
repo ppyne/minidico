@@ -1,0 +1,52 @@
+{
+  "antidouleur": {
+    "importance": "utile",
+    "why": "mot fréquent pour distinguer les médicaments selon leur usage",
+    "suggestion": "v3_2"
+  },
+  "température": {
+    "importance": "utile",
+    "why": "mesure liée à la fièvre encore absente",
+    "suggestion": "v3_2"
+  },
+  "tension": {
+    "importance": "utile",
+    "why": "paramètre courant en médecine pratique",
+    "suggestion": "v3_2"
+  },
+  "accident": {
+    "importance": "utile",
+    "why": "beaucoup de scénarios d urgence passent par ce mot",
+    "suggestion": "v3_2"
+  },
+  "infection urinaire": {
+    "importance": "attendre",
+    "why": "expression spécialisée utile mais composée",
+    "suggestion": "attendre"
+  },
+  "surdose": {
+    "importance": "utile",
+    "why": "danger médical concret lié à dose et médicament",
+    "suggestion": "v3_2"
+  },
+  "dépression": {
+    "importance": "utile",
+    "why": "santé mentale plus précise encore peu couverte",
+    "suggestion": "v3_2"
+  },
+  "anxiété": {
+    "importance": "utile",
+    "why": "santé mentale plus précise encore peu couverte",
+    "suggestion": "v3_2"
+  },
+  "menstruel": {
+    "importance": "utile",
+    "why": "qualifier règles et santé reproductive de façon plus fine",
+    "suggestion": "v3_2"
+  },
+  "test de grossesse": {
+    "importance": "utile",
+    "why": "parcours reproductif concret encore exprimé de façon indirecte",
+    "suggestion": "v3_2"
+  }
+}

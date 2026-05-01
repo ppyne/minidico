@@ -1,0 +1,55 @@
+{
+  "invalid_tokens_in_tests": [],
+  "suggested_words_for_next": [
+    {
+      "mot": "art",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "dessin",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "dessiner",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "peinture",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "peindre",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "tableau",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "photo",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "photographie",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "cadre",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "sculpture",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    }
+  ]
+}

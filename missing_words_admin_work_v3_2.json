@@ -1,0 +1,89 @@
+{
+  "invalid_tokens_in_tests": [],
+  "suggested_words_for_v3_3": [
+    {
+      "mot": "avocat",
+      "domaine": "droit",
+      "priorite": "haute",
+      "raison": "utile pour défense, conseil et procédure simple"
+    },
+    {
+      "mot": "police",
+      "domaine": "droit",
+      "priorite": "haute",
+      "raison": "utile pour plainte, sécurité et contrôle"
+    },
+    {
+      "mot": "amende",
+      "domaine": "droit",
+      "priorite": "moyenne",
+      "raison": "utile pour sanction courante"
+    },
+    {
+      "mot": "chômage",
+      "domaine": "travail",
+      "priorite": "haute",
+      "raison": "manque pour parler de perte de emploi"
+    },
+    {
+      "mot": "licenciement",
+      "domaine": "travail",
+      "priorite": "moyenne",
+      "raison": "utile pour fin de emploi par entreprise"
+    },
+    {
+      "mot": "retraite",
+      "domaine": "travail",
+      "priorite": "moyenne",
+      "raison": "utile pour fin durable de travail"
+    },
+    {
+      "mot": "budget",
+      "domaine": "argent",
+      "priorite": "haute",
+      "raison": "utile pour plan simple de revenu et de dépense"
+    },
+    {
+      "mot": "loyer",
+      "domaine": "argent",
+      "priorite": "haute",
+      "raison": "utile pour dépense courante très fréquente"
+    },
+    {
+      "mot": "ticket",
+      "domaine": "argent",
+      "priorite": "moyenne",
+      "raison": "utile pour preuve de achat ou de transport"
+    },
+    {
+      "mot": "reçu",
+      "domaine": "argent",
+      "priorite": "moyenne",
+      "raison": "utile pour preuve de paiement"
+    },
+    {
+      "mot": "procédure",
+      "domaine": "administration",
+      "priorite": "moyenne",
+      "raison": "utile pour parler de suite d action administrative"
+    },
+    {
+      "mot": "délai",
+      "domaine": "administration",
+      "priorite": "moyenne",
+      "raison": "utile pour temps limite de réponse"
+    },
+    {
+      "mot": "courrier",
+      "domaine": "administration",
+      "priorite": "moyenne",
+      "raison": "utile pour demande et réponse écrites"
+    },
+    {
+      "mot": "guichet",
+      "domaine": "administration",
+      "priorite": "basse",
+      "raison": "utile dans les lieux de service public"
+    }
+  ]
+}

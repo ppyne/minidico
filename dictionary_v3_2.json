@@ -1,0 +1,3902 @@
+{
+  "le": {
+    "categorie": "grammaire",
+    "definition": "article avant un nom",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "la": {
+    "categorie": "grammaire",
+    "definition": "article avant un nom",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "les": {
+    "categorie": "grammaire",
+    "definition": "article avant un nom de groupe",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "un": {
+    "categorie": "grammaire",
+    "definition": "article pour une chose ou une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "une": {
+    "categorie": "grammaire",
+    "definition": "article pour un nom de chose ou de personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "des": {
+    "categorie": "grammaire",
+    "definition": "article pour un groupe",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "de": {
+    "categorie": "grammaire",
+    "definition": "mot pour montrer une relation entre chose personne action ou partie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "du": {
+    "categorie": "grammaire",
+    "definition": "article de relation",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "à": {
+    "categorie": "grammaire",
+    "definition": "mot pour direction ou relation",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "au": {
+    "categorie": "grammaire",
+    "definition": "article avec à",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "aux": {
+    "categorie": "grammaire",
+    "definition": "article avec à",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ce": {
+    "categorie": "grammaire",
+    "definition": "article ou pronom pour montrer",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "cette": {
+    "categorie": "grammaire",
+    "definition": "article pour montrer une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ces": {
+    "categorie": "grammaire",
+    "definition": "article pour montrer un groupe",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mon": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à je",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ma": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à je",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mes": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à je",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ton": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à tu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ta": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à tu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tes": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à tu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "son": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à il ou elle",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sa": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à il ou elle",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ses": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à il ou elle",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "notre": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à nous",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "nos": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à nous",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "votre": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à vous",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vos": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à vous",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "leur": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à ils ou elles",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "leurs": {
+    "categorie": "grammaire",
+    "definition": "article pour dire que une chose appartenir à ils ou elles",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "je": {
+    "categorie": "grammaire",
+    "definition": "pronom pour personne qui parler",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tu": {
+    "categorie": "grammaire",
+    "definition": "pronom pour personne avec qui je parler",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "il": {
+    "categorie": "grammaire",
+    "definition": "pronom pour homme",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "elle": {
+    "categorie": "grammaire",
+    "definition": "pronom pour femme",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "on": {
+    "categorie": "grammaire",
+    "definition": "pronom pour personne ou groupe sans nom",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "nous": {
+    "categorie": "grammaire",
+    "definition": "pronom pour groupe avec je",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vous": {
+    "categorie": "grammaire",
+    "definition": "pronom pour personne ou groupe",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ils": {
+    "categorie": "grammaire",
+    "definition": "pronom pour groupe avec homme ou autre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "elles": {
+    "categorie": "grammaire",
+    "definition": "pronom pour groupe avec femme",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "me": {
+    "categorie": "grammaire",
+    "definition": "pronom pour je dans une relation",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "te": {
+    "categorie": "grammaire",
+    "definition": "pronom pour tu dans une relation",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "se": {
+    "categorie": "grammaire",
+    "definition": "pronom pour il elle on ils ou elles dans une relation",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "moi": {
+    "categorie": "grammaire",
+    "definition": "pronom fort pour je",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "toi": {
+    "categorie": "grammaire",
+    "definition": "pronom fort pour tu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "lui": {
+    "categorie": "grammaire",
+    "definition": "pronom pour une autre personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "eux": {
+    "categorie": "grammaire",
+    "definition": "pronom fort pour groupe",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "qui": {
+    "categorie": "grammaire",
+    "definition": "pronom pour personne ou chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "que": {
+    "categorie": "grammaire",
+    "definition": "mot pour relation de phrase",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "quoi": {
+    "categorie": "grammaire",
+    "definition": "pronom pour une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "où": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander un lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "y": {
+    "categorie": "grammaire",
+    "definition": "pronom pour lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "en": {
+    "categorie": "grammaire",
+    "definition": "pronom ou mot pour intérieur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ne": {
+    "categorie": "grammaire",
+    "definition": "mot avec pas jamais ou rien",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pas": {
+    "categorie": "grammaire",
+    "definition": "mot pour dire non dans une phrase",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "plus": {
+    "categorie": "grammaire",
+    "definition": "mot pour quantité ou pour fin de une action",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "jamais": {
+    "categorie": "grammaire",
+    "definition": "à aucun moment",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "rien": {
+    "categorie": "grammaire",
+    "definition": "pas une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tout": {
+    "categorie": "grammaire",
+    "definition": "chose entier",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "toute": {
+    "categorie": "grammaire",
+    "definition": "chose entier",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tous": {
+    "categorie": "grammaire",
+    "definition": "groupe entier",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "toutes": {
+    "categorie": "grammaire",
+    "definition": "groupe entier",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chaque": {
+    "categorie": "grammaire",
+    "definition": "un par un",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "aucun": {
+    "categorie": "grammaire",
+    "definition": "pas un",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "autre": {
+    "categorie": "grammaire",
+    "definition": "différent de ce qui est là",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "même": {
+    "categorie": "grammaire",
+    "definition": "sans différence",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "si": {
+    "categorie": "grammaire",
+    "definition": "mot pour une chose possible",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "quand": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander un temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "comme": {
+    "categorie": "grammaire",
+    "definition": "mot pour comparer ou montrer une manière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "car": {
+    "categorie": "grammaire",
+    "definition": "mot pour une raison",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "donc": {
+    "categorie": "grammaire",
+    "definition": "mot pour montrer un effet",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ou": {
+    "categorie": "grammaire",
+    "definition": "mot pour montrer un choix entre une chose et une autre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "mais": {
+    "categorie": "grammaire",
+    "definition": "mot pour montrer une différence",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "et": {
+    "categorie": "grammaire",
+    "definition": "mot pour mettre ensemble",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ni": {
+    "categorie": "grammaire",
+    "definition": "mot pour mettre ensemble avec pas",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "puis": {
+    "categorie": "grammaire",
+    "definition": "après ce",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "aussi": {
+    "categorie": "grammaire",
+    "definition": "de la même manière ou avec le même effet",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "très": {
+    "categorie": "grammaire",
+    "definition": "mot pour plus",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "trop": {
+    "categorie": "grammaire",
+    "definition": "plus que assez",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "assez": {
+    "categorie": "grammaire",
+    "definition": "ni peu ni trop",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "peu": {
+    "categorie": "grammaire",
+    "definition": "petit quantité",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "beaucoup": {
+    "categorie": "grammaire",
+    "definition": "grand quantité",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "bien": {
+    "categorie": "grammaire",
+    "definition": "de manière utile ou avec bon effet",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "mal": {
+    "categorie": "grammaire",
+    "definition": "de manière qui faire problème ou douleur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "oui": {
+    "categorie": "grammaire",
+    "definition": "mot pour réponse bon",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "non": {
+    "categorie": "grammaire",
+    "definition": "mot pour réponse mauvais",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ici": {
+    "categorie": "grammaire",
+    "definition": "dans ce lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "là": {
+    "categorie": "grammaire",
+    "definition": "dans un lieu montrer",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ailleurs": {
+    "categorie": "grammaire",
+    "definition": "dans un autre lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "maintenant": {
+    "categorie": "grammaire",
+    "definition": "dans le temps présent",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "aujourd’hui": {
+    "categorie": "grammaire",
+    "definition": "dans ce jour",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "hier": {
+    "categorie": "grammaire",
+    "definition": "dans le jour avant",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "demain": {
+    "categorie": "grammaire",
+    "definition": "dans le jour après",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "toujours": {
+    "categorie": "grammaire",
+    "definition": "dans tout temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "souvent": {
+    "categorie": "grammaire",
+    "definition": "dans beaucoup de fois",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "parfois": {
+    "categorie": "grammaire",
+    "definition": "dans des fois et pas toujours",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "déjà": {
+    "categorie": "grammaire",
+    "definition": "avant maintenant",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "encore": {
+    "categorie": "grammaire",
+    "definition": "une autre fois ou maintenant aussi",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "bientôt": {
+    "categorie": "grammaire",
+    "definition": "après peu de temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "avant": {
+    "categorie": "grammaire",
+    "definition": "dans le temps premier",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "après": {
+    "categorie": "grammaire",
+    "definition": "dans un temps plus loin",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "alors": {
+    "categorie": "grammaire",
+    "definition": "dans ce moment ou après ce",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ainsi": {
+    "categorie": "grammaire",
+    "definition": "de la même manière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "comment": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander une manière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pourquoi": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander une raison",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "parce": {
+    "categorie": "grammaire",
+    "definition": "mot pour commencer une raison",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pour": {
+    "categorie": "grammaire",
+    "definition": "mot de but ou de fonction",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "par": {
+    "categorie": "grammaire",
+    "definition": "mot pour moyen cause ou chemin",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "avec": {
+    "categorie": "grammaire",
+    "definition": "mot pour relation de groupe ou de moyen",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sans": {
+    "categorie": "grammaire",
+    "definition": "pas avec",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chez": {
+    "categorie": "grammaire",
+    "definition": "dans le lieu de une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "entre": {
+    "categorie": "grammaire",
+    "definition": "dans la relation de plus de un côté",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "contre": {
+    "categorie": "grammaire",
+    "definition": "sur une autre face",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vers": {
+    "categorie": "grammaire",
+    "definition": "dans une direction",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sous": {
+    "categorie": "grammaire",
+    "definition": "dans une place plus bas",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sur": {
+    "categorie": "grammaire",
+    "definition": "dans une place plus haut ou en contact",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "dans": {
+    "categorie": "grammaire",
+    "definition": "à intérieur de un lieu ou de une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "hors": {
+    "categorie": "grammaire",
+    "definition": "pas dans",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "depuis": {
+    "categorie": "grammaire",
+    "definition": "à partir de un temps ou de un lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "jusque": {
+    "categorie": "grammaire",
+    "definition": "avant une fin",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "près": {
+    "categorie": "grammaire",
+    "definition": "avec peu de distance",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "loin": {
+    "categorie": "grammaire",
+    "definition": "avec beaucoup de distance entre une chose ou personne et une autre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "selon": {
+    "categorie": "grammaire",
+    "definition": "comme une règle ou une relation",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "malgré": {
+    "categorie": "grammaire",
+    "definition": "avec un effet contre ce que on attendre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pendant": {
+    "categorie": "grammaire",
+    "definition": "dans un temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "afin": {
+    "categorie": "grammaire",
+    "definition": "pour un but",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "être": {
+    "categorie": "verbe",
+    "definition": "verbe pour exister ou pour dire un état",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "avoir": {
+    "categorie": "verbe",
+    "definition": "verbe pour recevoir garder ou contenir",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "faire": {
+    "categorie": "verbe",
+    "definition": "produire ou former une action un effet ou une chose",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Proposition V1: definition enrichie. Proposition V2 courte ciblée."
+  },
+  "aller": {
+    "categorie": "verbe",
+    "definition": "changer de place vers un autre lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "venir": {
+    "categorie": "verbe",
+    "definition": "aller vers le lieu de une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pouvoir": {
+    "categorie": "verbe",
+    "definition": "être possible pour une personne ou une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vouloir": {
+    "categorie": "verbe",
+    "definition": "avoir une envie ou un but",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "devoir": {
+    "categorie": "verbe",
+    "definition": "avoir un besoin ou une règle",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "savoir": {
+    "categorie": "verbe",
+    "definition": "avoir une information",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "dire": {
+    "categorie": "verbe",
+    "definition": "communiquer par mot ou par voix",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "voir": {
+    "categorie": "verbe",
+    "definition": "recevoir une image par œil",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "prendre": {
+    "categorie": "verbe",
+    "definition": "mettre une chose avec une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mettre": {
+    "categorie": "verbe",
+    "definition": "placer une chose dans une place",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "donner": {
+    "categorie": "verbe",
+    "definition": "faire avoir une chose à une autre personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "trouver": {
+    "categorie": "verbe",
+    "definition": "voir ou recevoir ce que on chercher",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "penser": {
+    "categorie": "verbe",
+    "definition": "former une idée dans esprit",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "croire": {
+    "categorie": "verbe",
+    "definition": "penser que une chose est vrai",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "parler": {
+    "categorie": "verbe",
+    "definition": "communiquer par la voix",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "aimer": {
+    "categorie": "verbe",
+    "definition": "avoir un bon sentiment pour une personne ou une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "falloir": {
+    "categorie": "verbe",
+    "definition": "être un besoin",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sembler": {
+    "categorie": "verbe",
+    "definition": "donner une image de être",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "rester": {
+    "categorie": "verbe",
+    "definition": "être encore dans le même lieu ou dans le même état",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "passer": {
+    "categorie": "verbe",
+    "definition": "aller par un lieu ou par un temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "entrer": {
+    "categorie": "verbe",
+    "definition": "aller dans intérieur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sortir": {
+    "categorie": "verbe",
+    "definition": "aller hors de intérieur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "partir": {
+    "categorie": "verbe",
+    "definition": "sortir pour aller ailleurs",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "arriver": {
+    "categorie": "verbe",
+    "definition": "venir à la fin de un mouvement",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "attendre": {
+    "categorie": "verbe",
+    "definition": "rester avant une personne une chose ou un moment",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "demander": {
+    "categorie": "verbe",
+    "definition": "dire une question ou un besoin",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "répondre": {
+    "categorie": "verbe",
+    "definition": "dire une réponse",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "comprendre": {
+    "categorie": "verbe",
+    "definition": "recevoir le sens de une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "connaître": {
+    "categorie": "verbe",
+    "definition": "avoir une information de une personne ou de une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vivre": {
+    "categorie": "verbe",
+    "definition": "être vivant pendant un temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mourir": {
+    "categorie": "verbe",
+    "definition": "finir la vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "manger": {
+    "categorie": "verbe",
+    "definition": "prendre une chose par la bouche",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "boire": {
+    "categorie": "verbe",
+    "definition": "prendre eau ou autre matière par la bouche",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "dormir": {
+    "categorie": "verbe",
+    "definition": "être sans parler pendant un temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "lire": {
+    "categorie": "verbe",
+    "definition": "recevoir le sens de mot sur une page",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "écrire": {
+    "categorie": "verbe",
+    "definition": "former des mot sur une page",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ouvrir": {
+    "categorie": "verbe",
+    "definition": "rendre ouvert",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "fermer": {
+    "categorie": "verbe",
+    "definition": "rendre fermé",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tenir": {
+    "categorie": "verbe",
+    "definition": "garder ou porter sans laisser",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "laisser": {
+    "categorie": "verbe",
+    "definition": "ne plus garder ou ne pas prendre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "porter": {
+    "categorie": "verbe",
+    "definition": "tenir et aller avec une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "jouer": {
+    "categorie": "verbe",
+    "definition": "faire une action pour un jeu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "travailler": {
+    "categorie": "verbe",
+    "definition": "faire une action de travail",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "acheter": {
+    "categorie": "verbe",
+    "definition": "donner argent pour avoir une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vendre": {
+    "categorie": "verbe",
+    "definition": "donner une chose pour recevoir argent",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chercher": {
+    "categorie": "verbe",
+    "definition": "vouloir trouver",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "appeler": {
+    "categorie": "verbe",
+    "definition": "dire le nom de une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "entendre": {
+    "categorie": "verbe",
+    "definition": "recevoir une voix ou un bruit par oreille",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "regarder": {
+    "categorie": "verbe",
+    "definition": "voir de près",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "utiliser": {
+    "categorie": "verbe",
+    "definition": "faire une action avec une chose pour une fonction",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "changer": {
+    "categorie": "verbe",
+    "definition": "devenir autre ou différent",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "commencer": {
+    "categorie": "verbe",
+    "definition": "être au début de une action ou de un temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "finir": {
+    "categorie": "verbe",
+    "definition": "être à la fin de une action ou de un temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "continuer": {
+    "categorie": "verbe",
+    "definition": "rester dans la même action",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "servir": {
+    "categorie": "verbe",
+    "definition": "avoir une fonction ou un usage",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "toucher": {
+    "categorie": "verbe",
+    "definition": "être en contact avec une chose ou une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sentir": {
+    "categorie": "verbe",
+    "definition": "recevoir une information par nez peau ou esprit",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "bouger": {
+    "categorie": "verbe",
+    "definition": "avoir un mouvement",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tourner": {
+    "categorie": "verbe",
+    "definition": "faire un mouvement qui changer la face",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "montrer": {
+    "categorie": "verbe",
+    "definition": "faire voir ou faire savoir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "garder": {
+    "categorie": "verbe",
+    "definition": "continuer à avoir ou à tenir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "suivre": {
+    "categorie": "verbe",
+    "definition": "aller après une personne ou une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "perdre": {
+    "categorie": "verbe",
+    "definition": "ne plus avoir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "gagner": {
+    "categorie": "verbe",
+    "definition": "recevoir après action jeu ou travail",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "couper": {
+    "categorie": "verbe",
+    "definition": "faire un autre partie de une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "casser": {
+    "categorie": "verbe",
+    "definition": "faire perdre la forme ou la fonction de une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "laver": {
+    "categorie": "verbe",
+    "definition": "rendre propre avec eau",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tirer": {
+    "categorie": "verbe",
+    "definition": "faire venir vers une personne ou une place",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pousser": {
+    "categorie": "verbe",
+    "definition": "faire aller loin de une personne ou de une place",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "monter": {
+    "categorie": "verbe",
+    "definition": "aller vers haut",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "descendre": {
+    "categorie": "verbe",
+    "definition": "aller vers bas",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tomber": {
+    "categorie": "verbe",
+    "definition": "aller vers bas sans vouloir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "lever": {
+    "categorie": "verbe",
+    "definition": "mettre plus haut",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "asseoir": {
+    "categorie": "verbe",
+    "definition": "mettre le corps en bas sur une place",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "courir": {
+    "categorie": "verbe",
+    "definition": "aller de manière rapide",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "marcher": {
+    "categorie": "verbe",
+    "definition": "aller avec jambe",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "rire": {
+    "categorie": "verbe",
+    "definition": "faire un son de joie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pleurer": {
+    "categorie": "verbe",
+    "definition": "faire eau par œil par tristesse ou douleur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "compter": {
+    "categorie": "verbe",
+    "definition": "dire ou écrire un nombre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mesurer": {
+    "categorie": "verbe",
+    "definition": "trouver une mesure",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "payer": {
+    "categorie": "verbe",
+    "definition": "donner argent pour une chose ou une action",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "créer": {
+    "categorie": "verbe",
+    "definition": "faire exister",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "aider": {
+    "categorie": "verbe",
+    "definition": "faire que une autre action devenir plus facile",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "essayer": {
+    "categorie": "verbe",
+    "definition": "faire une action pour voir si elle est possible",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "choisir": {
+    "categorie": "verbe",
+    "definition": "prendre entre des sorte",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "apprendre": {
+    "categorie": "verbe",
+    "definition": "recevoir une information",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "enseigner": {
+    "categorie": "verbe",
+    "definition": "donner une information",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "envoyer": {
+    "categorie": "verbe",
+    "definition": "faire partir vers un autre lieu ou une autre personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "recevoir": {
+    "categorie": "verbe",
+    "definition": "avoir ce que une autre personne donner",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "rencontrer": {
+    "categorie": "verbe",
+    "definition": "trouver une personne en aller",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "décider": {
+    "categorie": "verbe",
+    "definition": "faire un choix",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "expliquer": {
+    "categorie": "verbe",
+    "definition": "donner le sens de une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "préparer": {
+    "categorie": "verbe",
+    "definition": "faire être prêt",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "rendre": {
+    "categorie": "verbe",
+    "definition": "faire devenir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ajouter": {
+    "categorie": "verbe",
+    "definition": "mettre en plus",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ôter": {
+    "categorie": "verbe",
+    "definition": "prendre une partie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "remplir": {
+    "categorie": "verbe",
+    "definition": "rendre plein",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chose": {
+    "categorie": "nom",
+    "definition": "objet ou partie qui peut exister ou faire",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "personne": {
+    "categorie": "nom",
+    "definition": "homme femme ou enfant",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "gens": {
+    "categorie": "nom",
+    "definition": "groupe de personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "homme": {
+    "categorie": "nom",
+    "definition": "personne que on nommer il",
+    "exemples": [],
+    "note": "Proposition V2 courte ciblée."
+  },
+  "femme": {
+    "categorie": "nom",
+    "definition": "personne que on nommer elle",
+    "exemples": [],
+    "note": "Proposition V2 courte ciblée."
+  },
+  "enfant": {
+    "categorie": "nom",
+    "definition": "personne jeune",
+    "exemples": [],
+    "note": ""
+  },
+  "groupe": {
+    "categorie": "nom",
+    "definition": "ensemble de personne ou de chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "famille": {
+    "categorie": "nom",
+    "definition": "groupe de personne avec relation de vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "corps": {
+    "categorie": "nom",
+    "definition": "ensemble de partie de une personne ou de un animal",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "main": {
+    "categorie": "nom",
+    "definition": "partie de corps pour prendre",
+    "exemples": [],
+    "note": ""
+  },
+  "bras": {
+    "categorie": "nom",
+    "definition": "partie de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "jambe": {
+    "categorie": "nom",
+    "definition": "partie de corps pour marcher",
+    "exemples": [],
+    "note": ""
+  },
+  "pied": {
+    "categorie": "nom",
+    "definition": "partie de corps sous jambe",
+    "exemples": [],
+    "note": ""
+  },
+  "tête": {
+    "categorie": "nom",
+    "definition": "partie haut de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "œil": {
+    "categorie": "nom",
+    "definition": "partie de corps pour voir",
+    "exemples": [],
+    "note": ""
+  },
+  "oreille": {
+    "categorie": "nom",
+    "definition": "partie de corps pour entendre",
+    "exemples": [],
+    "note": ""
+  },
+  "nez": {
+    "categorie": "nom",
+    "definition": "partie de corps pour sentir",
+    "exemples": [],
+    "note": ""
+  },
+  "bouche": {
+    "categorie": "nom",
+    "definition": "partie de corps pour manger boire et parler",
+    "exemples": [],
+    "note": ""
+  },
+  "dent": {
+    "categorie": "nom",
+    "definition": "partie dur de bouche",
+    "exemples": [],
+    "note": ""
+  },
+  "visage": {
+    "categorie": "nom",
+    "definition": "partie avant de tête",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "peau": {
+    "categorie": "nom",
+    "definition": "partie extérieur de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "sang": {
+    "categorie": "nom",
+    "definition": "matière de corps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "os": {
+    "categorie": "nom",
+    "definition": "partie dur de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "cœur": {
+    "categorie": "nom",
+    "definition": "partie de corps pour vie et sentiment",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "esprit": {
+    "categorie": "nom",
+    "definition": "partie de personne pour penser comprendre et vouloir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "voix": {
+    "categorie": "nom",
+    "definition": "son pour parler",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mot": {
+    "categorie": "nom",
+    "definition": "signe de langue avec un sens",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Proposition V1: definition enrichie."
+  },
+  "nom": {
+    "categorie": "nom",
+    "definition": "mot pour nommer une chose une personne ou un lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "phrase": {
+    "categorie": "nom",
+    "definition": "ensemble de mot avec un sens",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "question": {
+    "categorie": "nom",
+    "definition": "phrase pour demander une information",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "réponse": {
+    "categorie": "nom",
+    "definition": "information ou phrase pour répondre à une question",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "idée": {
+    "categorie": "nom",
+    "definition": "forme de pensée dans esprit",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "pensée": {
+    "categorie": "nom",
+    "definition": "action de penser ou idée dans esprit",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "rêve": {
+    "categorie": "nom",
+    "definition": "image dans esprit pendant dormir",
+    "exemples": [],
+    "note": ""
+  },
+  "histoire": {
+    "categorie": "nom",
+    "definition": "ensemble de action dans le temps",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "livre": {
+    "categorie": "nom",
+    "definition": "groupe de page",
+    "exemples": [],
+    "note": ""
+  },
+  "page": {
+    "categorie": "nom",
+    "definition": "partie de livre ou de ensemble de mot",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "lettre": {
+    "categorie": "nom",
+    "definition": "signe pour écrire",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "nombre": {
+    "categorie": "nom",
+    "definition": "mot pour compter",
+    "exemples": [],
+    "note": ""
+  },
+  "ligne": {
+    "categorie": "nom",
+    "definition": "ensemble de point ou de mot",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "signe": {
+    "categorie": "nom",
+    "definition": "point image ou mot avec un sens",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "langue": {
+    "categorie": "nom",
+    "definition": "ensemble de mot et de règle pour parler",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "travail": {
+    "categorie": "nom",
+    "definition": "fait de travailler",
+    "exemples": [],
+    "note": ""
+  },
+  "argent": {
+    "categorie": "nom",
+    "definition": "chose pour acheter",
+    "exemples": [],
+    "note": ""
+  },
+  "prix": {
+    "categorie": "nom",
+    "definition": "nombre pour acheter",
+    "exemples": [],
+    "note": ""
+  },
+  "achat": {
+    "categorie": "nom",
+    "definition": "fait de acheter",
+    "exemples": [],
+    "note": ""
+  },
+  "vente": {
+    "categorie": "nom",
+    "definition": "fait de vendre",
+    "exemples": [],
+    "note": ""
+  },
+  "jeu": {
+    "categorie": "nom",
+    "definition": "fait de jouer",
+    "exemples": [],
+    "note": ""
+  },
+  "temps": {
+    "categorie": "nom",
+    "definition": "ensemble de moment entre avant et après",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "jour": {
+    "categorie": "nom",
+    "definition": "partie de temps avec lumière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "nuit": {
+    "categorie": "nom",
+    "definition": "partie de temps sans soleil",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "matin": {
+    "categorie": "nom",
+    "definition": "début de jour",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "soir": {
+    "categorie": "nom",
+    "definition": "fin de jour avant nuit",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "heure": {
+    "categorie": "nom",
+    "definition": "partie de temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "minute": {
+    "categorie": "nom",
+    "definition": "petit partie de heure",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "seconde": {
+    "categorie": "nom",
+    "definition": "petit partie de minute",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "fois": {
+    "categorie": "nom",
+    "definition": "un moment",
+    "exemples": [],
+    "note": ""
+  },
+  "début": {
+    "categorie": "nom",
+    "definition": "premier partie de un temps ou de une action",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "fin": {
+    "categorie": "nom",
+    "definition": "dernier partie de un temps ou de une action",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "moment": {
+    "categorie": "nom",
+    "definition": "partie de temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vie": {
+    "categorie": "nom",
+    "definition": "état de être vivant",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mort": {
+    "categorie": "nom",
+    "definition": "fin de vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "monde": {
+    "categorie": "nom",
+    "definition": "tout lieu et toute chose",
+    "exemples": [],
+    "note": ""
+  },
+  "terre": {
+    "categorie": "nom",
+    "definition": "partie de monde",
+    "exemples": [],
+    "note": ""
+  },
+  "ciel": {
+    "categorie": "nom",
+    "definition": "haut de monde",
+    "exemples": [],
+    "note": ""
+  },
+  "soleil": {
+    "categorie": "nom",
+    "definition": "grand lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "air": {
+    "categorie": "nom",
+    "definition": "chose pour vivre",
+    "exemples": [],
+    "note": ""
+  },
+  "eau": {
+    "categorie": "nom",
+    "definition": "chose pour boire",
+    "exemples": [],
+    "note": ""
+  },
+  "feu": {
+    "categorie": "nom",
+    "definition": "chaleur et lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "vent": {
+    "categorie": "nom",
+    "definition": "air qui bouger",
+    "exemples": [],
+    "note": ""
+  },
+  "pluie": {
+    "categorie": "nom",
+    "definition": "eau qui tomber",
+    "exemples": [],
+    "note": ""
+  },
+  "mer": {
+    "categorie": "nom",
+    "definition": "grand eau",
+    "exemples": [],
+    "note": ""
+  },
+  "arbre": {
+    "categorie": "nom",
+    "definition": "plante grand et haut",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "fleur": {
+    "categorie": "nom",
+    "definition": "partie de plante souvent beau",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "herbe": {
+    "categorie": "nom",
+    "definition": "plante petit",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "animal": {
+    "categorie": "nom",
+    "definition": "être vivant qui est pas une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "oiseau": {
+    "categorie": "nom",
+    "definition": "animal qui aller dans air",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "poisson": {
+    "categorie": "nom",
+    "definition": "animal qui vivre dans eau",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chien": {
+    "categorie": "nom",
+    "definition": "animal souvent avec une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chat": {
+    "categorie": "nom",
+    "definition": "petit animal souvent avec une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "route": {
+    "categorie": "nom",
+    "definition": "chemin pour aller de un lieu à un autre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "rue": {
+    "categorie": "nom",
+    "definition": "chemin dans une ville",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chemin": {
+    "categorie": "nom",
+    "definition": "place ou ligne pour aller",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ville": {
+    "categorie": "nom",
+    "definition": "grand lieu avec beaucoup de maison",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pays": {
+    "categorie": "nom",
+    "definition": "grand lieu avec ville et autre lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "lieu": {
+    "categorie": "nom",
+    "definition": "place dans le monde",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "maison": {
+    "categorie": "nom",
+    "definition": "lieu pour vivre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "porte": {
+    "categorie": "nom",
+    "definition": "partie de maison pour entrer ou sortir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "fenêtre": {
+    "categorie": "nom",
+    "definition": "partie de maison pour voir ou faire entrer lumière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mur": {
+    "categorie": "nom",
+    "definition": "partie de maison",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "toit": {
+    "categorie": "nom",
+    "definition": "partie haut de maison",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sol": {
+    "categorie": "nom",
+    "definition": "partie bas de un lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "table": {
+    "categorie": "nom",
+    "definition": "objet pour mettre une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chaise": {
+    "categorie": "nom",
+    "definition": "objet pour asseoir une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "lit": {
+    "categorie": "nom",
+    "definition": "objet pour dormir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "feuille": {
+    "categorie": "nom",
+    "definition": "partie de plante ou de page",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "papier": {
+    "categorie": "nom",
+    "definition": "matière pour écrire",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "image": {
+    "categorie": "nom",
+    "definition": "chose qui représenter une chose",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "couleur": {
+    "categorie": "nom",
+    "definition": "qualité de lumière pour voir",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "forme": {
+    "categorie": "nom",
+    "definition": "manière de être dans espace",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "taille": {
+    "categorie": "nom",
+    "definition": "mesure de grand ou de petit",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "poids": {
+    "categorie": "nom",
+    "definition": "mesure de force sur une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mesure": {
+    "categorie": "nom",
+    "definition": "nombre pour dire quantité taille poids ou temps",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "force": {
+    "categorie": "nom",
+    "definition": "qualité pour pousser tirer ou porter",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "lumière": {
+    "categorie": "nom",
+    "definition": "ce qui permettre de voir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ombre": {
+    "categorie": "nom",
+    "definition": "place sans lumière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chaleur": {
+    "categorie": "nom",
+    "definition": "état de ce qui est chaud",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sens": {
+    "categorie": "nom",
+    "definition": "information ou idée de un mot ou de un signe",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "usage": {
+    "categorie": "nom",
+    "definition": "fonction de une chose",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "partie": {
+    "categorie": "nom",
+    "definition": "chose dans un ensemble",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Reécriture contrôlée V1."
+  },
+  "face": {
+    "categorie": "nom",
+    "definition": "partie avant de une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "côté": {
+    "categorie": "nom",
+    "definition": "partie de place ou de surface",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "centre": {
+    "categorie": "nom",
+    "definition": "place entre tous les côté",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "bord": {
+    "categorie": "nom",
+    "definition": "fin de surface ou de lieu",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "intérieur": {
+    "categorie": "nom",
+    "definition": "partie de dans",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "extérieur": {
+    "categorie": "nom",
+    "definition": "partie de hors",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "cause": {
+    "categorie": "nom",
+    "definition": "ce qui produire un effet",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "effet": {
+    "categorie": "nom",
+    "definition": "ce qui venir après une cause",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "raison": {
+    "categorie": "nom",
+    "definition": "information qui expliquer une cause ou un choix",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "but": {
+    "categorie": "nom",
+    "definition": "fin de vouloir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "moyen": {
+    "categorie": "nom",
+    "definition": "objet action ou relation pour faire un but",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "problème": {
+    "categorie": "nom",
+    "definition": "chose difficile pour une action ou une réponse",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "solution": {
+    "categorie": "nom",
+    "definition": "réponse ou action pour finir un problème",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "erreur": {
+    "categorie": "nom",
+    "definition": "faute dans mot ou fait",
+    "exemples": [],
+    "note": ""
+  },
+  "faute": {
+    "categorie": "nom",
+    "definition": "mauvais fait",
+    "exemples": [],
+    "note": ""
+  },
+  "vérité": {
+    "categorie": "nom",
+    "definition": "information vrai",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mensonge": {
+    "categorie": "nom",
+    "definition": "information faux pour faire croire",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "droit": {
+    "categorie": "nom",
+    "definition": "règle ou chose possible pour une personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "loi": {
+    "categorie": "nom",
+    "definition": "règle général de un pays",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "règle": {
+    "categorie": "nom",
+    "definition": "mot qui dire comment faire une action",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "ordre": {
+    "categorie": "nom",
+    "definition": "mot pour demander une action",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "choix": {
+    "categorie": "nom",
+    "definition": "action de choisir entre des sorte",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "besoin": {
+    "categorie": "nom",
+    "definition": "chose ou action de devoir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "envie": {
+    "categorie": "nom",
+    "definition": "sentiment ou idée de vouloir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "peur": {
+    "categorie": "nom",
+    "definition": "sentiment de grand mal possible",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "joie": {
+    "categorie": "nom",
+    "definition": "sentiment de bien dans cœur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "tristesse": {
+    "categorie": "nom",
+    "definition": "état de cœur triste",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "douleur": {
+    "categorie": "nom",
+    "definition": "mal ou sentiment dur dans corps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "paix": {
+    "categorie": "nom",
+    "definition": "état sans guerre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "guerre": {
+    "categorie": "nom",
+    "definition": "action de groupe ou de pays contre un autre groupe ou pays",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "amour": {
+    "categorie": "nom",
+    "definition": "sentiment fort et bon pour une personne ou une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "haine": {
+    "categorie": "nom",
+    "definition": "sentiment fort et mauvais contre une personne ou une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mémoire": {
+    "categorie": "nom",
+    "definition": "partie de esprit pour garder une information",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "avenir": {
+    "categorie": "nom",
+    "definition": "temps après maintenant",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "passé": {
+    "categorie": "nom",
+    "definition": "temps avant maintenant",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "présent": {
+    "categorie": "nom",
+    "definition": "temps de maintenant",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "naissance": {
+    "categorie": "nom",
+    "definition": "début de vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "âge": {
+    "categorie": "nom",
+    "definition": "mesure de temps de vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "musique": {
+    "categorie": "nom",
+    "definition": "ensemble de son pour entendre",
+    "exemples": [],
+    "note": ""
+  },
+  "école": {
+    "categorie": "nom",
+    "definition": "lieu pour apprendre",
+    "exemples": [],
+    "note": ""
+  },
+  "pain": {
+    "categorie": "nom",
+    "definition": "chose à manger",
+    "exemples": [],
+    "note": ""
+  },
+  "outil": {
+    "categorie": "nom",
+    "definition": "objet pour faire une action",
+    "exemples": [],
+    "note": ""
+  },
+  "machine": {
+    "categorie": "nom",
+    "definition": "objet qui faire une action",
+    "exemples": [],
+    "note": ""
+  },
+  "voiture": {
+    "categorie": "nom",
+    "definition": "objet pour aller sur route",
+    "exemples": [],
+    "note": ""
+  },
+  "train": {
+    "categorie": "nom",
+    "definition": "objet pour aller de un lieu à un autre",
+    "exemples": [],
+    "note": ""
+  },
+  "téléphone": {
+    "categorie": "nom",
+    "definition": "objet pour parler avec une autre personne en un autre lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "bon": {
+    "categorie": "adjectif",
+    "definition": "avec qualité qui aider une personne ou une chose",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "mauvais": {
+    "categorie": "adjectif",
+    "definition": "avec effet qui faire mal ou problème",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "grand": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de taille",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "petit": {
+    "categorie": "adjectif",
+    "definition": "avec peu de taille",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "long": {
+    "categorie": "adjectif",
+    "definition": "grand en taille ou en temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "court": {
+    "categorie": "adjectif",
+    "definition": "petit en taille ou en temps",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "jeune": {
+    "categorie": "adjectif",
+    "definition": "avec peu de temps de vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vieux": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de temps de vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "nouveau": {
+    "categorie": "adjectif",
+    "definition": "de temps proche du début",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ancien": {
+    "categorie": "adjectif",
+    "definition": "de temps loin dans le passé",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "beau": {
+    "categorie": "adjectif",
+    "definition": "avec qualité bon pour voir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "laid": {
+    "categorie": "adjectif",
+    "definition": "avec qualité mauvais pour voir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "fort": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de force",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "faible": {
+    "categorie": "adjectif",
+    "definition": "avec peu de force",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "chaud": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de chaleur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "froid": {
+    "categorie": "adjectif",
+    "definition": "avec peu de chaleur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "plein": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de chose dans intérieur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vide": {
+    "categorie": "adjectif",
+    "definition": "sans chose dans intérieur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "facile": {
+    "categorie": "adjectif",
+    "definition": "possible avec peu de problème",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "difficile": {
+    "categorie": "adjectif",
+    "definition": "possible avec beaucoup de problème ou proche de impossible",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "possible": {
+    "categorie": "adjectif",
+    "definition": "qui peut être ou devenir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "impossible": {
+    "categorie": "adjectif",
+    "definition": "qui ne peut pas être",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vrai": {
+    "categorie": "adjectif",
+    "definition": "qui représenter bien ce qui est",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "faux": {
+    "categorie": "adjectif",
+    "definition": "qui ne représenter pas bien ce qui est",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "important": {
+    "categorie": "adjectif",
+    "definition": "avec grand effet ou grand valeur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "simple": {
+    "categorie": "adjectif",
+    "definition": "avec peu de partie et peu de problème",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "normal": {
+    "categorie": "adjectif",
+    "definition": "comme une règle ou un usage souvent voir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "propre": {
+    "categorie": "adjectif",
+    "definition": "sans sale ou sans erreur sur surface",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sale": {
+    "categorie": "adjectif",
+    "definition": "avec matière ou effet mauvais sur surface",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "heureux": {
+    "categorie": "adjectif",
+    "definition": "avec joie ou bien dans cœur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "triste": {
+    "categorie": "adjectif",
+    "definition": "avec tristesse ou mal dans cœur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "content": {
+    "categorie": "adjectif",
+    "definition": "heureux pour une raison proche",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "malade": {
+    "categorie": "adjectif",
+    "definition": "avec mal dans corps ou dans esprit",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "seul": {
+    "categorie": "adjectif",
+    "definition": "sans autre personne ou chose proche",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "premier": {
+    "categorie": "adjectif",
+    "definition": "au début de un ordre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "dernier": {
+    "categorie": "adjectif",
+    "definition": "à la fin de un ordre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "bas": {
+    "categorie": "adjectif",
+    "definition": "avec place près de sol",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "haut": {
+    "categorie": "adjectif",
+    "definition": "avec place loin de sol",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "large": {
+    "categorie": "adjectif",
+    "definition": "grand de côté",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "étroit": {
+    "categorie": "adjectif",
+    "definition": "avec peu de côté",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "clair": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de lumière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sombre": {
+    "categorie": "adjectif",
+    "definition": "avec peu de lumière",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "dur": {
+    "categorie": "adjectif",
+    "definition": "pas mou et difficile à changer de forme",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mou": {
+    "categorie": "adjectif",
+    "definition": "pas dur et facile à changer de forme",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "lent": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de temps pour une action ou un mouvement",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "rapide": {
+    "categorie": "adjectif",
+    "definition": "avec peu de temps pour une action ou un mouvement",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "riche": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de argent ou de valeur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "pauvre": {
+    "categorie": "adjectif",
+    "definition": "avec peu de argent ou de valeur",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "libre": {
+    "categorie": "adjectif",
+    "definition": "sans règle proche",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "prêt": {
+    "categorie": "adjectif",
+    "definition": "dans un état possible pour action",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "ouvert": {
+    "categorie": "adjectif",
+    "definition": "pas fermé",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "fermé": {
+    "categorie": "adjectif",
+    "definition": "pas ouvert",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "vivant": {
+    "categorie": "adjectif",
+    "definition": "qui avoir vie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "mortel": {
+    "categorie": "adjectif",
+    "definition": "qui pouvoir mourir",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "local": {
+    "categorie": "adjectif",
+    "definition": "de un lieu proche",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "général": {
+    "categorie": "adjectif",
+    "definition": "pour beaucoup de chose ou de personne",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "public": {
+    "categorie": "adjectif",
+    "definition": "pour tout le monde",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "privé": {
+    "categorie": "adjectif",
+    "definition": "pas public",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "utile": {
+    "categorie": "adjectif",
+    "definition": "avec bon usage ou bon effet",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "inutile": {
+    "categorie": "adjectif",
+    "definition": "sans usage utile",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "certain": {
+    "categorie": "adjectif",
+    "definition": "très vrai",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "différent": {
+    "categorie": "adjectif",
+    "definition": "pas le même",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "proche": {
+    "categorie": "adjectif",
+    "definition": "avec peu de distance entre une chose ou personne et une autre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1. Proposition V2 courte ciblée."
+  },
+  "lointain": {
+    "categorie": "adjectif",
+    "definition": "très loin",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "calme": {
+    "categorie": "adjectif",
+    "definition": "sans grand bruit ni grand mouvement",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "bruyant": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de bruit",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "sec": {
+    "categorie": "adjectif",
+    "definition": "sans eau sur surface",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "humide": {
+    "categorie": "adjectif",
+    "definition": "avec eau sur surface",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "égal": {
+    "categorie": "adjectif",
+    "definition": "sans différence de valeur de taille ou de nombre",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "entier": {
+    "categorie": "adjectif",
+    "definition": "avec toutes les partie",
+    "exemples": [],
+    "note": "Reécriture contrôlée V1."
+  },
+  "manière": {
+    "categorie": "nom",
+    "definition": "forme de faire une action",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "action": {
+    "categorie": "nom",
+    "definition": "ce que une personne ou une chose faire",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0. Proposition V2 courte ciblée."
+  },
+  "mouvement": {
+    "categorie": "nom",
+    "definition": "fait de bouger",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "objet": {
+    "categorie": "nom",
+    "definition": "chose que une personne peut voir ou toucher",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "matière": {
+    "categorie": "nom",
+    "definition": "ce qui faire une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "plante": {
+    "categorie": "nom",
+    "definition": "être vivant dans terre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "bruit": {
+    "categorie": "nom",
+    "definition": "son que on peut entendre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "espace": {
+    "categorie": "nom",
+    "definition": "grand lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "contact": {
+    "categorie": "nom",
+    "definition": "fait de toucher",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "direction": {
+    "categorie": "nom",
+    "definition": "côté vers où on va",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "distance": {
+    "categorie": "nom",
+    "definition": "mesure entre un lieu et un autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "place": {
+    "categorie": "nom",
+    "definition": "partie de lieu pour une chose ou une personne",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "surface": {
+    "categorie": "nom",
+    "definition": "partie de hors de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "point": {
+    "categorie": "nom",
+    "definition": "très petit lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "ensemble": {
+    "categorie": "nom",
+    "definition": "groupe de chose ou de personne",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "relation": {
+    "categorie": "nom",
+    "definition": "chose entre une personne ou une chose et une autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "état": {
+    "categorie": "nom",
+    "definition": "manière de être",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "fonction": {
+    "categorie": "nom",
+    "definition": "usage de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "valeur": {
+    "categorie": "nom",
+    "definition": "prix ou bon usage de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "quantité": {
+    "categorie": "nom",
+    "definition": "nombre de chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "qualité": {
+    "categorie": "nom",
+    "definition": "manière de être de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "sorte": {
+    "categorie": "nom",
+    "definition": "groupe de chose proche",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "genre": {
+    "categorie": "nom",
+    "definition": "grand sorte de chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "reste": {
+    "categorie": "nom",
+    "definition": "partie qui est encore là",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "devenir": {
+    "categorie": "verbe",
+    "definition": "commencer à être",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "produire": {
+    "categorie": "verbe",
+    "definition": "faire être une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "permettre": {
+    "categorie": "verbe",
+    "definition": "faire que une chose est possible",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "appartenir": {
+    "categorie": "verbe",
+    "definition": "être à une personne ou à un groupe",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "contenir": {
+    "categorie": "verbe",
+    "definition": "avoir une chose dans une autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "former": {
+    "categorie": "verbe",
+    "definition": "faire un tout avec des partie",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "signifier": {
+    "categorie": "verbe",
+    "definition": "avoir un sens",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "représenter": {
+    "categorie": "verbe",
+    "definition": "montrer une chose par image ou par mot",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "exister": {
+    "categorie": "verbe",
+    "definition": "être dans le monde",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "placer": {
+    "categorie": "verbe",
+    "definition": "mettre dans un lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "occuper": {
+    "categorie": "verbe",
+    "definition": "prendre une place dans un lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "résultat": {
+    "categorie": "nom",
+    "definition": "effet de fin de une action",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "différence": {
+    "categorie": "nom",
+    "definition": "fait de être autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "ressemblance": {
+    "categorie": "nom",
+    "definition": "fait de être comme une autre chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "sentiment": {
+    "categorie": "nom",
+    "definition": "état du cœur ou de esprit",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "émotion": {
+    "categorie": "nom",
+    "definition": "sentiment fort",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "grandir": {
+    "categorie": "verbe",
+    "definition": "devenir plus grand",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "communiquer": {
+    "categorie": "verbe",
+    "definition": "parler pour donner une information",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "information": {
+    "categorie": "nom",
+    "definition": "mot ou signe qui dire une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "comparer": {
+    "categorie": "verbe",
+    "definition": "regarder une chose et une autre pour voir le même et autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "décrire": {
+    "categorie": "verbe",
+    "definition": "dire comment une chose est",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "nommer": {
+    "categorie": "verbe",
+    "definition": "donner un nom",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "article": {
+    "categorie": "nom",
+    "definition": "mot simple avant un nom",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0. Reécriture contrôlée V1."
+  },
+  "pronom": {
+    "categorie": "nom",
+    "definition": "mot qui prendre la place de un nom",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0. Reécriture contrôlée V1."
+  },
+  "verbe": {
+    "categorie": "nom",
+    "definition": "mot pour dire une action un état ou une relation",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0. Reécriture contrôlée V1."
+  },
+  "adjectif": {
+    "categorie": "nom",
+    "definition": "mot pour dire une qualité ou un état de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0. Reécriture contrôlée V1."
+  },
+  "bonjour": {
+    "categorie": "grammaire",
+    "definition": "mot pour parler à une personne au début de un jour",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "merci": {
+    "categorie": "grammaire",
+    "definition": "mot pour dire à une personne que on voir un bon effet de une action",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "pardon": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander paix après une erreur ou un mal",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "faim": {
+    "categorie": "nom",
+    "definition": "besoin de manger",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "soif": {
+    "categorie": "nom",
+    "definition": "besoin de boire",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "gauche": {
+    "categorie": "nom",
+    "definition": "côté de une personne où le cœur est souvent plus près",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "droite": {
+    "categorie": "nom",
+    "definition": "côté de une personne où le cœur est souvent plus loin",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "devant": {
+    "categorie": "nom",
+    "definition": "place près de la face de une personne ou de une chose",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "derrière": {
+    "categorie": "nom",
+    "definition": "place loin de la face de une personne ou de une chose",
+    "exemples": [],
+    "note": "Ajout pragmatique proposé pour V2.2."
+  },
+  "santé": {
+    "categorie": "nom",
+    "definition": "bon état de corps et de esprit",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "fièvre": {
+    "categorie": "nom",
+    "definition": "état de corps avec beaucoup de chaleur",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "toux": {
+    "categorie": "nom",
+    "definition": "action de corps avec son de gorge",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "fatigue": {
+    "categorie": "nom",
+    "definition": "état de corps avec peu de force",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "blessure": {
+    "categorie": "nom",
+    "definition": "mal dans peau ou dans une autre partie de corps",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "médicament": {
+    "categorie": "nom",
+    "definition": "chose que on prendre pour soin ou pour guérir",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "médecin": {
+    "categorie": "nom",
+    "definition": "personne de santé qui donner un soin ou un traitement",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "soin": {
+    "categorie": "nom",
+    "definition": "action pour aider corps ou esprit",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "guérir": {
+    "categorie": "verbe",
+    "definition": "devenir en bon santé après maladie",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "urgence": {
+    "categorie": "nom",
+    "definition": "moment où un soin ne peut pas attendre",
+    "exemples": [],
+    "note": "Ajout V3.0 santé."
+  },
+  "organe": {
+    "categorie": "nom",
+    "definition": "partie de corps avec une fonction",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "ventre": {
+    "categorie": "nom",
+    "definition": "partie de corps sous poitrine",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "dos": {
+    "categorie": "nom",
+    "definition": "partie de corps derrière poitrine et ventre",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "gorge": {
+    "categorie": "nom",
+    "definition": "partie de corps entre bouche et poitrine",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "poitrine": {
+    "categorie": "nom",
+    "definition": "partie avant de corps entre gorge et ventre",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "cerveau": {
+    "categorie": "nom",
+    "definition": "organe de tête pour penser et sentir",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "muscle": {
+    "categorie": "nom",
+    "definition": "partie de corps qui aider le mouvement",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "cellule": {
+    "categorie": "nom",
+    "definition": "très petit partie de corps de plante ou de animal",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "respiration": {
+    "categorie": "nom",
+    "definition": "action de respirer",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "respirer": {
+    "categorie": "verbe",
+    "definition": "prendre air et rendre air",
+    "exemples": [],
+    "note": "Ajout V3.0 biologie."
+  },
+  "uriner": {
+    "categorie": "verbe",
+    "definition": "rendre eau de corps",
+    "exemples": [],
+    "note": "Ajout V3.0 fonction corporelle."
+  },
+  "saigner": {
+    "categorie": "verbe",
+    "definition": "rendre sang",
+    "exemples": [],
+    "note": "Ajout V3.0 fonction corporelle."
+  },
+  "vomir": {
+    "categorie": "verbe",
+    "definition": "rendre manger ou boire par bouche",
+    "exemples": [],
+    "note": "Ajout V3.0 fonction corporelle."
+  },
+  "sexe": {
+    "categorie": "nom",
+    "definition": "partie de corps pour relation sexuel et pour naissance",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "sexuel": {
+    "categorie": "adjectif",
+    "definition": "de sexe ou de désir de corps",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "désir": {
+    "categorie": "nom",
+    "definition": "envie de corps ou de esprit vers une chose ou une personne",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "plaisir": {
+    "categorie": "nom",
+    "definition": "bon sentiment de corps ou de esprit",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "consentement": {
+    "categorie": "nom",
+    "definition": "oui libre pour une relation ou une action",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "enceinte": {
+    "categorie": "adjectif",
+    "definition": "avec un enfant dans corps",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "grossesse": {
+    "categorie": "nom",
+    "definition": "état de une personne enceinte",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "parent": {
+    "categorie": "nom",
+    "definition": "père ou mère de un enfant",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "père": {
+    "categorie": "nom",
+    "definition": "parent homme",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "mère": {
+    "categorie": "nom",
+    "definition": "parent femme",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "couple": {
+    "categorie": "nom",
+    "definition": "groupe de personne dans une même relation",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "protéger": {
+    "categorie": "verbe",
+    "definition": "garder contre un danger ou un risque",
+    "exemples": [],
+    "note": "Ajout V3.0 reproduction."
+  },
+  "hôpital": {
+    "categorie": "nom",
+    "definition": "lieu de soin pour malade",
+    "exemples": [],
+    "note": "Ajout V3.0 médical."
+  },
+  "traitement": {
+    "categorie": "nom",
+    "definition": "groupe de soin ou de médicament",
+    "exemples": [],
+    "note": "Ajout V3.0 médical."
+  },
+  "symptôme": {
+    "categorie": "nom",
+    "definition": "signe de maladie ou de problème de santé",
+    "exemples": [],
+    "note": "Ajout V3.0 médical."
+  },
+  "maladie": {
+    "categorie": "nom",
+    "definition": "état de corps ou de esprit pas en bon santé",
+    "exemples": [],
+    "note": "Ajout V3.0 médical."
+  },
+  "danger": {
+    "categorie": "nom",
+    "definition": "grand risque de mal ou de mort",
+    "exemples": [],
+    "note": "Ajout V3.0 médical."
+  },
+  "risque": {
+    "categorie": "nom",
+    "definition": "possible mal ou possible danger",
+    "exemples": [],
+    "note": "Ajout V3.0 médical."
+  },
+  "infection": {
+    "categorie": "nom",
+    "definition": "maladie qui venir par virus ou bactérie",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "virus": {
+    "categorie": "nom",
+    "definition": "très petit vivant qui peut donner une infection",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "bactérie": {
+    "categorie": "nom",
+    "definition": "très petit vivant qui peut donner une infection",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "allergie": {
+    "categorie": "nom",
+    "definition": "maladie où le corps a une mauvaise réponse à une chose",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "examen": {
+    "categorie": "nom",
+    "definition": "action pour voir et comprendre un problème de santé",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "analyse": {
+    "categorie": "nom",
+    "definition": "action pour comprendre un résultat ou un problème de santé",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "radio": {
+    "categorie": "nom",
+    "definition": "examen de corps par image",
+    "exemples": [],
+    "note": "Ajout V3.1 examens."
+  },
+  "test": {
+    "categorie": "nom",
+    "definition": "examen simple pour avoir un résultat",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "consultation": {
+    "categorie": "nom",
+    "definition": "moment où un patient parler avec un médecin",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "patient": {
+    "categorie": "nom",
+    "definition": "personne malade ou personne qui venir voir un médecin",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "opération": {
+    "categorie": "nom",
+    "definition": "soin difficile dans un hôpital",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "vaccin": {
+    "categorie": "nom",
+    "definition": "médicament pour prévenir une maladie",
+    "exemples": [],
+    "note": "Ajout V3.1 prévention."
+  },
+  "vacciner": {
+    "categorie": "verbe",
+    "definition": "donner un vaccin à une personne",
+    "exemples": [],
+    "note": "Ajout V3.1 prévention."
+  },
+  "prévention": {
+    "categorie": "nom",
+    "definition": "action pour prévenir une maladie ou un danger",
+    "exemples": [],
+    "note": "Ajout V3.1 prévention."
+  },
+  "prévenir": {
+    "categorie": "verbe",
+    "definition": "faire avant pour que maladie ou danger ne venir",
+    "exemples": [],
+    "note": "Ajout V3.1 prévention."
+  },
+  "hygiène": {
+    "categorie": "nom",
+    "definition": "règle et soin pour garder le corps propre et prévenir une maladie",
+    "exemples": [],
+    "note": "Ajout V3.1 prévention."
+  },
+  "dose": {
+    "categorie": "nom",
+    "definition": "quantité de médicament pour une fois",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "ordonnance": {
+    "categorie": "nom",
+    "definition": "page de médecin pour donner un médicament ou un traitement",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "pharmacie": {
+    "categorie": "nom",
+    "definition": "lieu pour avoir un médicament",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "infirmier": {
+    "categorie": "nom",
+    "definition": "personne de soin dans un hôpital ou une clinique",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "infirmière": {
+    "categorie": "nom",
+    "definition": "personne de soin dans un hôpital ou une clinique",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "clinique": {
+    "categorie": "nom",
+    "definition": "lieu de soin avec médecin et infirmier",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "poumon": {
+    "categorie": "nom",
+    "definition": "organe de poitrine pour respirer",
+    "exemples": [],
+    "note": "Ajout V3.1 biologie."
+  },
+  "estomac": {
+    "categorie": "nom",
+    "definition": "organe de ventre pour recevoir manger et boire",
+    "exemples": [],
+    "note": "Ajout V3.1 biologie."
+  },
+  "foie": {
+    "categorie": "nom",
+    "definition": "organe de ventre",
+    "exemples": [],
+    "note": "Ajout V3.1 biologie."
+  },
+  "rein": {
+    "categorie": "nom",
+    "definition": "organe de corps pour uriner",
+    "exemples": [],
+    "note": "Ajout V3.1 biologie."
+  },
+  "utérus": {
+    "categorie": "nom",
+    "definition": "organe de corps où un enfant peut vivre avant naissance",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "vagin": {
+    "categorie": "nom",
+    "definition": "partie de sexe de femme",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "pénis": {
+    "categorie": "nom",
+    "definition": "partie de sexe de homme",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "sperme": {
+    "categorie": "nom",
+    "definition": "partie de sexe de homme pour naissance",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "ovule": {
+    "categorie": "nom",
+    "definition": "partie de corps de femme pour naissance",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "règles": {
+    "categorie": "nom",
+    "definition": "sang de femme qui venir souvent hors grossesse",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "contraception": {
+    "categorie": "nom",
+    "definition": "manière pour ne pas avoir une grossesse",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "préservatif": {
+    "categorie": "nom",
+    "definition": "objet pour prévenir une grossesse ou une infection dans une relation sexuel",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "sexualité": {
+    "categorie": "nom",
+    "definition": "ensemble de désir plaisir sexe relation et consentement",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "accoucher": {
+    "categorie": "verbe",
+    "definition": "faire venir un enfant hors de corps à la fin de une grossesse",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "diarrhée": {
+    "categorie": "nom",
+    "definition": "mal de ventre avec eau qui sortir souvent",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "nausée": {
+    "categorie": "nom",
+    "definition": "envie de vomir",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "infecter": {
+    "categorie": "verbe",
+    "definition": "faire venir une infection à une personne ou à une partie de corps",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "saignement": {
+    "categorie": "nom",
+    "definition": "action de saigner",
+    "exemples": [],
+    "note": "Ajout V3.1 santé pratique."
+  },
+  "conscience": {
+    "categorie": "nom",
+    "definition": "état de esprit qui peut sentir comprendre et répondre",
+    "exemples": [],
+    "note": "Ajout V3.1 urgence."
+  },
+  "inconscient": {
+    "categorie": "adjectif",
+    "definition": "sans conscience",
+    "exemples": [],
+    "note": "Ajout V3.1 urgence."
+  },
+  "positif": {
+    "categorie": "adjectif",
+    "definition": "avec un bon résultat",
+    "exemples": [],
+    "note": "Ajout V3.1 examens."
+  },
+  "négatif": {
+    "categorie": "adjectif",
+    "definition": "avec un mauvais résultat",
+    "exemples": [],
+    "note": "Ajout V3.1 examens."
+  },
+  "contamination": {
+    "categorie": "nom",
+    "definition": "action de faire venir une infection à une personne",
+    "exemples": [],
+    "note": "Ajout V3.1 infection."
+  },
+  "contaminer": {
+    "categorie": "verbe",
+    "definition": "faire venir un virus ou une bactérie à une personne",
+    "exemples": [],
+    "note": "Ajout V3.1 infection."
+  },
+  "ovaire": {
+    "categorie": "nom",
+    "definition": "organe de femme pour ovule",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "testicule": {
+    "categorie": "nom",
+    "definition": "organe de homme pour sperme",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "fertilité": {
+    "categorie": "nom",
+    "definition": "état de pouvoir avoir un enfant",
+    "exemples": [],
+    "note": "Ajout V3.1 reproduction."
+  },
+  "nerf": {
+    "categorie": "nom",
+    "definition": "partie de corps entre cerveau et autre partie de corps",
+    "exemples": [],
+    "note": "Ajout V3.1 biologie."
+  },
+  "emploi": {
+    "categorie": "nom",
+    "definition": "travail de une personne",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "métier": {
+    "categorie": "nom",
+    "definition": "travail que une personne faire souvent pour argent",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "entreprise": {
+    "categorie": "nom",
+    "definition": "groupe de personne pour travail et argent",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "bureau": {
+    "categorie": "nom",
+    "definition": "lieu de travail avec table papier et document",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "collègue": {
+    "categorie": "nom",
+    "definition": "personne qui travailler avec une autre personne",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "responsable": {
+    "categorie": "nom",
+    "definition": "personne qui devoir répondre de un travail ou de un groupe",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "chef": {
+    "categorie": "nom",
+    "definition": "responsable au plus haut de un groupe de travail",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "client": {
+    "categorie": "nom",
+    "definition": "personne qui payer pour un service ou pour une chose",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "projet": {
+    "categorie": "nom",
+    "definition": "travail avec un but et un temps",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "tâche": {
+    "categorie": "nom",
+    "definition": "petit travail dans un projet ou dans un autre travail",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "réunion": {
+    "categorie": "nom",
+    "definition": "moment où des personne parler de un travail ou de un projet",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "contrat": {
+    "categorie": "nom",
+    "definition": "accord sur papier entre des personne ou des groupe",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "salaire": {
+    "categorie": "nom",
+    "definition": "argent que une personne recevoir pour un travail",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "congé": {
+    "categorie": "nom",
+    "definition": "temps sans travail avec autorisation",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "horaire": {
+    "categorie": "nom",
+    "definition": "heure de début et heure de fin de un travail",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "poste": {
+    "categorie": "nom",
+    "definition": "place de travail de une personne",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "document": {
+    "categorie": "nom",
+    "definition": "papier ou page avec information",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "dossier": {
+    "categorie": "nom",
+    "definition": "groupe de document sur une personne ou un projet",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "formulaire": {
+    "categorie": "nom",
+    "definition": "document avec des question et des place pour écrire",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "demande": {
+    "categorie": "nom",
+    "definition": "question ou document pour avoir une chose un droit ou un service",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "service": {
+    "categorie": "nom",
+    "definition": "travail pour aider une personne ou un groupe",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "administration": {
+    "categorie": "nom",
+    "definition": "service public avec document règle et formulaire",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "mairie": {
+    "categorie": "nom",
+    "definition": "lieu de administration de une ville",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "numéro": {
+    "categorie": "nom",
+    "definition": "nom de nombre pour une chose une personne ou un document",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "adresse": {
+    "categorie": "nom",
+    "definition": "nom de lieu de une maison ou de un service",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "identité": {
+    "categorie": "nom",
+    "definition": "information sur le nom de une personne",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "carte": {
+    "categorie": "nom",
+    "definition": "petit document pour montrer une identité ou une autorisation",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "preuve": {
+    "categorie": "nom",
+    "definition": "chose ou document qui montrer que une chose est vrai",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "signature": {
+    "categorie": "nom",
+    "definition": "nom que une personne écrire sur un document",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "rendez-vous": {
+    "categorie": "nom",
+    "definition": "moment que une personne choisir pour voir une autre personne",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "banque": {
+    "categorie": "nom",
+    "definition": "service pour argent et compte",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "compte": {
+    "categorie": "nom",
+    "definition": "place de argent dans une banque",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "paiement": {
+    "categorie": "nom",
+    "definition": "action de payer",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "facture": {
+    "categorie": "nom",
+    "definition": "document qui montrer un prix ou un paiement",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "dette": {
+    "categorie": "nom",
+    "definition": "argent que une personne devoir payer",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "revenu": {
+    "categorie": "nom",
+    "definition": "argent que une personne recevoir",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "dépense": {
+    "categorie": "nom",
+    "definition": "argent que une personne payer pour une chose ou un service",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "impôt": {
+    "categorie": "nom",
+    "definition": "argent que une personne ou une entreprise devoir payer à une administration",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "taxe": {
+    "categorie": "nom",
+    "definition": "argent à payer pour une chose ou un service",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "assurance": {
+    "categorie": "nom",
+    "definition": "accord pour protéger contre un risque",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "aide": {
+    "categorie": "nom",
+    "definition": "action ou argent pour aider",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "accord": {
+    "categorie": "nom",
+    "definition": "oui entre une personne ou un groupe et une autre personne ou un autre groupe",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "obligation": {
+    "categorie": "nom",
+    "definition": "chose que une personne devoir faire",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "autorisation": {
+    "categorie": "nom",
+    "definition": "accord ou document qui permettre une action",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "interdit": {
+    "categorie": "adjectif",
+    "definition": "pas permis par une règle ou une loi",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "permis": {
+    "categorie": "nom",
+    "definition": "autorisation ou document pour une action",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "responsabilité": {
+    "categorie": "nom",
+    "definition": "obligation de répondre de une action ou de un danger",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "plainte": {
+    "categorie": "nom",
+    "definition": "demande de droit après un mal ou un problème",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "juge": {
+    "categorie": "nom",
+    "definition": "personne de loi qui dire le droit dans un problème",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  },
+  "tribunal": {
+    "categorie": "nom",
+    "definition": "lieu où un juge voir une plainte ou un problème de droit",
+    "exemples": [],
+    "note": "Ajout V3.2 travail administration argent droit."
+  }
+}

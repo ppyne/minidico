@@ -1,0 +1,11 @@
+être : Verbe premier indispensable pour l existence et l attribution.
+avoir : Verbe premier utile pour la possession et de nombreuses periphrases.
+faire : Verbe premier tres productif dans les definitions minimales.
+chose : Nom tres general qui sert de support a de nombreuses definitions.
+personne : Nom premier pour les references humaines de base.
+temps : Notion structurante difficile a reduire sans circularite.
+partie : Mot outil pour decomposer le corps, les lieux et les objets.
+mot : Unite metalinguistique necessaire pour definir le dictionnaire lui meme.
+idée : Support minimal pour les contenus mentaux et abstraits.
+autre : Relation primitive de difference frequente dans les definitions.
+même : Relation primitive d identite ou de repetition frequente dans les definitions.

@@ -1,0 +1,3002 @@
+{
+  "le": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "la": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "les": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "un": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "une": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "des": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "de": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "du": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "à": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "au": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "aux": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "ce": {
+    "categorie": "grammaire",
+    "definition": "mot pour montrer",
+    "exemples": [],
+    "note": ""
+  },
+  "cette": {
+    "categorie": "grammaire",
+    "definition": "mot pour montrer",
+    "exemples": [],
+    "note": ""
+  },
+  "ces": {
+    "categorie": "grammaire",
+    "definition": "mot pour montrer",
+    "exemples": [],
+    "note": ""
+  },
+  "mon": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "ma": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "mes": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "ton": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "ta": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "tes": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "son": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "sa": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "ses": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "notre": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "nos": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "votre": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "vos": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "leur": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "leurs": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "je": {
+    "categorie": "grammaire",
+    "definition": "mot pour personne qui parler",
+    "exemples": [],
+    "note": ""
+  },
+  "tu": {
+    "categorie": "grammaire",
+    "definition": "mot pour personne avec qui je parler",
+    "exemples": [],
+    "note": ""
+  },
+  "il": {
+    "categorie": "grammaire",
+    "definition": "mot pour homme",
+    "exemples": [],
+    "note": ""
+  },
+  "elle": {
+    "categorie": "grammaire",
+    "definition": "mot pour femme",
+    "exemples": [],
+    "note": ""
+  },
+  "on": {
+    "categorie": "grammaire",
+    "definition": "mot pour personne",
+    "exemples": [],
+    "note": ""
+  },
+  "nous": {
+    "categorie": "grammaire",
+    "definition": "mot pour groupe avec je",
+    "exemples": [],
+    "note": ""
+  },
+  "vous": {
+    "categorie": "grammaire",
+    "definition": "mot pour groupe ou personne",
+    "exemples": [],
+    "note": ""
+  },
+  "ils": {
+    "categorie": "grammaire",
+    "definition": "mot pour groupe",
+    "exemples": [],
+    "note": ""
+  },
+  "elles": {
+    "categorie": "grammaire",
+    "definition": "mot pour groupe",
+    "exemples": [],
+    "note": ""
+  },
+  "me": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "te": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "se": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "moi": {
+    "categorie": "grammaire",
+    "definition": "mot pour je",
+    "exemples": [],
+    "note": ""
+  },
+  "toi": {
+    "categorie": "grammaire",
+    "definition": "mot pour tu",
+    "exemples": [],
+    "note": ""
+  },
+  "lui": {
+    "categorie": "grammaire",
+    "definition": "mot pour personne",
+    "exemples": [],
+    "note": ""
+  },
+  "eux": {
+    "categorie": "grammaire",
+    "definition": "mot pour groupe",
+    "exemples": [],
+    "note": ""
+  },
+  "qui": {
+    "categorie": "grammaire",
+    "definition": "mot pour personne ou chose",
+    "exemples": [],
+    "note": ""
+  },
+  "que": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "quoi": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander une chose",
+    "exemples": [],
+    "note": ""
+  },
+  "où": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander un lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "y": {
+    "categorie": "grammaire",
+    "definition": "mot pour lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "en": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "ne": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "pas": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "plus": {
+    "categorie": "grammaire",
+    "definition": "mot pour beaucoup ou pour pas",
+    "exemples": [],
+    "note": ""
+  },
+  "jamais": {
+    "categorie": "grammaire",
+    "definition": "pas dans aucun temps",
+    "exemples": [],
+    "note": ""
+  },
+  "rien": {
+    "categorie": "grammaire",
+    "definition": "pas une chose",
+    "exemples": [],
+    "note": ""
+  },
+  "tout": {
+    "categorie": "grammaire",
+    "definition": "la chose entier",
+    "exemples": [],
+    "note": ""
+  },
+  "toute": {
+    "categorie": "grammaire",
+    "definition": "la chose entier",
+    "exemples": [],
+    "note": ""
+  },
+  "tous": {
+    "categorie": "grammaire",
+    "definition": "le groupe entier",
+    "exemples": [],
+    "note": ""
+  },
+  "toutes": {
+    "categorie": "grammaire",
+    "definition": "le groupe entier",
+    "exemples": [],
+    "note": ""
+  },
+  "chaque": {
+    "categorie": "grammaire",
+    "definition": "un par un",
+    "exemples": [],
+    "note": ""
+  },
+  "aucun": {
+    "categorie": "grammaire",
+    "definition": "pas un",
+    "exemples": [],
+    "note": ""
+  },
+  "autre": {
+    "categorie": "grammaire",
+    "definition": "pas le même",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "même": {
+    "categorie": "grammaire",
+    "definition": "pas autre",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "si": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "quand": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander un temps",
+    "exemples": [],
+    "note": ""
+  },
+  "comme": {
+    "categorie": "grammaire",
+    "definition": "mot pour dire près du même",
+    "exemples": [],
+    "note": ""
+  },
+  "car": {
+    "categorie": "grammaire",
+    "definition": "mot pour raison",
+    "exemples": [],
+    "note": ""
+  },
+  "donc": {
+    "categorie": "grammaire",
+    "definition": "mot pour effet",
+    "exemples": [],
+    "note": ""
+  },
+  "ou": {
+    "categorie": "grammaire",
+    "definition": "mot pour choix",
+    "exemples": [],
+    "note": ""
+  },
+  "mais": {
+    "categorie": "grammaire",
+    "definition": "mot pour autre sens",
+    "exemples": [],
+    "note": ""
+  },
+  "et": {
+    "categorie": "grammaire",
+    "definition": "mot pour groupe",
+    "exemples": [],
+    "note": ""
+  },
+  "ni": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "puis": {
+    "categorie": "grammaire",
+    "definition": "après",
+    "exemples": [],
+    "note": ""
+  },
+  "aussi": {
+    "categorie": "grammaire",
+    "definition": "comme même",
+    "exemples": [],
+    "note": ""
+  },
+  "très": {
+    "categorie": "grammaire",
+    "definition": "plus",
+    "exemples": [],
+    "note": ""
+  },
+  "trop": {
+    "categorie": "grammaire",
+    "definition": "plus que assez",
+    "exemples": [],
+    "note": ""
+  },
+  "assez": {
+    "categorie": "grammaire",
+    "definition": "pas peu et pas trop",
+    "exemples": [],
+    "note": ""
+  },
+  "peu": {
+    "categorie": "grammaire",
+    "definition": "pas beaucoup",
+    "exemples": [],
+    "note": ""
+  },
+  "beaucoup": {
+    "categorie": "grammaire",
+    "definition": "plus que peu",
+    "exemples": [],
+    "note": ""
+  },
+  "bien": {
+    "categorie": "grammaire",
+    "definition": "pas mal",
+    "exemples": [],
+    "note": ""
+  },
+  "mal": {
+    "categorie": "grammaire",
+    "definition": "pas bien",
+    "exemples": [],
+    "note": ""
+  },
+  "oui": {
+    "categorie": "grammaire",
+    "definition": "réponse bon",
+    "exemples": [],
+    "note": ""
+  },
+  "non": {
+    "categorie": "grammaire",
+    "definition": "réponse pas bon",
+    "exemples": [],
+    "note": ""
+  },
+  "ici": {
+    "categorie": "grammaire",
+    "definition": "dans ce lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "là": {
+    "categorie": "grammaire",
+    "definition": "dans un lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "ailleurs": {
+    "categorie": "grammaire",
+    "definition": "dans un autre lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "maintenant": {
+    "categorie": "grammaire",
+    "definition": "dans le temps présent",
+    "exemples": [],
+    "note": ""
+  },
+  "aujourd’hui": {
+    "categorie": "grammaire",
+    "definition": "dans ce jour",
+    "exemples": [],
+    "note": ""
+  },
+  "hier": {
+    "categorie": "grammaire",
+    "definition": "dans le jour avant",
+    "exemples": [],
+    "note": ""
+  },
+  "demain": {
+    "categorie": "grammaire",
+    "definition": "dans le jour après",
+    "exemples": [],
+    "note": ""
+  },
+  "toujours": {
+    "categorie": "grammaire",
+    "definition": "dans tout temps",
+    "exemples": [],
+    "note": ""
+  },
+  "souvent": {
+    "categorie": "grammaire",
+    "definition": "dans beaucoup de fois",
+    "exemples": [],
+    "note": ""
+  },
+  "parfois": {
+    "categorie": "grammaire",
+    "definition": "pas toujours et pas jamais",
+    "exemples": [],
+    "note": ""
+  },
+  "déjà": {
+    "categorie": "grammaire",
+    "definition": "avant maintenant",
+    "exemples": [],
+    "note": ""
+  },
+  "encore": {
+    "categorie": "grammaire",
+    "definition": "une autre fois",
+    "exemples": [],
+    "note": ""
+  },
+  "bientôt": {
+    "categorie": "grammaire",
+    "definition": "après peu de temps",
+    "exemples": [],
+    "note": ""
+  },
+  "avant": {
+    "categorie": "grammaire",
+    "definition": "dans un temps premier",
+    "exemples": [],
+    "note": ""
+  },
+  "après": {
+    "categorie": "grammaire",
+    "definition": "dans un temps dernier",
+    "exemples": [],
+    "note": ""
+  },
+  "alors": {
+    "categorie": "grammaire",
+    "definition": "dans ce moment",
+    "exemples": [],
+    "note": ""
+  },
+  "ainsi": {
+    "categorie": "grammaire",
+    "definition": "comme même",
+    "exemples": [],
+    "note": ""
+  },
+  "comment": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander",
+    "exemples": [],
+    "note": ""
+  },
+  "pourquoi": {
+    "categorie": "grammaire",
+    "definition": "mot pour demander une raison",
+    "exemples": [],
+    "note": ""
+  },
+  "parce": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "pour": {
+    "categorie": "grammaire",
+    "definition": "mot avec but",
+    "exemples": [],
+    "note": ""
+  },
+  "par": {
+    "categorie": "grammaire",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "avec": {
+    "categorie": "grammaire",
+    "definition": "dans le même groupe",
+    "exemples": [],
+    "note": ""
+  },
+  "sans": {
+    "categorie": "grammaire",
+    "definition": "pas avec",
+    "exemples": [],
+    "note": ""
+  },
+  "chez": {
+    "categorie": "grammaire",
+    "definition": "dans le lieu de personne",
+    "exemples": [],
+    "note": ""
+  },
+  "entre": {
+    "categorie": "grammaire",
+    "definition": "dans plus de un côté",
+    "exemples": [],
+    "note": ""
+  },
+  "contre": {
+    "categorie": "grammaire",
+    "definition": "sur autre face",
+    "exemples": [],
+    "note": ""
+  },
+  "vers": {
+    "categorie": "grammaire",
+    "definition": "pour aller",
+    "exemples": [],
+    "note": ""
+  },
+  "sous": {
+    "categorie": "grammaire",
+    "definition": "plus bas que",
+    "exemples": [],
+    "note": ""
+  },
+  "sur": {
+    "categorie": "grammaire",
+    "definition": "plus haut que",
+    "exemples": [],
+    "note": ""
+  },
+  "dans": {
+    "categorie": "grammaire",
+    "definition": "à intérieur de",
+    "exemples": [],
+    "note": ""
+  },
+  "hors": {
+    "categorie": "grammaire",
+    "definition": "pas dans",
+    "exemples": [],
+    "note": ""
+  },
+  "depuis": {
+    "categorie": "grammaire",
+    "definition": "à partir de avant",
+    "exemples": [],
+    "note": ""
+  },
+  "jusque": {
+    "categorie": "grammaire",
+    "definition": "avant une fin",
+    "exemples": [],
+    "note": ""
+  },
+  "près": {
+    "categorie": "grammaire",
+    "definition": "pas loin",
+    "exemples": [],
+    "note": ""
+  },
+  "loin": {
+    "categorie": "grammaire",
+    "definition": "pas près",
+    "exemples": [],
+    "note": ""
+  },
+  "selon": {
+    "categorie": "grammaire",
+    "definition": "comme",
+    "exemples": [],
+    "note": ""
+  },
+  "malgré": {
+    "categorie": "grammaire",
+    "definition": "avec un autre effet",
+    "exemples": [],
+    "note": ""
+  },
+  "pendant": {
+    "categorie": "grammaire",
+    "definition": "dans un temps",
+    "exemples": [],
+    "note": ""
+  },
+  "afin": {
+    "categorie": "grammaire",
+    "definition": "pour but",
+    "exemples": [],
+    "note": ""
+  },
+  "être": {
+    "categorie": "verbe",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "avoir": {
+    "categorie": "verbe",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "faire": {
+    "categorie": "verbe",
+    "definition": "produire une action",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Proposition V1: definition enrichie."
+  },
+  "aller": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "venir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "pouvoir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "vouloir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "devoir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "savoir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "dire": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "voir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "prendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "mettre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "donner": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "trouver": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "penser": {
+    "categorie": "verbe",
+    "definition": "former une idée dans esprit",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "croire": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "parler": {
+    "categorie": "verbe",
+    "definition": "communiquer par la voix",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "aimer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "falloir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "sembler": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "rester": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "passer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "entrer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "sortir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "partir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "arriver": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "attendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "demander": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "répondre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "comprendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "connaître": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "vivre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "mourir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "manger": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "boire": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "dormir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "lire": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "écrire": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "ouvrir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "fermer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "tenir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "laisser": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "porter": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "jouer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "travailler": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "acheter": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "vendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "chercher": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "appeler": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "entendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "regarder": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "utiliser": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "changer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "commencer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "finir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "continuer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "servir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "toucher": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "sentir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "bouger": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "tourner": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "montrer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "garder": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "suivre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "perdre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "gagner": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "couper": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "casser": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "laver": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "tirer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "pousser": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "monter": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "descendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "tomber": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "lever": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "asseoir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "courir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "marcher": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "rire": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "pleurer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "compter": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "mesurer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "payer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "créer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "aider": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "essayer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "choisir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "apprendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "enseigner": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "envoyer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "recevoir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "rencontrer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "décider": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "expliquer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "préparer": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "rendre": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "ajouter": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "ôter": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "remplir": {
+    "categorie": "verbe",
+    "definition": "faire",
+    "exemples": [],
+    "note": ""
+  },
+  "chose": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "personne": {
+    "categorie": "nom",
+    "definition": "homme femme ou enfant",
+    "exemples": [],
+    "note": ""
+  },
+  "gens": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "homme": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "femme": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "enfant": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "groupe": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "famille": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "corps": {
+    "categorie": "nom",
+    "definition": "partie de personne",
+    "exemples": [],
+    "note": ""
+  },
+  "main": {
+    "categorie": "nom",
+    "definition": "partie de corps pour prendre",
+    "exemples": [],
+    "note": ""
+  },
+  "bras": {
+    "categorie": "nom",
+    "definition": "partie de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "jambe": {
+    "categorie": "nom",
+    "definition": "partie de corps pour marcher",
+    "exemples": [],
+    "note": ""
+  },
+  "pied": {
+    "categorie": "nom",
+    "definition": "partie de corps sous jambe",
+    "exemples": [],
+    "note": ""
+  },
+  "tête": {
+    "categorie": "nom",
+    "definition": "partie haut de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "œil": {
+    "categorie": "nom",
+    "definition": "partie de corps pour voir",
+    "exemples": [],
+    "note": ""
+  },
+  "oreille": {
+    "categorie": "nom",
+    "definition": "partie de corps pour entendre",
+    "exemples": [],
+    "note": ""
+  },
+  "nez": {
+    "categorie": "nom",
+    "definition": "partie de corps pour sentir",
+    "exemples": [],
+    "note": ""
+  },
+  "bouche": {
+    "categorie": "nom",
+    "definition": "partie de corps pour manger boire et parler",
+    "exemples": [],
+    "note": ""
+  },
+  "dent": {
+    "categorie": "nom",
+    "definition": "partie dur de bouche",
+    "exemples": [],
+    "note": ""
+  },
+  "visage": {
+    "categorie": "nom",
+    "definition": "partie de tête",
+    "exemples": [],
+    "note": ""
+  },
+  "peau": {
+    "categorie": "nom",
+    "definition": "partie extérieur de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "sang": {
+    "categorie": "nom",
+    "definition": "partie de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "os": {
+    "categorie": "nom",
+    "definition": "partie dur de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "cœur": {
+    "categorie": "nom",
+    "definition": "partie de corps",
+    "exemples": [],
+    "note": ""
+  },
+  "esprit": {
+    "categorie": "nom",
+    "definition": "partie de personne pour penser",
+    "exemples": [],
+    "note": ""
+  },
+  "voix": {
+    "categorie": "nom",
+    "definition": "partie pour parler",
+    "exemples": [],
+    "note": ""
+  },
+  "mot": {
+    "categorie": "nom",
+    "definition": "signe de langue avec un sens",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0. Proposition V1: definition enrichie."
+  },
+  "nom": {
+    "categorie": "nom",
+    "definition": "mot pour personne chose ou lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "phrase": {
+    "categorie": "nom",
+    "definition": "ensemble de mot avec un sens",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "question": {
+    "categorie": "nom",
+    "definition": "phrase pour demander une information",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "réponse": {
+    "categorie": "nom",
+    "definition": "information pour répondre à une question",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "idée": {
+    "categorie": "nom",
+    "definition": "mot dans esprit",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "pensée": {
+    "categorie": "nom",
+    "definition": "idée de esprit",
+    "exemples": [],
+    "note": ""
+  },
+  "rêve": {
+    "categorie": "nom",
+    "definition": "image dans esprit pendant dormir",
+    "exemples": [],
+    "note": ""
+  },
+  "histoire": {
+    "categorie": "nom",
+    "definition": "ensemble de action dans le temps",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "livre": {
+    "categorie": "nom",
+    "definition": "groupe de page",
+    "exemples": [],
+    "note": ""
+  },
+  "page": {
+    "categorie": "nom",
+    "definition": "partie de livre",
+    "exemples": [],
+    "note": ""
+  },
+  "lettre": {
+    "categorie": "nom",
+    "definition": "petit signe",
+    "exemples": [],
+    "note": ""
+  },
+  "nombre": {
+    "categorie": "nom",
+    "definition": "mot pour compter",
+    "exemples": [],
+    "note": ""
+  },
+  "ligne": {
+    "categorie": "nom",
+    "definition": "groupe de mot ou de signe",
+    "exemples": [],
+    "note": ""
+  },
+  "signe": {
+    "categorie": "nom",
+    "definition": "petit forme",
+    "exemples": [],
+    "note": ""
+  },
+  "langue": {
+    "categorie": "nom",
+    "definition": "ensemble de mot et de règle pour parler",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "travail": {
+    "categorie": "nom",
+    "definition": "fait de travailler",
+    "exemples": [],
+    "note": ""
+  },
+  "argent": {
+    "categorie": "nom",
+    "definition": "chose pour acheter",
+    "exemples": [],
+    "note": ""
+  },
+  "prix": {
+    "categorie": "nom",
+    "definition": "nombre pour acheter",
+    "exemples": [],
+    "note": ""
+  },
+  "achat": {
+    "categorie": "nom",
+    "definition": "fait de acheter",
+    "exemples": [],
+    "note": ""
+  },
+  "vente": {
+    "categorie": "nom",
+    "definition": "fait de vendre",
+    "exemples": [],
+    "note": ""
+  },
+  "jeu": {
+    "categorie": "nom",
+    "definition": "fait de jouer",
+    "exemples": [],
+    "note": ""
+  },
+  "temps": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "jour": {
+    "categorie": "nom",
+    "definition": "temps avec lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "nuit": {
+    "categorie": "nom",
+    "definition": "temps sans soleil",
+    "exemples": [],
+    "note": ""
+  },
+  "matin": {
+    "categorie": "nom",
+    "definition": "début de jour",
+    "exemples": [],
+    "note": ""
+  },
+  "soir": {
+    "categorie": "nom",
+    "definition": "fin de jour",
+    "exemples": [],
+    "note": ""
+  },
+  "heure": {
+    "categorie": "nom",
+    "definition": "partie de temps",
+    "exemples": [],
+    "note": ""
+  },
+  "minute": {
+    "categorie": "nom",
+    "definition": "petit partie de heure",
+    "exemples": [],
+    "note": ""
+  },
+  "seconde": {
+    "categorie": "nom",
+    "definition": "petit partie de minute",
+    "exemples": [],
+    "note": ""
+  },
+  "fois": {
+    "categorie": "nom",
+    "definition": "un moment",
+    "exemples": [],
+    "note": ""
+  },
+  "début": {
+    "categorie": "nom",
+    "definition": "premier partie",
+    "exemples": [],
+    "note": ""
+  },
+  "fin": {
+    "categorie": "nom",
+    "definition": "dernier partie",
+    "exemples": [],
+    "note": ""
+  },
+  "moment": {
+    "categorie": "nom",
+    "definition": "partie de temps",
+    "exemples": [],
+    "note": ""
+  },
+  "vie": {
+    "categorie": "nom",
+    "definition": "fait de vivre",
+    "exemples": [],
+    "note": ""
+  },
+  "mort": {
+    "categorie": "nom",
+    "definition": "fin de vie",
+    "exemples": [],
+    "note": ""
+  },
+  "monde": {
+    "categorie": "nom",
+    "definition": "tout lieu et toute chose",
+    "exemples": [],
+    "note": ""
+  },
+  "terre": {
+    "categorie": "nom",
+    "definition": "partie de monde",
+    "exemples": [],
+    "note": ""
+  },
+  "ciel": {
+    "categorie": "nom",
+    "definition": "haut de monde",
+    "exemples": [],
+    "note": ""
+  },
+  "soleil": {
+    "categorie": "nom",
+    "definition": "grand lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "air": {
+    "categorie": "nom",
+    "definition": "chose pour vivre",
+    "exemples": [],
+    "note": ""
+  },
+  "eau": {
+    "categorie": "nom",
+    "definition": "chose pour boire",
+    "exemples": [],
+    "note": ""
+  },
+  "feu": {
+    "categorie": "nom",
+    "definition": "chaleur et lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "vent": {
+    "categorie": "nom",
+    "definition": "air qui bouger",
+    "exemples": [],
+    "note": ""
+  },
+  "pluie": {
+    "categorie": "nom",
+    "definition": "eau qui tomber",
+    "exemples": [],
+    "note": ""
+  },
+  "mer": {
+    "categorie": "nom",
+    "definition": "grand eau",
+    "exemples": [],
+    "note": ""
+  },
+  "arbre": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "fleur": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "herbe": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "animal": {
+    "categorie": "nom",
+    "definition": "vivant pas personne",
+    "exemples": [],
+    "note": ""
+  },
+  "oiseau": {
+    "categorie": "nom",
+    "definition": "animal qui aller dans air",
+    "exemples": [],
+    "note": ""
+  },
+  "poisson": {
+    "categorie": "nom",
+    "definition": "animal dans eau",
+    "exemples": [],
+    "note": ""
+  },
+  "chien": {
+    "categorie": "nom",
+    "definition": "animal avec personne",
+    "exemples": [],
+    "note": ""
+  },
+  "chat": {
+    "categorie": "nom",
+    "definition": "animal avec personne",
+    "exemples": [],
+    "note": ""
+  },
+  "route": {
+    "categorie": "nom",
+    "definition": "chemin pour voiture",
+    "exemples": [],
+    "note": ""
+  },
+  "rue": {
+    "categorie": "nom",
+    "definition": "chemin dans ville",
+    "exemples": [],
+    "note": ""
+  },
+  "chemin": {
+    "categorie": "nom",
+    "definition": "lieu pour marcher",
+    "exemples": [],
+    "note": ""
+  },
+  "ville": {
+    "categorie": "nom",
+    "definition": "lieu avec beaucoup de maison",
+    "exemples": [],
+    "note": ""
+  },
+  "pays": {
+    "categorie": "nom",
+    "definition": "grand lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "lieu": {
+    "categorie": "nom",
+    "definition": "partie de monde",
+    "exemples": [],
+    "note": ""
+  },
+  "maison": {
+    "categorie": "nom",
+    "definition": "lieu pour vivre",
+    "exemples": [],
+    "note": ""
+  },
+  "porte": {
+    "categorie": "nom",
+    "definition": "partie pour entrer ou sortir",
+    "exemples": [],
+    "note": ""
+  },
+  "fenêtre": {
+    "categorie": "nom",
+    "definition": "partie pour voir",
+    "exemples": [],
+    "note": ""
+  },
+  "mur": {
+    "categorie": "nom",
+    "definition": "partie de maison",
+    "exemples": [],
+    "note": ""
+  },
+  "toit": {
+    "categorie": "nom",
+    "definition": "partie haut de maison",
+    "exemples": [],
+    "note": ""
+  },
+  "sol": {
+    "categorie": "nom",
+    "definition": "partie bas de lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "table": {
+    "categorie": "nom",
+    "definition": "chose pour mettre une chose",
+    "exemples": [],
+    "note": ""
+  },
+  "chaise": {
+    "categorie": "nom",
+    "definition": "chose pour asseoir une personne",
+    "exemples": [],
+    "note": ""
+  },
+  "lit": {
+    "categorie": "nom",
+    "definition": "chose pour dormir",
+    "exemples": [],
+    "note": ""
+  },
+  "feuille": {
+    "categorie": "nom",
+    "definition": "partie de papier",
+    "exemples": [],
+    "note": ""
+  },
+  "papier": {
+    "categorie": "nom",
+    "definition": "chose pour écrire",
+    "exemples": [],
+    "note": ""
+  },
+  "image": {
+    "categorie": "nom",
+    "definition": "chose qui représenter une chose",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "couleur": {
+    "categorie": "nom",
+    "definition": "qualité de lumière pour voir",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "forme": {
+    "categorie": "nom",
+    "definition": "manière de être dans espace",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "taille": {
+    "categorie": "nom",
+    "definition": "partie de mesure",
+    "exemples": [],
+    "note": ""
+  },
+  "poids": {
+    "categorie": "nom",
+    "definition": "partie de mesure",
+    "exemples": [],
+    "note": ""
+  },
+  "mesure": {
+    "categorie": "nom",
+    "definition": "nombre pour dire quantité taille poids ou temps",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "force": {
+    "categorie": "nom",
+    "definition": "qualité pour pousser tirer ou porter",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "lumière": {
+    "categorie": "nom",
+    "definition": "chose pour voir",
+    "exemples": [],
+    "note": ""
+  },
+  "ombre": {
+    "categorie": "nom",
+    "definition": "pas lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "chaleur": {
+    "categorie": "nom",
+    "definition": "partie du chaud",
+    "exemples": [],
+    "note": ""
+  },
+  "sens": {
+    "categorie": "nom",
+    "definition": "idée de mot ou de chose",
+    "exemples": [],
+    "note": ""
+  },
+  "usage": {
+    "categorie": "nom",
+    "definition": "fonction de une chose",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "partie": {
+    "categorie": "nom",
+    "definition": "chose dans une chose",
+    "exemples": [],
+    "note": "Mot traite comme primitif ou quasi primitif dans cette V0."
+  },
+  "face": {
+    "categorie": "nom",
+    "definition": "partie avant",
+    "exemples": [],
+    "note": ""
+  },
+  "côté": {
+    "categorie": "nom",
+    "definition": "partie de lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "centre": {
+    "categorie": "nom",
+    "definition": "partie entre côté",
+    "exemples": [],
+    "note": ""
+  },
+  "bord": {
+    "categorie": "nom",
+    "definition": "partie de fin",
+    "exemples": [],
+    "note": ""
+  },
+  "intérieur": {
+    "categorie": "nom",
+    "definition": "partie de dans",
+    "exemples": [],
+    "note": ""
+  },
+  "extérieur": {
+    "categorie": "nom",
+    "definition": "partie de hors",
+    "exemples": [],
+    "note": ""
+  },
+  "cause": {
+    "categorie": "nom",
+    "definition": "partie avant effet",
+    "exemples": [],
+    "note": ""
+  },
+  "effet": {
+    "categorie": "nom",
+    "definition": "partie après cause",
+    "exemples": [],
+    "note": ""
+  },
+  "raison": {
+    "categorie": "nom",
+    "definition": "idée pour expliquer",
+    "exemples": [],
+    "note": ""
+  },
+  "but": {
+    "categorie": "nom",
+    "definition": "fin de vouloir",
+    "exemples": [],
+    "note": ""
+  },
+  "moyen": {
+    "categorie": "nom",
+    "definition": "chose pour faire",
+    "exemples": [],
+    "note": ""
+  },
+  "problème": {
+    "categorie": "nom",
+    "definition": "chose difficile pour une action ou une réponse",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "solution": {
+    "categorie": "nom",
+    "definition": "réponse ou action pour finir un problème",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "erreur": {
+    "categorie": "nom",
+    "definition": "faute dans mot ou fait",
+    "exemples": [],
+    "note": ""
+  },
+  "faute": {
+    "categorie": "nom",
+    "definition": "mauvais fait",
+    "exemples": [],
+    "note": ""
+  },
+  "vérité": {
+    "categorie": "nom",
+    "definition": "ce qui est vrai",
+    "exemples": [],
+    "note": ""
+  },
+  "mensonge": {
+    "categorie": "nom",
+    "definition": "mot faux",
+    "exemples": [],
+    "note": ""
+  },
+  "droit": {
+    "categorie": "nom",
+    "definition": "règle pour personne",
+    "exemples": [],
+    "note": ""
+  },
+  "loi": {
+    "categorie": "nom",
+    "definition": "règle de pays",
+    "exemples": [],
+    "note": ""
+  },
+  "règle": {
+    "categorie": "nom",
+    "definition": "mot qui dire comment faire une action",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "ordre": {
+    "categorie": "nom",
+    "definition": "mot pour demander une action",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "choix": {
+    "categorie": "nom",
+    "definition": "action de choisir entre des sorte",
+    "exemples": [],
+    "note": "Proposition V1: definition enrichie."
+  },
+  "besoin": {
+    "categorie": "nom",
+    "definition": "chose utile",
+    "exemples": [],
+    "note": ""
+  },
+  "envie": {
+    "categorie": "nom",
+    "definition": "vouloir une chose",
+    "exemples": [],
+    "note": ""
+  },
+  "peur": {
+    "categorie": "nom",
+    "definition": "très triste",
+    "exemples": [],
+    "note": ""
+  },
+  "joie": {
+    "categorie": "nom",
+    "definition": "très content",
+    "exemples": [],
+    "note": ""
+  },
+  "tristesse": {
+    "categorie": "nom",
+    "definition": "fait de être triste",
+    "exemples": [],
+    "note": ""
+  },
+  "douleur": {
+    "categorie": "nom",
+    "definition": "mal dans corps",
+    "exemples": [],
+    "note": ""
+  },
+  "paix": {
+    "categorie": "nom",
+    "definition": "pas guerre",
+    "exemples": [],
+    "note": ""
+  },
+  "guerre": {
+    "categorie": "nom",
+    "definition": "grand mauvais entre groupe",
+    "exemples": [],
+    "note": ""
+  },
+  "amour": {
+    "categorie": "nom",
+    "definition": "fait de aimer",
+    "exemples": [],
+    "note": ""
+  },
+  "haine": {
+    "categorie": "nom",
+    "definition": "pas amour",
+    "exemples": [],
+    "note": ""
+  },
+  "mémoire": {
+    "categorie": "nom",
+    "definition": "partie de esprit pour garder idée",
+    "exemples": [],
+    "note": ""
+  },
+  "avenir": {
+    "categorie": "nom",
+    "definition": "temps après maintenant",
+    "exemples": [],
+    "note": ""
+  },
+  "passé": {
+    "categorie": "nom",
+    "definition": "temps avant maintenant",
+    "exemples": [],
+    "note": ""
+  },
+  "présent": {
+    "categorie": "nom",
+    "definition": "temps de maintenant",
+    "exemples": [],
+    "note": ""
+  },
+  "naissance": {
+    "categorie": "nom",
+    "definition": "début de vie",
+    "exemples": [],
+    "note": ""
+  },
+  "âge": {
+    "categorie": "nom",
+    "definition": "nombre de temps de vie",
+    "exemples": [],
+    "note": ""
+  },
+  "musique": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "école": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "pain": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "outil": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "machine": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "voiture": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "train": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "téléphone": {
+    "categorie": "nom",
+    "definition": "mot simple",
+    "exemples": [],
+    "note": ""
+  },
+  "bon": {
+    "categorie": "adjectif",
+    "definition": "pas mauvais",
+    "exemples": [],
+    "note": ""
+  },
+  "mauvais": {
+    "categorie": "adjectif",
+    "definition": "pas bon",
+    "exemples": [],
+    "note": ""
+  },
+  "grand": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de taille",
+    "exemples": [],
+    "note": ""
+  },
+  "petit": {
+    "categorie": "adjectif",
+    "definition": "avec peu de taille",
+    "exemples": [],
+    "note": ""
+  },
+  "long": {
+    "categorie": "adjectif",
+    "definition": "grand en taille ou en temps",
+    "exemples": [],
+    "note": ""
+  },
+  "court": {
+    "categorie": "adjectif",
+    "definition": "pas long",
+    "exemples": [],
+    "note": ""
+  },
+  "jeune": {
+    "categorie": "adjectif",
+    "definition": "avec peu de âge",
+    "exemples": [],
+    "note": ""
+  },
+  "vieux": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de âge",
+    "exemples": [],
+    "note": ""
+  },
+  "nouveau": {
+    "categorie": "adjectif",
+    "definition": "pas ancien",
+    "exemples": [],
+    "note": ""
+  },
+  "ancien": {
+    "categorie": "adjectif",
+    "definition": "pas nouveau",
+    "exemples": [],
+    "note": ""
+  },
+  "beau": {
+    "categorie": "adjectif",
+    "definition": "bon pour voir",
+    "exemples": [],
+    "note": ""
+  },
+  "laid": {
+    "categorie": "adjectif",
+    "definition": "pas beau",
+    "exemples": [],
+    "note": ""
+  },
+  "fort": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de force",
+    "exemples": [],
+    "note": ""
+  },
+  "faible": {
+    "categorie": "adjectif",
+    "definition": "avec peu de force",
+    "exemples": [],
+    "note": ""
+  },
+  "chaud": {
+    "categorie": "adjectif",
+    "definition": "avec chaleur",
+    "exemples": [],
+    "note": ""
+  },
+  "froid": {
+    "categorie": "adjectif",
+    "definition": "pas chaud",
+    "exemples": [],
+    "note": ""
+  },
+  "plein": {
+    "categorie": "adjectif",
+    "definition": "pas vide",
+    "exemples": [],
+    "note": ""
+  },
+  "vide": {
+    "categorie": "adjectif",
+    "definition": "sans chose dans intérieur",
+    "exemples": [],
+    "note": ""
+  },
+  "facile": {
+    "categorie": "adjectif",
+    "definition": "pas difficile",
+    "exemples": [],
+    "note": ""
+  },
+  "difficile": {
+    "categorie": "adjectif",
+    "definition": "pas facile",
+    "exemples": [],
+    "note": ""
+  },
+  "possible": {
+    "categorie": "adjectif",
+    "definition": "qui peut être",
+    "exemples": [],
+    "note": ""
+  },
+  "impossible": {
+    "categorie": "adjectif",
+    "definition": "pas possible",
+    "exemples": [],
+    "note": ""
+  },
+  "vrai": {
+    "categorie": "adjectif",
+    "definition": "avec vérité",
+    "exemples": [],
+    "note": ""
+  },
+  "faux": {
+    "categorie": "adjectif",
+    "definition": "pas vrai",
+    "exemples": [],
+    "note": ""
+  },
+  "important": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de effet",
+    "exemples": [],
+    "note": ""
+  },
+  "simple": {
+    "categorie": "adjectif",
+    "definition": "pas difficile",
+    "exemples": [],
+    "note": ""
+  },
+  "normal": {
+    "categorie": "adjectif",
+    "definition": "comme souvent",
+    "exemples": [],
+    "note": ""
+  },
+  "propre": {
+    "categorie": "adjectif",
+    "definition": "pas sale",
+    "exemples": [],
+    "note": ""
+  },
+  "sale": {
+    "categorie": "adjectif",
+    "definition": "pas propre",
+    "exemples": [],
+    "note": ""
+  },
+  "heureux": {
+    "categorie": "adjectif",
+    "definition": "bien dans cœur",
+    "exemples": [],
+    "note": ""
+  },
+  "triste": {
+    "categorie": "adjectif",
+    "definition": "mal dans cœur",
+    "exemples": [],
+    "note": ""
+  },
+  "content": {
+    "categorie": "adjectif",
+    "definition": "heureux pour une chose",
+    "exemples": [],
+    "note": ""
+  },
+  "malade": {
+    "categorie": "adjectif",
+    "definition": "mal dans corps",
+    "exemples": [],
+    "note": ""
+  },
+  "seul": {
+    "categorie": "adjectif",
+    "definition": "sans autre personne",
+    "exemples": [],
+    "note": ""
+  },
+  "premier": {
+    "categorie": "adjectif",
+    "definition": "avant autre",
+    "exemples": [],
+    "note": ""
+  },
+  "dernier": {
+    "categorie": "adjectif",
+    "definition": "après autre",
+    "exemples": [],
+    "note": ""
+  },
+  "bas": {
+    "categorie": "adjectif",
+    "definition": "pas haut",
+    "exemples": [],
+    "note": ""
+  },
+  "haut": {
+    "categorie": "adjectif",
+    "definition": "pas bas",
+    "exemples": [],
+    "note": ""
+  },
+  "large": {
+    "categorie": "adjectif",
+    "definition": "grand de côté",
+    "exemples": [],
+    "note": ""
+  },
+  "étroit": {
+    "categorie": "adjectif",
+    "definition": "pas large",
+    "exemples": [],
+    "note": ""
+  },
+  "clair": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "sombre": {
+    "categorie": "adjectif",
+    "definition": "avec peu de lumière",
+    "exemples": [],
+    "note": ""
+  },
+  "dur": {
+    "categorie": "adjectif",
+    "definition": "pas mou",
+    "exemples": [],
+    "note": ""
+  },
+  "mou": {
+    "categorie": "adjectif",
+    "definition": "pas dur",
+    "exemples": [],
+    "note": ""
+  },
+  "lent": {
+    "categorie": "adjectif",
+    "definition": "pas rapide",
+    "exemples": [],
+    "note": ""
+  },
+  "rapide": {
+    "categorie": "adjectif",
+    "definition": "pas lent",
+    "exemples": [],
+    "note": ""
+  },
+  "riche": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de argent",
+    "exemples": [],
+    "note": ""
+  },
+  "pauvre": {
+    "categorie": "adjectif",
+    "definition": "avec peu de argent",
+    "exemples": [],
+    "note": ""
+  },
+  "libre": {
+    "categorie": "adjectif",
+    "definition": "sans règle",
+    "exemples": [],
+    "note": ""
+  },
+  "prêt": {
+    "categorie": "adjectif",
+    "definition": "possible maintenant",
+    "exemples": [],
+    "note": ""
+  },
+  "ouvert": {
+    "categorie": "adjectif",
+    "definition": "pas fermé",
+    "exemples": [],
+    "note": ""
+  },
+  "fermé": {
+    "categorie": "adjectif",
+    "definition": "pas ouvert",
+    "exemples": [],
+    "note": ""
+  },
+  "vivant": {
+    "categorie": "adjectif",
+    "definition": "qui vivre",
+    "exemples": [],
+    "note": ""
+  },
+  "mortel": {
+    "categorie": "adjectif",
+    "definition": "qui mourir",
+    "exemples": [],
+    "note": ""
+  },
+  "local": {
+    "categorie": "adjectif",
+    "definition": "de ce lieu",
+    "exemples": [],
+    "note": ""
+  },
+  "général": {
+    "categorie": "adjectif",
+    "definition": "pour beaucoup de chose",
+    "exemples": [],
+    "note": ""
+  },
+  "public": {
+    "categorie": "adjectif",
+    "definition": "pour tous",
+    "exemples": [],
+    "note": ""
+  },
+  "privé": {
+    "categorie": "adjectif",
+    "definition": "pas public",
+    "exemples": [],
+    "note": ""
+  },
+  "utile": {
+    "categorie": "adjectif",
+    "definition": "bon pour usage",
+    "exemples": [],
+    "note": ""
+  },
+  "inutile": {
+    "categorie": "adjectif",
+    "definition": "pas utile",
+    "exemples": [],
+    "note": ""
+  },
+  "certain": {
+    "categorie": "adjectif",
+    "definition": "pas faux",
+    "exemples": [],
+    "note": ""
+  },
+  "différent": {
+    "categorie": "adjectif",
+    "definition": "pas le même",
+    "exemples": [],
+    "note": ""
+  },
+  "proche": {
+    "categorie": "adjectif",
+    "definition": "pas loin",
+    "exemples": [],
+    "note": ""
+  },
+  "lointain": {
+    "categorie": "adjectif",
+    "definition": "très loin",
+    "exemples": [],
+    "note": ""
+  },
+  "calme": {
+    "categorie": "adjectif",
+    "definition": "sans beaucoup de voix",
+    "exemples": [],
+    "note": ""
+  },
+  "bruyant": {
+    "categorie": "adjectif",
+    "definition": "avec beaucoup de voix",
+    "exemples": [],
+    "note": ""
+  },
+  "sec": {
+    "categorie": "adjectif",
+    "definition": "pas humide",
+    "exemples": [],
+    "note": ""
+  },
+  "humide": {
+    "categorie": "adjectif",
+    "definition": "avec eau",
+    "exemples": [],
+    "note": ""
+  },
+  "égal": {
+    "categorie": "adjectif",
+    "definition": "le même",
+    "exemples": [],
+    "note": ""
+  },
+  "entier": {
+    "categorie": "adjectif",
+    "definition": "avec toutes les partie",
+    "exemples": [],
+    "note": ""
+  },
+  "manière": {
+    "categorie": "nom",
+    "definition": "forme de faire une action",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "action": {
+    "categorie": "nom",
+    "definition": "fait de faire",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "mouvement": {
+    "categorie": "nom",
+    "definition": "fait de bouger",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "objet": {
+    "categorie": "nom",
+    "definition": "chose que une personne peut voir ou toucher",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "matière": {
+    "categorie": "nom",
+    "definition": "ce qui faire une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "plante": {
+    "categorie": "nom",
+    "definition": "être vivant dans terre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "bruit": {
+    "categorie": "nom",
+    "definition": "son que on peut entendre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "espace": {
+    "categorie": "nom",
+    "definition": "grand lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "contact": {
+    "categorie": "nom",
+    "definition": "fait de toucher",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "direction": {
+    "categorie": "nom",
+    "definition": "côté vers où on va",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "distance": {
+    "categorie": "nom",
+    "definition": "mesure entre un lieu et un autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "place": {
+    "categorie": "nom",
+    "definition": "partie de lieu pour une chose ou une personne",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "surface": {
+    "categorie": "nom",
+    "definition": "partie de hors de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "point": {
+    "categorie": "nom",
+    "definition": "très petit lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "ensemble": {
+    "categorie": "nom",
+    "definition": "groupe de chose ou de personne",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "relation": {
+    "categorie": "nom",
+    "definition": "chose entre une personne ou une chose et une autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "état": {
+    "categorie": "nom",
+    "definition": "manière de être",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "fonction": {
+    "categorie": "nom",
+    "definition": "usage de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "valeur": {
+    "categorie": "nom",
+    "definition": "prix ou bon usage de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "quantité": {
+    "categorie": "nom",
+    "definition": "nombre de chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "qualité": {
+    "categorie": "nom",
+    "definition": "manière de être de une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "sorte": {
+    "categorie": "nom",
+    "definition": "groupe de chose proche",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "genre": {
+    "categorie": "nom",
+    "definition": "grand sorte de chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "reste": {
+    "categorie": "nom",
+    "definition": "partie qui est encore là",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "devenir": {
+    "categorie": "verbe",
+    "definition": "commencer à être",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "produire": {
+    "categorie": "verbe",
+    "definition": "faire être une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "permettre": {
+    "categorie": "verbe",
+    "definition": "faire que une chose est possible",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "appartenir": {
+    "categorie": "verbe",
+    "definition": "être à une personne ou à un groupe",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "contenir": {
+    "categorie": "verbe",
+    "definition": "avoir une chose dans une autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "former": {
+    "categorie": "verbe",
+    "definition": "faire un tout avec des partie",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "signifier": {
+    "categorie": "verbe",
+    "definition": "avoir un sens",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "représenter": {
+    "categorie": "verbe",
+    "definition": "montrer une chose par image ou par mot",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "exister": {
+    "categorie": "verbe",
+    "definition": "être dans le monde",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "placer": {
+    "categorie": "verbe",
+    "definition": "mettre dans un lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "occuper": {
+    "categorie": "verbe",
+    "definition": "prendre une place dans un lieu",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "résultat": {
+    "categorie": "nom",
+    "definition": "effet de fin de une action",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "différence": {
+    "categorie": "nom",
+    "definition": "fait de être autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "ressemblance": {
+    "categorie": "nom",
+    "definition": "fait de être comme une autre chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "sentiment": {
+    "categorie": "nom",
+    "definition": "état du cœur ou de esprit",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "émotion": {
+    "categorie": "nom",
+    "definition": "sentiment fort",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "grandir": {
+    "categorie": "verbe",
+    "definition": "devenir plus grand",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "communiquer": {
+    "categorie": "verbe",
+    "definition": "parler pour donner une information",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "information": {
+    "categorie": "nom",
+    "definition": "mot ou signe qui dire une chose",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "comparer": {
+    "categorie": "verbe",
+    "definition": "regarder une chose et une autre pour voir le même et autre",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "décrire": {
+    "categorie": "verbe",
+    "definition": "dire comment une chose est",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "nommer": {
+    "categorie": "verbe",
+    "definition": "donner un nom",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "article": {
+    "categorie": "nom",
+    "definition": "mot simple avant un nom",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "pronom": {
+    "categorie": "nom",
+    "definition": "mot qui prendre la place de un nom",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "verbe": {
+    "categorie": "nom",
+    "definition": "mot pour dire faire ou être",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  },
+  "adjectif": {
+    "categorie": "nom",
+    "definition": "mot pour dire comment une chose est",
+    "exemples": [],
+    "note": "Ajout propose pour V1 en remplacement d un mot peu utile de la V0."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "concept_precision": [
+    "principe",
+    "cohérence",
+    "classification",
+    "hiérarchie"
+  ],
+  "causal_logic": [
+    "causalité",
+    "suffisant",
+    "nécessairement",
+    "contradiction"
+  ],
+  "argumentation": [
+    "réfutation",
+    "thèse",
+    "compatibilité"
+  ],
+  "evaluation": [
+    "pondération",
+    "classement",
+    "estimation"
+  ],
+  "interpretation": [
+    "ambiguïté",
+    "intention",
+    "modèle"
+  ],
+  "procedure": [
+    "procédure"
+  ]
+}

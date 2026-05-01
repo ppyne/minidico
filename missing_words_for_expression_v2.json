@@ -1,0 +1,76 @@
+{
+  "bonjour": {
+    "importance": "utile",
+    "why": "salutation quotidienne très fréquente impossible à exprimer simplement",
+    "tests": [],
+    "contexts": [
+      "vie quotidienne"
+    ]
+  },
+  "derrière": {
+    "importance": "utile",
+    "why": "repère spatial courant absent",
+    "tests": [],
+    "contexts": [
+      "déplacement et lieu"
+    ]
+  },
+  "devant": {
+    "importance": "utile",
+    "why": "repère spatial courant absent",
+    "tests": [],
+    "contexts": [
+      "déplacement et lieu"
+    ]
+  },
+  "droite": {
+    "importance": "utile",
+    "why": "direction quotidienne absente",
+    "tests": [],
+    "contexts": [
+      "déplacement et lieu"
+    ]
+  },
+  "faim": {
+    "importance": "utile",
+    "why": "état quotidien difficile à dire sans paraphrase lourde",
+    "tests": [],
+    "contexts": [
+      "vie quotidienne"
+    ]
+  },
+  "gauche": {
+    "importance": "utile",
+    "why": "direction quotidienne absente",
+    "tests": [],
+    "contexts": [
+      "déplacement et lieu"
+    ]
+  },
+  "merci": {
+    "importance": "utile",
+    "why": "politesse minimale absente malgré la couverture logique du lexique",
+    "tests": [],
+    "contexts": [
+      "vie quotidienne",
+      "parole"
+    ]
+  },
+  "pardon": {
+    "importance": "utile",
+    "why": "réparation conversationnelle et excuse absentes",
+    "tests": [],
+    "contexts": [
+      "vie quotidienne",
+      "parole"
+    ]
+  },
+  "soif": {
+    "importance": "utile",
+    "why": "état quotidien difficile à dire sans paraphrase lourde",
+    "tests": [],
+    "contexts": [
+      "vie quotidienne"
+    ]
+  }
+}

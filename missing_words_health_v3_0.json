@@ -1,0 +1,52 @@
+{
+  "nerf": {
+    "importance": "utile",
+    "why": "partie du corps biologique utile mais non indispensable en V3.0",
+    "suggestion": "v3_1"
+  },
+  "infection": {
+    "importance": "indispensable",
+    "why": "mot très utile pour relier fièvre, blessure, toux et maladie",
+    "suggestion": "v3_1"
+  },
+  "virus": {
+    "importance": "utile",
+    "why": "cause fréquente de maladie simple",
+    "suggestion": "v3_1"
+  },
+  "bactérie": {
+    "importance": "attendre",
+    "why": "plus technique que virus pour un français minimal courant",
+    "suggestion": "attendre"
+  },
+  "opération": {
+    "importance": "utile",
+    "why": "intervention médicale fréquente en discours de santé",
+    "suggestion": "v3_1"
+  },
+  "analyse": {
+    "importance": "utile",
+    "why": "examens et résultats médicaux restent difficiles à dire",
+    "suggestion": "v3_1"
+  },
+  "règles": {
+    "importance": "utile",
+    "why": "santé reproductive et grossesse restent incomplètes sans ce mot",
+    "suggestion": "v3_1"
+  },
+  "préservatif": {
+    "importance": "utile",
+    "why": "protection concrète dans le domaine sexuel et de risque",
+    "suggestion": "v3_1"
+  },
+  "infection urinaire": {
+    "importance": "attendre",
+    "why": "expression composée utile mais plus spécifique",
+    "suggestion": "attendre"
+  },
+  "allergie": {
+    "importance": "utile",
+    "why": "mot fréquent en santé courante encore absent",
+    "suggestion": "v3_1"
+  }
+}

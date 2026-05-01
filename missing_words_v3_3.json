@@ -1,0 +1,55 @@
+{
+  "invalid_tokens_in_tests": [],
+  "suggested_words_for_next": [
+    {
+      "mot": "avocat",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "police",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "amende",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "procédure",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "délai",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "courrier",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "reçu",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "sanction",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "contrôle",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "sécurité",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "invalid_tokens_in_tests": [],
+  "suggested_words_for_next": [
+    {
+      "mot": "voisin",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "voisine",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "ami",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "amitié",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "inviter",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "visite",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "fête",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "cadeau",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "message",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "conversation",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    }
+  ]
+}

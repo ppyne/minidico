@@ -1,0 +1,5725 @@
+[
+  {
+    "word": "parler",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 5,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "vouloir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "lait",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "ami",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "art",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "avion",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "bateau",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "bouteille",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "bureau",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "chant",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "chaussure",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "chemise",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "classe",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "clé",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "cuisine",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "danse",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "film",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "fruit",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "huile",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "jardin",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "légume",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "magasin",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "marché",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "pantalon",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "radio",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "repas",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "robe",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "sac",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "science",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "sel",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "sucre",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "tasse",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "usine",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "verre",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "viande",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "voisin",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "vêtement",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "low_global_utility",
+      "vague_placeholder"
+    ],
+    "severity": 7,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "faire",
+    "categorie": "verbe",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 112,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "de",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 90,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "pas",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 50,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "chose",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 26,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "temps",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 19,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "groupe",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 15,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "un",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 12,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "le",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 10,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "une",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 10,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "à",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "indirect_cycle",
+      "vague_placeholder"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "cheval",
+    "categorie": "nom",
+    "definition_v0": "grand animal",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "coin",
+    "categorie": "nom",
+    "definition_v0": "petit partie de lieu",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 4,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "forêt",
+    "categorie": "nom",
+    "definition_v0": "lieu avec beaucoup de arbre",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "glace",
+    "categorie": "nom",
+    "definition_v0": "eau froid et dur",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 4,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "lac",
+    "categorie": "nom",
+    "definition_v0": "eau dans terre",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "lune",
+    "categorie": "nom",
+    "definition_v0": "chose du ciel",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "midi",
+    "categorie": "nom",
+    "definition_v0": "centre de jour",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "montagne",
+    "categorie": "nom",
+    "definition_v0": "haut lieu",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "neige",
+    "categorie": "nom",
+    "definition_v0": "eau froid",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "pont",
+    "categorie": "nom",
+    "definition_v0": "partie sur eau pour aller",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "rivière",
+    "categorie": "nom",
+    "definition_v0": "eau qui aller",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "région",
+    "categorie": "nom",
+    "definition_v0": "partie de pays",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "vache",
+    "categorie": "nom",
+    "definition_v0": "animal pour lait",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "village",
+    "categorie": "nom",
+    "definition_v0": "petit lieu avec maison",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 4,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "étoile",
+    "categorie": "nom",
+    "definition_v0": "petit lumière",
+    "issues": [
+      "low_global_utility",
+      "too_vague"
+    ],
+    "severity": 6,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "replace"
+  },
+  {
+    "word": "simple",
+    "categorie": "adjectif",
+    "definition_v0": "pas difficile",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [
+      "difficile"
+    ],
+    "inbound_dependencies": 94,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "peu",
+    "categorie": "grammaire",
+    "definition_v0": "pas beaucoup",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "beaucoup",
+      "peu",
+      "plus"
+    ],
+    "near_equivalent_with": [
+      "beaucoup"
+    ],
+    "inbound_dependencies": 8,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "demander",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 6,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "haut",
+    "categorie": "adjectif",
+    "definition_v0": "pas bas",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "bas",
+      "haut"
+    ],
+    "near_equivalent_with": [
+      "bas"
+    ],
+    "inbound_dependencies": 6,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "plus",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour beaucoup ou pour pas",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "beaucoup",
+      "peu",
+      "plus"
+    ],
+    "near_equivalent_with": [
+      "beaucoup"
+    ],
+    "inbound_dependencies": 6,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "bon",
+    "categorie": "adjectif",
+    "definition_v0": "pas mauvais",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "bon",
+      "mauvais"
+    ],
+    "near_equivalent_with": [
+      "mauvais"
+    ],
+    "inbound_dependencies": 5,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "voir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 5,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "aller",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "mal",
+    "categorie": "grammaire",
+    "definition_v0": "pas bien",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "bien",
+      "mal"
+    ],
+    "near_equivalent_with": [
+      "bien"
+    ],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "montrer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "vivre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "acheter",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "bas",
+    "categorie": "adjectif",
+    "definition_v0": "pas haut",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "bas",
+      "haut"
+    ],
+    "near_equivalent_with": [
+      "haut"
+    ],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "dire",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "loin",
+    "categorie": "grammaire",
+    "definition_v0": "pas près",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "loin",
+      "près"
+    ],
+    "near_equivalent_with": [
+      "près"
+    ],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "mauvais",
+    "categorie": "adjectif",
+    "definition_v0": "pas bon",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "bon",
+      "mauvais"
+    ],
+    "near_equivalent_with": [
+      "bon"
+    ],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "bien",
+    "categorie": "grammaire",
+    "definition_v0": "pas mal",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "bien",
+      "mal"
+    ],
+    "near_equivalent_with": [
+      "mal"
+    ],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "boire",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "dormir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "marcher",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "aimer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ancien",
+    "categorie": "adjectif",
+    "definition_v0": "pas nouveau",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "ancien",
+      "nouveau"
+    ],
+    "near_equivalent_with": [
+      "nouveau"
+    ],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "asseoir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "assez",
+    "categorie": "grammaire",
+    "definition_v0": "pas peu et pas trop",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "assez",
+      "trop"
+    ],
+    "near_equivalent_with": [
+      "peu",
+      "trop"
+    ],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "bouger",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "choisir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "compter",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "entendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "entrer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "expliquer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "garder",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "jouer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "manger",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "mettre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "mourir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "nouveau",
+    "categorie": "adjectif",
+    "definition_v0": "pas ancien",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [
+      "ancien",
+      "nouveau"
+    ],
+    "near_equivalent_with": [
+      "ancien"
+    ],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "partir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "penser",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "porter",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "pousser",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "pouvoir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "prendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "répondre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "sentir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "sortir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "tirer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "tomber",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "travailler",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "utiliser",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "vendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "écrire",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "aider",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ajouter",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "appeler",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "apprendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "arriver",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "attendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "casser",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "changer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "chercher",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "commencer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "comprendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "connaître",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "continuer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "couper",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "courir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "croire",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "créer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "descendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "devoir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "donner",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "décider",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "enseigner",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "envoyer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "essayer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "falloir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "fermer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "finir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "gagner",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "laisser",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "laver",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "lever",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "lire",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "mesurer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "monter",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ouvrir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "passer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "payer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "perdre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "pleurer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "préparer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "recevoir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "regarder",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "remplir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "rencontrer",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "rendre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "rester",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "rire",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "savoir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "sembler",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "servir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "suivre",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "tenir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "toucher",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "tourner",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "trouver",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "venir",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ôter",
+    "categorie": "verbe",
+    "definition_v0": "faire",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 5,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 1,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "que",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "du",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "être",
+    "categorie": "verbe",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "femme",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "homme",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "la",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "arbre",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "en",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "enfant",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "les",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "par",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "voiture",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "au",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "aux",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "avoir",
+    "categorie": "verbe",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "des",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "famille",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "fleur",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "gens",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "herbe",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "leur",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "leurs",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ma",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "machine",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "me",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "mes",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "mon",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "musique",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ne",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ni",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "nos",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "notre",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "outil",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "pain",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "parce",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "sa",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "se",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ses",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "si",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "son",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ta",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "te",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "tes",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "ton",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "train",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "téléphone",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "vos",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "votre",
+    "categorie": "grammaire",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "école",
+    "categorie": "nom",
+    "definition_v0": "mot simple",
+    "issues": [
+      "vague_placeholder"
+    ],
+    "severity": 4,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "rewrite"
+  },
+  {
+    "word": "dur",
+    "categorie": "adjectif",
+    "definition_v0": "pas mou",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "dur",
+      "mou"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "difficile",
+    "categorie": "adjectif",
+    "definition_v0": "pas facile",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "près",
+    "categorie": "grammaire",
+    "definition_v0": "pas loin",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "loin",
+      "près"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "facile",
+    "categorie": "adjectif",
+    "definition_v0": "pas difficile",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "fermé",
+    "categorie": "adjectif",
+    "definition_v0": "pas ouvert",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "fermé",
+      "ouvert"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "lent",
+    "categorie": "adjectif",
+    "definition_v0": "pas rapide",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "lent",
+      "rapide"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "mou",
+    "categorie": "adjectif",
+    "definition_v0": "pas dur",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "dur",
+      "mou"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ouvert",
+    "categorie": "adjectif",
+    "definition_v0": "pas fermé",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "fermé",
+      "ouvert"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "propre",
+    "categorie": "adjectif",
+    "definition_v0": "pas sale",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "propre",
+      "sale"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "rapide",
+    "categorie": "adjectif",
+    "definition_v0": "pas lent",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "lent",
+      "rapide"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "sale",
+    "categorie": "adjectif",
+    "definition_v0": "pas propre",
+    "issues": [
+      "indirect_cycle",
+      "low_explanatory_power"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [
+      "propre",
+      "sale"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ainsi",
+    "categorie": "grammaire",
+    "definition_v0": "comme même",
+    "issues": [
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "même"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "aussi",
+    "categorie": "grammaire",
+    "definition_v0": "comme même",
+    "issues": [
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "même"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "certain",
+    "categorie": "adjectif",
+    "definition_v0": "pas faux",
+    "issues": [
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "faux"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "court",
+    "categorie": "adjectif",
+    "definition_v0": "pas long",
+    "issues": [
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "long"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "plein",
+    "categorie": "adjectif",
+    "definition_v0": "pas vide",
+    "issues": [
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "vide"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "proche",
+    "categorie": "adjectif",
+    "definition_v0": "pas loin",
+    "issues": [
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "loin"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "sec",
+    "categorie": "adjectif",
+    "definition_v0": "pas humide",
+    "issues": [
+      "low_explanatory_power",
+      "near_equivalent_definition"
+    ],
+    "severity": 3,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "humide"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "mot",
+    "categorie": "nom",
+    "definition_v0": "partie de langue",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 138,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "pour",
+    "categorie": "grammaire",
+    "definition_v0": "mot avec but",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 76,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "partie",
+    "categorie": "nom",
+    "definition_v0": "chose dans une chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 53,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "dans",
+    "categorie": "grammaire",
+    "definition_v0": "à intérieur de",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 33,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "avec",
+    "categorie": "grammaire",
+    "definition_v0": "dans le même groupe",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 27,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "lieu",
+    "categorie": "nom",
+    "definition_v0": "partie de monde",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "lieu",
+      "monde"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 19,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "beaucoup",
+    "categorie": "grammaire",
+    "definition_v0": "plus que peu",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "beaucoup",
+      "peu",
+      "plus"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 14,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "autre",
+    "categorie": "grammaire",
+    "definition_v0": "pas le même",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 9,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "avant",
+    "categorie": "grammaire",
+    "definition_v0": "dans un temps premier",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "avant",
+      "premier"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 8,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "même",
+    "categorie": "grammaire",
+    "definition_v0": "pas autre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 7,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "après",
+    "categorie": "grammaire",
+    "definition_v0": "dans un temps dernier",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 6,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "fin",
+    "categorie": "nom",
+    "definition_v0": "dernier partie",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 5,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "maintenant",
+    "categorie": "grammaire",
+    "definition_v0": "dans le temps présent",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "maintenant",
+      "présent"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 5,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "effet",
+    "categorie": "nom",
+    "definition_v0": "partie après cause",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "cause",
+      "effet"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "entier",
+    "categorie": "adjectif",
+    "definition_v0": "avec toutes les partie",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "entier",
+      "toutes"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "taille",
+    "categorie": "nom",
+    "definition_v0": "partie de mesure",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "mesure",
+      "poids",
+      "taille"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "monde",
+    "categorie": "nom",
+    "definition_v0": "tout lieu et toute chose",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "lieu",
+      "monde"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "but",
+    "categorie": "nom",
+    "definition_v0": "fin de vouloir",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "chaleur",
+    "categorie": "nom",
+    "definition_v0": "partie du chaud",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "chaleur",
+      "chaud"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "chaud",
+    "categorie": "adjectif",
+    "definition_v0": "avec chaleur",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "chaleur",
+      "chaud"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "dernier",
+    "categorie": "adjectif",
+    "definition_v0": "après autre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "intérieur",
+    "categorie": "nom",
+    "definition_v0": "partie de dans",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "mesure",
+    "categorie": "nom",
+    "definition_v0": "nombre pour dire taille poids ou temps",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "mesure",
+      "poids",
+      "taille"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 7,
+    "recommended_action": "review"
+  },
+  {
+    "word": "premier",
+    "categorie": "adjectif",
+    "definition_v0": "avant autre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "avant",
+      "premier"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "vrai",
+    "categorie": "adjectif",
+    "definition_v0": "avec vérité",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "vrai",
+      "vérité"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "cause",
+    "categorie": "nom",
+    "definition_v0": "partie avant effet",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "cause",
+      "effet"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "humide",
+    "categorie": "adjectif",
+    "definition_v0": "avec eau",
+    "issues": [
+      "near_equivalent_definition"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "sec"
+    ],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "langue",
+    "categorie": "nom",
+    "definition_v0": "groupe de mot pour parler",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "après",
+      "autre",
+      "avec",
+      "but",
+      "chose",
+      "dans",
+      "de",
+      "dernier",
+      "difficile",
+      "facile",
+      "faire",
+      "fin",
+      "groupe",
+      "intérieur",
+      "langue",
+      "le",
+      "mot",
+      "même",
+      "parler",
+      "partie",
+      "pas",
+      "pour",
+      "simple",
+      "temps",
+      "un",
+      "une",
+      "vouloir",
+      "à"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "livre",
+    "categorie": "nom",
+    "definition_v0": "groupe de page",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "livre",
+      "page"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "long",
+    "categorie": "adjectif",
+    "definition_v0": "grand en taille ou en temps",
+    "issues": [
+      "near_equivalent_definition"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "court"
+    ],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "page",
+    "categorie": "nom",
+    "definition_v0": "partie de livre",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "livre",
+      "page"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "poids",
+    "categorie": "nom",
+    "definition_v0": "partie de mesure",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "mesure",
+      "poids",
+      "taille"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "présent",
+    "categorie": "nom",
+    "definition_v0": "temps de maintenant",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "maintenant",
+      "présent"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "toutes",
+    "categorie": "grammaire",
+    "definition_v0": "le groupe entier",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "entier",
+      "toutes"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "trop",
+    "categorie": "grammaire",
+    "definition_v0": "plus que assez",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "assez",
+      "trop"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "vide",
+    "categorie": "adjectif",
+    "definition_v0": "sans chose dans intérieur",
+    "issues": [
+      "near_equivalent_definition"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "plein"
+    ],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "vérité",
+    "categorie": "nom",
+    "definition_v0": "ce qui est vrai",
+    "issues": [
+      "indirect_cycle"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [
+      "vrai",
+      "vérité"
+    ],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "calme",
+    "categorie": "adjectif",
+    "definition_v0": "sans beaucoup de voix",
+    "issues": [
+      "near_equivalent_definition"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "voix"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "important",
+    "categorie": "adjectif",
+    "definition_v0": "avec beaucoup de effet",
+    "issues": [
+      "near_equivalent_definition"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "effet"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "égal",
+    "categorie": "adjectif",
+    "definition_v0": "le même",
+    "issues": [
+      "near_equivalent_definition"
+    ],
+    "severity": 2,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [
+      "même"
+    ],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ou",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour choix",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 12,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "qui",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour personne ou chose",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 10,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "et",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour groupe",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 6,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ce",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour montrer",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 5,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "sans",
+    "categorie": "grammaire",
+    "definition_v0": "pas avec",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 5,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "comme",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour dire près du même",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 4,
+    "outbound_dependencies": 6,
+    "recommended_action": "review"
+  },
+  {
+    "word": "je",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour personne qui parler",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "nombre",
+    "categorie": "nom",
+    "definition_v0": "mot pour compter",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "règle",
+    "categorie": "nom",
+    "definition_v0": "mot pour dire comment faire",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "réponse",
+    "categorie": "nom",
+    "definition_v0": "mot pour répondre",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 3,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "faux",
+    "categorie": "adjectif",
+    "definition_v0": "pas vrai",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "froid",
+    "categorie": "adjectif",
+    "definition_v0": "pas chaud",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 2,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "aucun",
+    "categorie": "grammaire",
+    "definition_v0": "pas un",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "comment",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour demander",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "hors",
+    "categorie": "grammaire",
+    "definition_v0": "pas dans",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "jamais",
+    "categorie": "grammaire",
+    "definition_v0": "pas dans aucun temps",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "tu",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour personne avec qui je parler",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 1,
+    "outbound_dependencies": 7,
+    "recommended_action": "review"
+  },
+  {
+    "word": "car",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour raison",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ces",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour montrer",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "cette",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour montrer",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "différent",
+    "categorie": "adjectif",
+    "definition_v0": "pas le même",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "donc",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour effet",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "elle",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour femme",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "elles",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour groupe",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "eux",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour groupe",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "haine",
+    "categorie": "nom",
+    "definition_v0": "pas amour",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "il",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour homme",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ils",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour groupe",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "impossible",
+    "categorie": "adjectif",
+    "definition_v0": "pas possible",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "inutile",
+    "categorie": "adjectif",
+    "definition_v0": "pas utile",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "laid",
+    "categorie": "adjectif",
+    "definition_v0": "pas beau",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "lui",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour personne",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "mais",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour autre sens",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "moi",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour je",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "nom",
+    "categorie": "nom",
+    "definition_v0": "mot pour personne chose ou lieu",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 6,
+    "recommended_action": "review"
+  },
+  {
+    "word": "normal",
+    "categorie": "adjectif",
+    "definition_v0": "comme souvent",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "nous",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour groupe avec je",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ombre",
+    "categorie": "nom",
+    "definition_v0": "pas lumière",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "on",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour personne",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "ordre",
+    "categorie": "nom",
+    "definition_v0": "mot pour faire",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "où",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour demander un lieu",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "paix",
+    "categorie": "nom",
+    "definition_v0": "pas guerre",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "parfois",
+    "categorie": "grammaire",
+    "definition_v0": "pas toujours et pas jamais",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 4,
+    "recommended_action": "review"
+  },
+  {
+    "word": "pourquoi",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour demander une raison",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "privé",
+    "categorie": "adjectif",
+    "definition_v0": "pas public",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  },
+  {
+    "word": "quand",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour demander un temps",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "question",
+    "categorie": "nom",
+    "definition_v0": "mot pour demander",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "quoi",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour demander une chose",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "rien",
+    "categorie": "grammaire",
+    "definition_v0": "pas une chose",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "toi",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour tu",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "vous",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour groupe ou personne",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 5,
+    "recommended_action": "review"
+  },
+  {
+    "word": "y",
+    "categorie": "grammaire",
+    "definition_v0": "mot pour lieu",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 3,
+    "recommended_action": "review"
+  },
+  {
+    "word": "étroit",
+    "categorie": "adjectif",
+    "definition_v0": "pas large",
+    "issues": [
+      "low_explanatory_power"
+    ],
+    "severity": 1,
+    "indirect_cycle_group": [],
+    "near_equivalent_with": [],
+    "inbound_dependencies": 0,
+    "outbound_dependencies": 2,
+    "recommended_action": "review"
+  }
+]

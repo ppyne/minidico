@@ -1,0 +1,156 @@
+[
+  {
+    "form": "classe",
+    "lemma": "classer",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "classent",
+    "lemma": "classer",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "coule",
+    "lemma": "couler",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "coulent",
+    "lemma": "couler",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "formule",
+    "lemma": "formuler",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "formulent",
+    "lemma": "formuler",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "interprète",
+    "lemma": "interpréter",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "interprètent",
+    "lemma": "interpréter",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "manque",
+    "lemma": "manquer",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "manquent",
+    "lemma": "manquer",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "organise",
+    "lemma": "organiser",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "organisent",
+    "lemma": "organiser",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "partage",
+    "lemma": "partager",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "partagent",
+    "lemma": "partager",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "reviennent",
+    "lemma": "revenir",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "revient",
+    "lemma": "revenir",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "vole",
+    "lemma": "voler",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "écrits",
+    "lemma": "écrit",
+    "issues": [
+      "lemma_not_in_wordlist"
+    ]
+  },
+  {
+    "form": "l’arbre",
+    "lemma": "arbre",
+    "issues": [
+      "editorial_elision_form"
+    ]
+  },
+  {
+    "form": "l’insecte",
+    "lemma": "insecte",
+    "issues": [
+      "editorial_elision_form"
+    ]
+  },
+  {
+    "form": "l’oiseau",
+    "lemma": "oiseau",
+    "issues": [
+      "editorial_elision_form"
+    ]
+  },
+  {
+    "form": "l’œuf",
+    "lemma": "œuf",
+    "issues": [
+      "editorial_elision_form"
+    ]
+  }
+]

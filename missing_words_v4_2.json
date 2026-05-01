@@ -1,0 +1,55 @@
+{
+  "invalid_tokens_in_tests": [],
+  "suggested_words_for_next": [
+    {
+      "mot": "insecte",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "nature",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "espèce",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "sauvage",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "domestique",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "élevage",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "nid",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "œuf",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "racine",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    },
+    {
+      "mot": "branche",
+      "priorite": "basse",
+      "raison": "déjà intégré dans cette version"
+    }
+  ]
+}

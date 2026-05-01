@@ -1,0 +1,1785 @@
+{
+  "1_definition_et_explication": {
+    "domain_name": "Définition et Explication",
+    "present_words": [
+      "expliquer",
+      "sens",
+      "signifier",
+      "texte",
+      "message",
+      "langue",
+      "mot",
+      "nom",
+      "raison",
+      "idée",
+      "preuve",
+      "montrer",
+      "décrire",
+      "question",
+      "réponse"
+    ],
+    "missing_words": [
+      "définition",
+      "définir",
+      "explication",
+      "terme",
+      "notion",
+      "concept",
+      "description"
+    ],
+    "weak_definitions": [
+      {
+        "word": "signifier",
+        "definition": "avoir un sens",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "texte",
+        "definition": "mot avec autre mot",
+        "flags": [
+          "meta_poor"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "1_definition_et_explication_01",
+        "phrase": "Ce mot a un sens simple.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_02",
+        "phrase": "Ce texte explique une idée.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_03",
+        "phrase": "Cette phrase explique le sens du mot.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_04",
+        "phrase": "Je peux expliquer ce nom avec un autre mot.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_05",
+        "phrase": "Ce signe a un sens simple.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_06",
+        "phrase": "Le message donne une idée claire.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_07",
+        "phrase": "Cette réponse montre le sens du texte.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_08",
+        "phrase": "Une raison peut expliquer un choix.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_09",
+        "phrase": "Je cherche le sens de ce mot.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_10",
+        "phrase": "Cette langue a des mots pour dire une idée.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_11",
+        "phrase": "Ce mot et ce signe ont un sens proche.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_12",
+        "phrase": "Je peux montrer une chose, puis expliquer son sens.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_13",
+        "phrase": "Cette phrase dit une idée, mais elle explique mal la chose.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_14",
+        "phrase": "Il donne une réponse sans expliquer la raison.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_15",
+        "phrase": "Le texte montre plus, puis il explique.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_16",
+        "phrase": "Je veux une définition simple de ce mot.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_17",
+        "phrase": "Ce mot demande une explication plus exacte.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_18",
+        "phrase": "On peut définir cette idée avec peu de mots.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_19",
+        "phrase": "Cette notion reste sans définition claire.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "1_definition_et_explication_20",
+        "phrase": "Le corpus explique, mais il définit mal les mots abstraits.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "naturel": 8,
+      "acceptable": 7,
+      "impossible": 5
+    },
+    "candidate_words_v6_0": [
+      "définition",
+      "définir",
+      "explication",
+      "exemple",
+      "notion"
+    ]
+  },
+  "2_cause_consequence_condition_exception": {
+    "domain_name": "Cause, Conséquence, Condition, Exception",
+    "present_words": [
+      "cause",
+      "effet",
+      "raison",
+      "si",
+      "alors",
+      "car",
+      "mais",
+      "ou",
+      "donc",
+      "possible",
+      "impossible",
+      "résultat"
+    ],
+    "missing_words": [
+      "conséquence",
+      "condition",
+      "exception",
+      "sinon",
+      "sauf",
+      "cas-limite"
+    ],
+    "weak_definitions": [
+      {
+        "word": "si",
+        "definition": "mot pour une chose possible",
+        "flags": [
+          "meta_poor"
+        ]
+      },
+      {
+        "word": "car",
+        "definition": "mot pour une raison",
+        "flags": [
+          "meta_poor"
+        ]
+      },
+      {
+        "word": "mais",
+        "definition": "mot pour montrer une différence",
+        "flags": [
+          "meta_poor"
+        ]
+      },
+      {
+        "word": "donc",
+        "definition": "mot pour montrer un effet",
+        "flags": [
+          "meta_poor"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "2_cause_consequence_condition_exception_01",
+        "phrase": "Cette cause produit un effet.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_02",
+        "phrase": "Si la porte est ouvert, alors air entre.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_03",
+        "phrase": "Si le corps est malade, alors un soin est utile.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_04",
+        "phrase": "La pluie est une cause, et le sol avec eau est un effet.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_05",
+        "phrase": "Une raison peut montrer la cause d’un choix.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_06",
+        "phrase": "Si il y a pas preuve, alors le doute vient.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_07",
+        "phrase": "Cette action a un bon effet.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_08",
+        "phrase": "Cette action a un mauvais effet.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_09",
+        "phrase": "Si une partie est pas là, alors une autre partie change.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_10",
+        "phrase": "Cause et effet ne viennent pas toujours ensemble.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_11",
+        "phrase": "Cette phrase donne la cause, mais pas effet.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_12",
+        "phrase": "Si le risque est grand, alors aide est bonne.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_13",
+        "phrase": "Une condition simple manque dans ce texte.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_14",
+        "phrase": "Cette conséquence logique vient après la cause.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_15",
+        "phrase": "Sauf erreur, cette règle reste bonne.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_16",
+        "phrase": "Il y a une exception à cette règle.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_17",
+        "phrase": "Sinon, le même effet revient.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_18",
+        "phrase": "Cette condition est nécessaire mais pas suffisante.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_19",
+        "phrase": "La conséquence est plus forte que la cause attendue.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "2_cause_consequence_condition_exception_20",
+        "phrase": "Le mot condition manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "naturel": 4,
+      "acceptable": 7,
+      "lourd": 1,
+      "impossible": 8
+    },
+    "candidate_words_v6_0": [
+      "condition",
+      "conséquence",
+      "exception",
+      "sauf",
+      "sinon"
+    ]
+  },
+  "3_comparaison_difference_ressemblance_opposition": {
+    "domain_name": "Comparaison, Différence, Ressemblance, Opposition",
+    "present_words": [
+      "comparer",
+      "différence",
+      "ressemblance",
+      "même",
+      "autre",
+      "plus",
+      "moins",
+      "comme",
+      "proche",
+      "loin"
+    ],
+    "missing_words": [
+      "comparaison",
+      "opposition",
+      "analogie",
+      "contraste"
+    ],
+    "weak_definitions": [
+      {
+        "word": "même",
+        "definition": "sans différence",
+        "flags": [
+          "short",
+          "hyperonym_simple"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_01",
+        "phrase": "Pour comparer, je peux regarder une idée et une autre idée.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_02",
+        "phrase": "Il y a une différence entre ces deux textes.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_03",
+        "phrase": "Il y a une ressemblance entre ces deux chose.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_04",
+        "phrase": "Cette chose est plus grande que une autre chose.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_05",
+        "phrase": "Cette réponse est moins claire que une autre réponse.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_06",
+        "phrase": "Le vrai et le faux sont autre.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_07",
+        "phrase": "Deux mots peuvent avoir un sens proche.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_08",
+        "phrase": "Deux texte peuvent dire la même idée.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_09",
+        "phrase": "Comparer aide à voir le même et une autre chose.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_10",
+        "phrase": "Cette image a une ressemblance avec une autre image.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_11",
+        "phrase": "Cette pensée est proche, mais pas la même.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_12",
+        "phrase": "L’opposition entre ces deux idées est forte.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_13",
+        "phrase": "Cette comparaison reste faible sans exemple.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_14",
+        "phrase": "Le contraste est clair entre bon et mauvais.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_15",
+        "phrase": "Cette analogie aide à comprendre le sens.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_16",
+        "phrase": "La différence est petite mais vraie.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_17",
+        "phrase": "La ressemblance est grande, mais le sens est pas le même.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_18",
+        "phrase": "Plus de preuve donne moins de doute.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_19",
+        "phrase": "Cette autre solution est autre que une solution de avant.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "3_comparaison_difference_ressemblance_opposition_20",
+        "phrase": "Le mot comparaison manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "acceptable": 9,
+      "naturel": 3,
+      "lourd": 3,
+      "impossible": 5
+    },
+    "candidate_words_v6_0": [
+      "comparaison",
+      "opposition",
+      "contraste",
+      "semblable"
+    ]
+  },
+  "4_precision_approximation_exactitude": {
+    "domain_name": "Précision, Approximation, Exactitude",
+    "present_words": [
+      "exact",
+      "approximatif",
+      "environ",
+      "précis",
+      "vrai",
+      "faux",
+      "nombre",
+      "mesure",
+      "erreur"
+    ],
+    "missing_words": [
+      "précision",
+      "approximation",
+      "exactitude",
+      "marge"
+    ],
+    "weak_definitions": [
+      {
+        "word": "nombre",
+        "definition": "mot pour compter",
+        "flags": [
+          "short",
+          "meta_poor"
+        ]
+      },
+      {
+        "word": "erreur",
+        "definition": "faute dans mot ou fait",
+        "flags": [
+          "meta_poor"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "4_precision_approximation_exactitude_01",
+        "phrase": "Ce nombre est exact.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_02",
+        "phrase": "Ce nombre est approximatif.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_03",
+        "phrase": "Il y a environ dix personnes.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_04",
+        "phrase": "Cette mesure est précise.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_05",
+        "phrase": "Cette réponse est vraie mais peu précise.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_06",
+        "phrase": "Cette phrase est plus exacte que une autre phrase.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_07",
+        "phrase": "Un nombre peut être bon sans être exact.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_08",
+        "phrase": "Cette information est faux.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_09",
+        "phrase": "Une petite erreur change le sens.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_10",
+        "phrase": "Cette mesure donne un résultat approximatif.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_11",
+        "phrase": "L’exactitude manque dans ce calcul.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_12",
+        "phrase": "Je cherche plus de précision.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_13",
+        "phrase": "Cette approximation est utile pour aller vite.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_14",
+        "phrase": "La marge d’erreur reste petite.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_15",
+        "phrase": "Le texte reste vrai mais pas exact.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_16",
+        "phrase": "Vrai, faux, exact et environ donnent des différence.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_17",
+        "phrase": "Cette mesure est assez précise pour un usage simple.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_18",
+        "phrase": "Le bon sens aide quand le nombre est pas exact.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_19",
+        "phrase": "Une information approximatif peut être utile.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "4_precision_approximation_exactitude_20",
+        "phrase": "Le mot précision manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "naturel": 5,
+      "acceptable": 8,
+      "impossible": 5,
+      "lourd": 2
+    },
+    "candidate_words_v6_0": [
+      "précision",
+      "approximation",
+      "exactitude",
+      "mesure-fine"
+    ]
+  },
+  "5_hypothese_doute_certitude_probabilite": {
+    "domain_name": "Hypothèse, Doute, Certitude, Probabilité",
+    "present_words": [
+      "hypothèse",
+      "doute",
+      "certain",
+      "probable",
+      "penser",
+      "croire",
+      "savoir",
+      "vrai",
+      "faux",
+      "possible",
+      "impossible"
+    ],
+    "missing_words": [
+      "certitude",
+      "probabilité",
+      "incertitude",
+      "supposition"
+    ],
+    "weak_definitions": [
+      {
+        "word": "savoir",
+        "definition": "avoir une information",
+        "flags": [
+          "short"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_01",
+        "phrase": "Cette hypothèse est possible.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_02",
+        "phrase": "Je doute de cette réponse.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_03",
+        "phrase": "Il peut croire que cette idée est vraie.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_04",
+        "phrase": "Je peux savoir que ce nombre est exact.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_05",
+        "phrase": "Cette chose est probable.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_06",
+        "phrase": "Cette pensée reste entre vrai et faux.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_07",
+        "phrase": "Le doute vient si il y a pas preuve.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_08",
+        "phrase": "Une hypothèse peut venir avant la preuve.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_09",
+        "phrase": "Croire une chose et savoir une chose sont pas le même.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_10",
+        "phrase": "Il pense que la cause est autre.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_11",
+        "phrase": "La certitude manque encore.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_12",
+        "phrase": "Cette probabilité est faible.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_13",
+        "phrase": "Nous restons dans une grande incertitude.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_14",
+        "phrase": "Cette supposition vient sans preuve.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_15",
+        "phrase": "Cette hypothèse peut être plus probable avec une autre preuve.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_16",
+        "phrase": "Plus de preuve peut donner moins de doute.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_17",
+        "phrase": "Je peux croire une chose sans la savoir.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_18",
+        "phrase": "Le vrai est pas toujours certain pour esprit.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_19",
+        "phrase": "Une idée peut être possible et faux.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "5_hypothese_doute_certitude_probabilite_20",
+        "phrase": "Le mot certitude manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "naturel": 5,
+      "acceptable": 7,
+      "lourd": 3,
+      "impossible": 5
+    },
+    "candidate_words_v6_0": [
+      "certitude",
+      "probabilité",
+      "incertitude",
+      "supposer"
+    ]
+  },
+  "6_methode_processus_etape_structure": {
+    "domain_name": "Méthode, Processus, Étape, Structure",
+    "present_words": [
+      "ordre",
+      "règle",
+      "partie",
+      "ensemble",
+      "plan",
+      "préparer",
+      "suivre",
+      "commencer",
+      "finir"
+    ],
+    "missing_words": [
+      "méthode",
+      "processus",
+      "étape",
+      "structure",
+      "séquence"
+    ],
+    "weak_definitions": [
+      {
+        "word": "ordre",
+        "definition": "mot pour demander une action",
+        "flags": [
+          "meta_poor"
+        ]
+      },
+      {
+        "word": "préparer",
+        "definition": "faire être prêt",
+        "flags": [
+          "short"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "6_methode_processus_etape_structure_01",
+        "phrase": "Un ordre peut aider pour faire ce travail.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_02",
+        "phrase": "Cette règle dit comment faire une action.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_03",
+        "phrase": "Le plan donne un ordre de partie.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_04",
+        "phrase": "Une partie vient avant une autre partie.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_05",
+        "phrase": "Une partie peut changer un ensemble.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_06",
+        "phrase": "On peut préparer le travail, puis commencer.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_07",
+        "phrase": "On peut commencer, puis finir.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_08",
+        "phrase": "Le mot organisation manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_09",
+        "phrase": "Le mot système manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_10",
+        "phrase": "Le texte a un bon ordre.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_11",
+        "phrase": "Cette méthode est simple et bonne.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_12",
+        "phrase": "La première étape manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_13",
+        "phrase": "Le processus reste long.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_14",
+        "phrase": "La structure du texte est claire.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_15",
+        "phrase": "Cette procédure aide à éviter l’erreur.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_16",
+        "phrase": "Le mot méthode manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_17",
+        "phrase": "Avant, après, partie et ensemble sont là.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_18",
+        "phrase": "Le mot structure manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_19",
+        "phrase": "Une règle peut aider un travail, mais le mot méthode manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "6_methode_processus_etape_structure_20",
+        "phrase": "Le mot processus manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "acceptable": 9,
+      "impossible": 11
+    },
+    "candidate_words_v6_0": [
+      "méthode",
+      "processus",
+      "étape",
+      "structure",
+      "procédure"
+    ]
+  },
+  "7_jugement_qualite_valeur_importance": {
+    "domain_name": "Jugement, Qualité, Valeur, Importance",
+    "present_words": [
+      "jugement",
+      "qualité",
+      "valeur",
+      "bon",
+      "mauvais",
+      "important",
+      "principal",
+      "utile",
+      "inutile"
+    ],
+    "missing_words": [
+      "importance",
+      "évaluation",
+      "critère",
+      "priorité"
+    ],
+    "weak_definitions": [
+      {
+        "word": "jugement",
+        "definition": "décision de justice",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "principal",
+        "definition": "le plus important",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "inutile",
+        "definition": "sans usage utile",
+        "flags": [
+          "short"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "7_jugement_qualite_valeur_importance_01",
+        "phrase": "Cette chose a une bonne qualité.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_02",
+        "phrase": "Cette action a une grande valeur.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_03",
+        "phrase": "Ce point est important.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_04",
+        "phrase": "Cette partie est principale.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_05",
+        "phrase": "Ce usage est utile.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_06",
+        "phrase": "Ce objet est inutile.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_07",
+        "phrase": "Le jugement de justice vient après.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_08",
+        "phrase": "Cette réponse est plus bonne que une autre.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_09",
+        "phrase": "Cette idée a peu de valeur sans preuve.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_10",
+        "phrase": "Le bon usage donne plus de valeur.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_11",
+        "phrase": "L’importance de ce point est grande.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_12",
+        "phrase": "Le critère de choix manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_13",
+        "phrase": "Cette priorité vient avant une autre.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_14",
+        "phrase": "Nous avons besoin d’une évaluation plus fine.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_15",
+        "phrase": "Bon, mauvais, utile et important sont là.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_16",
+        "phrase": "Le mot importance manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_17",
+        "phrase": "La valeur peut être prix ou bon usage.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_18",
+        "phrase": "Une qualité peut être bonne sans être principale.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_19",
+        "phrase": "Un jugement sans preuve reste faible.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "7_jugement_qualite_valeur_importance_20",
+        "phrase": "Le jugement simple est là, mais le mot évaluation manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "naturel": 3,
+      "acceptable": 10,
+      "lourd": 1,
+      "impossible": 6
+    },
+    "candidate_words_v6_0": [
+      "importance",
+      "priorité",
+      "critère",
+      "évaluer"
+    ]
+  },
+  "8_argumentation_accord_desaccord_preuve_exemple": {
+    "domain_name": "Argumentation, Accord, Désaccord, Preuve, Exemple",
+    "present_words": [
+      "accord",
+      "désaccord",
+      "preuve",
+      "raison",
+      "montrer",
+      "expliquer",
+      "texte",
+      "message",
+      "discussion",
+      "question",
+      "réponse"
+    ],
+    "missing_words": [
+      "argument",
+      "argumentation",
+      "exemple",
+      "objection",
+      "justification"
+    ],
+    "weak_definitions": [
+      {
+        "word": "texte",
+        "definition": "mot avec autre mot",
+        "flags": [
+          "meta_poor"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_01",
+        "phrase": "Il y a accord sur cette idée.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_02",
+        "phrase": "Ils sont en désaccord sur la cause.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_03",
+        "phrase": "Cette preuve montre que la réponse est vraie.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_04",
+        "phrase": "Une bonne raison peut aider une personne.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_05",
+        "phrase": "La discussion change après une nouvelle preuve.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_06",
+        "phrase": "Cette réponse donne une raison, mais pas une preuve.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_07",
+        "phrase": "Le texte montre un accord simple.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_08",
+        "phrase": "Le message explique le désaccord.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_09",
+        "phrase": "Montrer est pas toujours preuve.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_10",
+        "phrase": "Une preuve faible laisse du doute.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_11",
+        "phrase": "Je veux un exemple simple.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_12",
+        "phrase": "Cet argument est fort.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_13",
+        "phrase": "Cette objection change la discussion.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_14",
+        "phrase": "Il manque une justification claire.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_15",
+        "phrase": "L’argumentation reste courte dans ce corpus.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_16",
+        "phrase": "Preuve et désaccord sont là.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_17",
+        "phrase": "Le mot exemple manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_18",
+        "phrase": "Une raison et une preuve ne sont pas la même chose.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_19",
+        "phrase": "Accord peut venir sans discussion longue.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "8_argumentation_accord_desaccord_preuve_exemple_20",
+        "phrase": "Le désaccord peut rester même avec une preuve.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "acceptable": 8,
+      "naturel": 5,
+      "lourd": 1,
+      "impossible": 6
+    },
+    "candidate_words_v6_0": [
+      "argument",
+      "exemple",
+      "justifier",
+      "objection",
+      "argumentation"
+    ]
+  },
+  "9_temporalite_logique_duree_frequence_repetition_ordre": {
+    "domain_name": "Temporalité Logique",
+    "present_words": [
+      "temps",
+      "avant",
+      "après",
+      "puis",
+      "toujours",
+      "jamais",
+      "souvent",
+      "parfois",
+      "rare",
+      "encore",
+      "déjà",
+      "pendant",
+      "moment",
+      "heure",
+      "jour",
+      "fois",
+      "ordre"
+    ],
+    "missing_words": [
+      "durée",
+      "fréquence",
+      "répétition",
+      "intervalle",
+      "succession"
+    ],
+    "weak_definitions": [
+      {
+        "word": "puis",
+        "definition": "après ce",
+        "flags": [
+          "short",
+          "hyperonym_simple"
+        ]
+      },
+      {
+        "word": "toujours",
+        "definition": "dans tout temps",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "jamais",
+        "definition": "à aucun moment",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "déjà",
+        "definition": "avant maintenant",
+        "flags": [
+          "short",
+          "hyperonym_simple"
+        ]
+      },
+      {
+        "word": "pendant",
+        "definition": "dans un temps",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "moment",
+        "definition": "partie de temps",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "heure",
+        "definition": "partie de temps",
+        "flags": [
+          "short"
+        ]
+      },
+      {
+        "word": "ordre",
+        "definition": "mot pour demander une action",
+        "flags": [
+          "meta_poor"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_01",
+        "phrase": "Cette action vient avant une autre action.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_02",
+        "phrase": "Puis une autre partie vient après.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_03",
+        "phrase": "Il revient souvent au même point.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_04",
+        "phrase": "Cette erreur revient encore.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_05",
+        "phrase": "Cette chose arrive parfois.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_06",
+        "phrase": "Cette chose arrive jamais.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_07",
+        "phrase": "Pendant ce temps, il attend.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_08",
+        "phrase": "Un ordre de partie change le sens.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_09",
+        "phrase": "Déjà, le texte donne une réponse.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_10",
+        "phrase": "Toujours dire la même chose fatigue.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_11",
+        "phrase": "La durée de cette action est longue.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_12",
+        "phrase": "La fréquence reste faible.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_13",
+        "phrase": "Cette répétition aide à apprendre.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_14",
+        "phrase": "Il y a un intervalle entre les deux actions.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_15",
+        "phrase": "La succession des faits est claire.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_16",
+        "phrase": "Avant, après et souvent sont là.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_17",
+        "phrase": "Le mot fréquence manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_18",
+        "phrase": "Une fois peut aider, puis une autre fois peut montrer.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_19",
+        "phrase": "Rare et souvent donnent déjà une différence.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "9_temporalite_logique_duree_frequence_repetition_ordre_20",
+        "phrase": "La pensée du temps est là, mais pas complet.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "naturel": 4,
+      "acceptable": 9,
+      "impossible": 6,
+      "lourd": 1
+    },
+    "candidate_words_v6_0": [
+      "durée",
+      "fréquence",
+      "répétition",
+      "intervalle",
+      "succession"
+    ]
+  },
+  "10_communication_avis_opinion_sens_signification": {
+    "domain_name": "Communication, Avis, Opinion, Sens, Signification",
+    "present_words": [
+      "message",
+      "texte",
+      "langue",
+      "sens",
+      "signifier",
+      "idée",
+      "penser",
+      "croire",
+      "parler",
+      "réponse",
+      "question",
+      "dire"
+    ],
+    "missing_words": [
+      "avis",
+      "opinion",
+      "signification",
+      "interprétation",
+      "formulation"
+    ],
+    "weak_definitions": [
+      {
+        "word": "texte",
+        "definition": "mot avec autre mot",
+        "flags": [
+          "meta_poor"
+        ]
+      },
+      {
+        "word": "signifier",
+        "definition": "avoir un sens",
+        "flags": [
+          "short"
+        ]
+      }
+    ],
+    "tests": [
+      {
+        "id": "10_communication_avis_opinion_sens_signification_01",
+        "phrase": "Ce message dit une idée simple.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_02",
+        "phrase": "Le sens de ce mot change dans un autre texte.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_03",
+        "phrase": "Cette langue permet de parler du vrai et du faux.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_04",
+        "phrase": "Un signe peut signifier une autre chose.",
+        "status": "naturel",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_05",
+        "phrase": "Je pense que ce texte a un double sens.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_06",
+        "phrase": "Il peut croire que ce message est bon.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_07",
+        "phrase": "La réponse ne dit pas tout le sens.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_08",
+        "phrase": "Parler change parfois le sens d’une idée.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_09",
+        "phrase": "Une question peut ouvrir un autre message.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_10",
+        "phrase": "Dire une chose est pas toujours expliquer son sens.",
+        "status": "lourd",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_11",
+        "phrase": "Quel est ton avis ?",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_12",
+        "phrase": "Cette opinion reste faible.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_13",
+        "phrase": "La signification de ce texte est difficile.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_14",
+        "phrase": "Cette interprétation change le jugement.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_15",
+        "phrase": "La formulation est lourde.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_16",
+        "phrase": "Le sens est bien là.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_17",
+        "phrase": "Le mot avis manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_18",
+        "phrase": "Message, texte et signe sont là.",
+        "status": "acceptable",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_19",
+        "phrase": "Signifier est là, mais le mot signification manque.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      },
+      {
+        "id": "10_communication_avis_opinion_sens_signification_20",
+        "phrase": "Le mot communication manque, mais message et texte sont là.",
+        "status": "impossible",
+        "missing_forms_or_words": []
+      }
+    ],
+    "status_counts": {
+      "naturel": 2,
+      "acceptable": 9,
+      "lourd": 1,
+      "impossible": 8
+    },
+    "candidate_words_v6_0": [
+      "avis",
+      "opinion",
+      "signification",
+      "interprétation",
+      "formulation"
+    ]
+  }
+}

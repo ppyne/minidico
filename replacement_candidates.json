@@ -1,0 +1,502 @@
+[
+  {
+    "remove_word": "radio",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "manière",
+    "add_category": "nom",
+    "add_definition_proposal": "forme de faire une action",
+    "replacement_rationale": "Le mot 'manière' augmente la puissance definitoire plus que 'radio', qui est peu central dans la V0.",
+    "utility_gain_type": "information"
+  },
+  {
+    "remove_word": "film",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "action",
+    "add_category": "nom",
+    "add_definition_proposal": "fait de faire",
+    "replacement_rationale": "Le mot 'action' augmente la puissance definitoire plus que 'film', qui est peu central dans la V0.",
+    "utility_gain_type": "représenter"
+  },
+  {
+    "remove_word": "chant",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "mouvement",
+    "add_category": "nom",
+    "add_definition_proposal": "fait de bouger",
+    "replacement_rationale": "Le mot 'mouvement' augmente la puissance definitoire plus que 'chant', qui est peu central dans la V0.",
+    "utility_gain_type": "communiquer"
+  },
+  {
+    "remove_word": "danse",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "objet",
+    "add_category": "nom",
+    "add_definition_proposal": "chose que une personne peut voir ou toucher",
+    "replacement_rationale": "Le mot 'objet' augmente la puissance definitoire plus que 'danse', qui est peu central dans la V0.",
+    "utility_gain_type": "mouvement"
+  },
+  {
+    "remove_word": "art",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "matière",
+    "add_category": "nom",
+    "add_definition_proposal": "ce dont une chose est faite",
+    "replacement_rationale": "Le mot 'matière' augmente la puissance definitoire plus que 'art', qui est peu central dans la V0.",
+    "utility_gain_type": "qualité"
+  },
+  {
+    "remove_word": "science",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "plante",
+    "add_category": "nom",
+    "add_definition_proposal": "être vivant qui pousse dans la terre",
+    "replacement_rationale": "Le mot 'plante' augmente la puissance definitoire plus que 'science', qui est peu central dans la V0.",
+    "utility_gain_type": "information"
+  },
+  {
+    "remove_word": "bureau",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "bruit",
+    "add_category": "nom",
+    "add_definition_proposal": "son que on peut entendre",
+    "replacement_rationale": "Le mot 'bruit' augmente la puissance definitoire plus que 'bureau', qui est peu central dans la V0.",
+    "utility_gain_type": "place"
+  },
+  {
+    "remove_word": "usine",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "espace",
+    "add_category": "nom",
+    "add_definition_proposal": "grand lieu autour de une chose",
+    "replacement_rationale": "Le mot 'espace' augmente la puissance definitoire plus que 'usine', qui est peu central dans la V0.",
+    "utility_gain_type": "produire"
+  },
+  {
+    "remove_word": "marché",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "contact",
+    "add_category": "nom",
+    "add_definition_proposal": "fait de toucher",
+    "replacement_rationale": "Le mot 'contact' augmente la puissance definitoire plus que 'marché', qui est peu central dans la V0.",
+    "utility_gain_type": "valeur"
+  },
+  {
+    "remove_word": "magasin",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "direction",
+    "add_category": "nom",
+    "add_definition_proposal": "côté vers où on va",
+    "replacement_rationale": "Le mot 'direction' augmente la puissance definitoire plus que 'magasin', qui est peu central dans la V0.",
+    "utility_gain_type": "objet"
+  },
+  {
+    "remove_word": "jardin",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "distance",
+    "add_category": "nom",
+    "add_definition_proposal": "mesure entre deux lieu",
+    "replacement_rationale": "Le mot 'distance' augmente la puissance definitoire plus que 'jardin', qui est peu central dans la V0.",
+    "utility_gain_type": "plante"
+  },
+  {
+    "remove_word": "cuisine",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "place",
+    "add_category": "nom",
+    "add_definition_proposal": "partie de lieu pour une chose ou une personne",
+    "replacement_rationale": "Le mot 'place' augmente la puissance definitoire plus que 'cuisine', qui est peu central dans la V0.",
+    "utility_gain_type": "matière"
+  },
+  {
+    "remove_word": "tasse",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "surface",
+    "add_category": "nom",
+    "add_definition_proposal": "partie extérieure de une chose",
+    "replacement_rationale": "Le mot 'surface' augmente la puissance definitoire plus que 'tasse', qui est peu central dans la V0.",
+    "utility_gain_type": "contenir"
+  },
+  {
+    "remove_word": "verre",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "point",
+    "add_category": "nom",
+    "add_definition_proposal": "très petite partie de lieu",
+    "replacement_rationale": "Le mot 'point' augmente la puissance definitoire plus que 'verre', qui est peu central dans la V0.",
+    "utility_gain_type": "surface"
+  },
+  {
+    "remove_word": "bouteille",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "ensemble",
+    "add_category": "nom",
+    "add_definition_proposal": "groupe de chose ou de personne",
+    "replacement_rationale": "Le mot 'ensemble' augmente la puissance definitoire plus que 'bouteille', qui est peu central dans la V0.",
+    "utility_gain_type": "contenir"
+  },
+  {
+    "remove_word": "robe",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "relation",
+    "add_category": "nom",
+    "add_definition_proposal": "rapport entre deux chose ou personne",
+    "replacement_rationale": "Le mot 'relation' augmente la puissance definitoire plus que 'robe', qui est peu central dans la V0.",
+    "utility_gain_type": "adjectif"
+  },
+  {
+    "remove_word": "pantalon",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "état",
+    "add_category": "nom",
+    "add_definition_proposal": "manière de être",
+    "replacement_rationale": "Le mot 'état' augmente la puissance definitoire plus que 'pantalon', qui est peu central dans la V0.",
+    "utility_gain_type": "adjectif"
+  },
+  {
+    "remove_word": "chemise",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "fonction",
+    "add_category": "nom",
+    "add_definition_proposal": "usage ou rôle de une chose",
+    "replacement_rationale": "Le mot 'fonction' augmente la puissance definitoire plus que 'chemise', qui est peu central dans la V0.",
+    "utility_gain_type": "adjectif"
+  },
+  {
+    "remove_word": "chaussure",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "valeur",
+    "add_category": "nom",
+    "add_definition_proposal": "prix ou importance de une chose",
+    "replacement_rationale": "Le mot 'valeur' augmente la puissance definitoire plus que 'chaussure', qui est peu central dans la V0.",
+    "utility_gain_type": "objet"
+  },
+  {
+    "remove_word": "bateau",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "quantité",
+    "add_category": "nom",
+    "add_definition_proposal": "nombre de chose",
+    "replacement_rationale": "Le mot 'quantité' augmente la puissance definitoire plus que 'bateau', qui est peu central dans la V0.",
+    "utility_gain_type": "direction"
+  },
+  {
+    "remove_word": "avion",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "qualité",
+    "add_category": "nom",
+    "add_definition_proposal": "manière de être de une chose",
+    "replacement_rationale": "Le mot 'qualité' augmente la puissance definitoire plus que 'avion', qui est peu central dans la V0.",
+    "utility_gain_type": "distance"
+  },
+  {
+    "remove_word": "cheval",
+    "remove_category": "nom",
+    "remove_definition_v0": "grand animal",
+    "add_word": "sorte",
+    "add_category": "nom",
+    "add_definition_proposal": "groupe de chose proche",
+    "replacement_rationale": "Le mot 'sorte' augmente la puissance definitoire plus que 'cheval', qui est peu central dans la V0.",
+    "utility_gain_type": "mouvement"
+  },
+  {
+    "remove_word": "vache",
+    "remove_category": "nom",
+    "remove_definition_v0": "animal pour lait",
+    "add_word": "genre",
+    "add_category": "nom",
+    "add_definition_proposal": "grande sorte de chose",
+    "replacement_rationale": "Le mot 'genre' augmente la puissance definitoire plus que 'vache', qui est peu central dans la V0.",
+    "utility_gain_type": "matière"
+  },
+  {
+    "remove_word": "fruit",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "reste",
+    "add_category": "nom",
+    "add_definition_proposal": "partie qui est encore là",
+    "replacement_rationale": "Le mot 'reste' augmente la puissance definitoire plus que 'fruit', qui est peu central dans la V0.",
+    "utility_gain_type": "sorte"
+  },
+  {
+    "remove_word": "légume",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "devenir",
+    "add_category": "verbe",
+    "add_definition_proposal": "commencer à être",
+    "replacement_rationale": "Le mot 'devenir' augmente la puissance definitoire plus que 'légume', qui est peu central dans la V0.",
+    "utility_gain_type": "sorte"
+  },
+  {
+    "remove_word": "viande",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "produire",
+    "add_category": "verbe",
+    "add_definition_proposal": "faire être une chose",
+    "replacement_rationale": "Le mot 'produire' augmente la puissance definitoire plus que 'viande', qui est peu central dans la V0.",
+    "utility_gain_type": "matière"
+  },
+  {
+    "remove_word": "lait",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "permettre",
+    "add_category": "verbe",
+    "add_definition_proposal": "faire que une chose est possible",
+    "replacement_rationale": "Le mot 'permettre' augmente la puissance definitoire plus que 'lait', qui est peu central dans la V0.",
+    "utility_gain_type": "matière"
+  },
+  {
+    "remove_word": "sucre",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "appartenir",
+    "add_category": "verbe",
+    "add_definition_proposal": "être à une personne ou à un groupe",
+    "replacement_rationale": "Le mot 'appartenir' augmente la puissance definitoire plus que 'sucre', qui est peu central dans la V0.",
+    "utility_gain_type": "quantité"
+  },
+  {
+    "remove_word": "sel",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "contenir",
+    "add_category": "verbe",
+    "add_definition_proposal": "avoir une chose dans une autre",
+    "replacement_rationale": "Le mot 'contenir' augmente la puissance definitoire plus que 'sel', qui est peu central dans la V0.",
+    "utility_gain_type": "quantité"
+  },
+  {
+    "remove_word": "huile",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "former",
+    "add_category": "verbe",
+    "add_definition_proposal": "faire un tout avec des partie",
+    "replacement_rationale": "Le mot 'former' augmente la puissance definitoire plus que 'huile', qui est peu central dans la V0.",
+    "utility_gain_type": "matière"
+  },
+  {
+    "remove_word": "vêtement",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "signifier",
+    "add_category": "verbe",
+    "add_definition_proposal": "avoir un sens",
+    "replacement_rationale": "Le mot 'signifier' augmente la puissance definitoire plus que 'vêtement', qui est peu central dans la V0.",
+    "utility_gain_type": "objet"
+  },
+  {
+    "remove_word": "classe",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "représenter",
+    "add_category": "verbe",
+    "add_definition_proposal": "montrer une chose par image ou par mot",
+    "replacement_rationale": "Le mot 'représenter' augmente la puissance definitoire plus que 'classe', qui est peu central dans la V0.",
+    "utility_gain_type": "ensemble"
+  },
+  {
+    "remove_word": "coin",
+    "remove_category": "nom",
+    "remove_definition_v0": "petit partie de lieu",
+    "add_word": "exister",
+    "add_category": "verbe",
+    "add_definition_proposal": "être dans le monde",
+    "replacement_rationale": "Le mot 'exister' augmente la puissance definitoire plus que 'coin', qui est peu central dans la V0.",
+    "utility_gain_type": "place"
+  },
+  {
+    "remove_word": "région",
+    "remove_category": "nom",
+    "remove_definition_v0": "partie de pays",
+    "add_word": "placer",
+    "add_category": "verbe",
+    "add_definition_proposal": "mettre dans un lieu",
+    "replacement_rationale": "Le mot 'placer' augmente la puissance definitoire plus que 'région', qui est peu central dans la V0.",
+    "utility_gain_type": "espace"
+  },
+  {
+    "remove_word": "village",
+    "remove_category": "nom",
+    "remove_definition_v0": "petit lieu avec maison",
+    "add_word": "occuper",
+    "add_category": "verbe",
+    "add_definition_proposal": "prendre une place dans un lieu",
+    "replacement_rationale": "Le mot 'occuper' augmente la puissance definitoire plus que 'village', qui est peu central dans la V0.",
+    "utility_gain_type": "place"
+  },
+  {
+    "remove_word": "repas",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "résultat",
+    "add_category": "nom",
+    "add_definition_proposal": "effet final de une action",
+    "replacement_rationale": "Le mot 'résultat' augmente la puissance definitoire plus que 'repas', qui est peu central dans la V0.",
+    "utility_gain_type": "action"
+  },
+  {
+    "remove_word": "clé",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "différence",
+    "add_category": "nom",
+    "add_definition_proposal": "fait de être autre",
+    "replacement_rationale": "Le mot 'différence' augmente la puissance definitoire plus que 'clé', qui est peu central dans la V0.",
+    "utility_gain_type": "fonction"
+  },
+  {
+    "remove_word": "sac",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "ressemblance",
+    "add_category": "nom",
+    "add_definition_proposal": "fait de être presque le même",
+    "replacement_rationale": "Le mot 'ressemblance' augmente la puissance definitoire plus que 'sac', qui est peu central dans la V0.",
+    "utility_gain_type": "contenir"
+  },
+  {
+    "remove_word": "pont",
+    "remove_category": "nom",
+    "remove_definition_v0": "partie sur eau pour aller",
+    "add_word": "sentiment",
+    "add_category": "nom",
+    "add_definition_proposal": "état du cœur ou de esprit",
+    "replacement_rationale": "Le mot 'sentiment' augmente la puissance definitoire plus que 'pont', qui est peu central dans la V0.",
+    "utility_gain_type": "relation"
+  },
+  {
+    "remove_word": "forêt",
+    "remove_category": "nom",
+    "remove_definition_v0": "lieu avec beaucoup de arbre",
+    "add_word": "émotion",
+    "add_category": "nom",
+    "add_definition_proposal": "sentiment fort",
+    "replacement_rationale": "Le mot 'émotion' augmente la puissance definitoire plus que 'forêt', qui est peu central dans la V0.",
+    "utility_gain_type": "plante"
+  },
+  {
+    "remove_word": "montagne",
+    "remove_category": "nom",
+    "remove_definition_v0": "haut lieu",
+    "add_word": "grandir",
+    "add_category": "verbe",
+    "add_definition_proposal": "devenir plus grand",
+    "replacement_rationale": "Le mot 'grandir' augmente la puissance definitoire plus que 'montagne', qui est peu central dans la V0.",
+    "utility_gain_type": "surface"
+  },
+  {
+    "remove_word": "lac",
+    "remove_category": "nom",
+    "remove_definition_v0": "eau dans terre",
+    "add_word": "communiquer",
+    "add_category": "verbe",
+    "add_definition_proposal": "parler pour donner une information",
+    "replacement_rationale": "Le mot 'communiquer' augmente la puissance definitoire plus que 'lac', qui est peu central dans la V0.",
+    "utility_gain_type": "surface"
+  },
+  {
+    "remove_word": "rivière",
+    "remove_category": "nom",
+    "remove_definition_v0": "eau qui aller",
+    "add_word": "information",
+    "add_category": "nom",
+    "add_definition_proposal": "mot ou signe qui dire une chose",
+    "replacement_rationale": "Le mot 'information' augmente la puissance definitoire plus que 'rivière', qui est peu central dans la V0.",
+    "utility_gain_type": "mouvement"
+  },
+  {
+    "remove_word": "neige",
+    "remove_category": "nom",
+    "remove_definition_v0": "eau froid",
+    "add_word": "comparer",
+    "add_category": "verbe",
+    "add_definition_proposal": "regarder deux chose pour voir le même et autre",
+    "replacement_rationale": "Le mot 'comparer' augmente la puissance definitoire plus que 'neige', qui est peu central dans la V0.",
+    "utility_gain_type": "matière"
+  },
+  {
+    "remove_word": "glace",
+    "remove_category": "nom",
+    "remove_definition_v0": "eau froid et dur",
+    "add_word": "décrire",
+    "add_category": "verbe",
+    "add_definition_proposal": "dire comment une chose est",
+    "replacement_rationale": "Le mot 'décrire' augmente la puissance definitoire plus que 'glace', qui est peu central dans la V0.",
+    "utility_gain_type": "matière"
+  },
+  {
+    "remove_word": "étoile",
+    "remove_category": "nom",
+    "remove_definition_v0": "petit lumière",
+    "add_word": "nommer",
+    "add_category": "verbe",
+    "add_definition_proposal": "donner un nom",
+    "replacement_rationale": "Le mot 'nommer' augmente la puissance definitoire plus que 'étoile', qui est peu central dans la V0.",
+    "utility_gain_type": "point"
+  },
+  {
+    "remove_word": "lune",
+    "remove_category": "nom",
+    "remove_definition_v0": "chose du ciel",
+    "add_word": "article",
+    "add_category": "nom",
+    "add_definition_proposal": "mot simple avant un nom",
+    "replacement_rationale": "Le mot 'article' augmente la puissance definitoire plus que 'lune', qui est peu central dans la V0.",
+    "utility_gain_type": "distance"
+  },
+  {
+    "remove_word": "midi",
+    "remove_category": "nom",
+    "remove_definition_v0": "centre de jour",
+    "add_word": "pronom",
+    "add_category": "nom",
+    "add_definition_proposal": "mot qui prendre la place de un nom",
+    "replacement_rationale": "Le mot 'pronom' augmente la puissance definitoire plus que 'midi', qui est peu central dans la V0.",
+    "utility_gain_type": "état"
+  },
+  {
+    "remove_word": "voisin",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "verbe",
+    "add_category": "nom",
+    "add_definition_proposal": "mot pour dire faire ou être",
+    "replacement_rationale": "Le mot 'verbe' augmente la puissance definitoire plus que 'voisin', qui est peu central dans la V0.",
+    "utility_gain_type": "relation"
+  },
+  {
+    "remove_word": "ami",
+    "remove_category": "nom",
+    "remove_definition_v0": "mot simple",
+    "add_word": "adjectif",
+    "add_category": "nom",
+    "add_definition_proposal": "mot pour dire comment une chose est",
+    "replacement_rationale": "Le mot 'adjectif' augmente la puissance definitoire plus que 'ami', qui est peu central dans la V0.",
+    "utility_gain_type": "sentiment"
+  }
+]

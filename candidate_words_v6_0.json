@@ -1,0 +1,98 @@
+{
+  "1_definition_et_explication": {
+    "domain_name": "Définition et Explication",
+    "candidate_words": [
+      "définition",
+      "définir",
+      "explication",
+      "exemple",
+      "notion"
+    ]
+  },
+  "2_cause_consequence_condition_exception": {
+    "domain_name": "Cause, Conséquence, Condition, Exception",
+    "candidate_words": [
+      "condition",
+      "conséquence",
+      "exception",
+      "sauf",
+      "sinon"
+    ]
+  },
+  "3_comparaison_difference_ressemblance_opposition": {
+    "domain_name": "Comparaison, Différence, Ressemblance, Opposition",
+    "candidate_words": [
+      "comparaison",
+      "opposition",
+      "contraste",
+      "semblable"
+    ]
+  },
+  "4_precision_approximation_exactitude": {
+    "domain_name": "Précision, Approximation, Exactitude",
+    "candidate_words": [
+      "précision",
+      "approximation",
+      "exactitude",
+      "mesure-fine"
+    ]
+  },
+  "5_hypothese_doute_certitude_probabilite": {
+    "domain_name": "Hypothèse, Doute, Certitude, Probabilité",
+    "candidate_words": [
+      "certitude",
+      "probabilité",
+      "incertitude",
+      "supposer"
+    ]
+  },
+  "6_methode_processus_etape_structure": {
+    "domain_name": "Méthode, Processus, Étape, Structure",
+    "candidate_words": [
+      "méthode",
+      "processus",
+      "étape",
+      "structure",
+      "procédure"
+    ]
+  },
+  "7_jugement_qualite_valeur_importance": {
+    "domain_name": "Jugement, Qualité, Valeur, Importance",
+    "candidate_words": [
+      "importance",
+      "priorité",
+      "critère",
+      "évaluer"
+    ]
+  },
+  "8_argumentation_accord_desaccord_preuve_exemple": {
+    "domain_name": "Argumentation, Accord, Désaccord, Preuve, Exemple",
+    "candidate_words": [
+      "argument",
+      "exemple",
+      "justifier",
+      "objection",
+      "argumentation"
+    ]
+  },
+  "9_temporalite_logique_duree_frequence_repetition_ordre": {
+    "domain_name": "Temporalité Logique",
+    "candidate_words": [
+      "durée",
+      "fréquence",
+      "répétition",
+      "intervalle",
+      "succession"
+    ]
+  },
+  "10_communication_avis_opinion_sens_signification": {
+    "domain_name": "Communication, Avis, Opinion, Sens, Signification",
+    "candidate_words": [
+      "avis",
+      "opinion",
+      "signification",
+      "interprétation",
+      "formulation"
+    ]
+  }
+}

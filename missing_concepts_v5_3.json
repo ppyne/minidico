@@ -1,0 +1,111 @@
+{
+  "1_definition_et_explication": {
+    "domain_name": "Définition et Explication",
+    "missing_words": [
+      "définition",
+      "définir",
+      "explication",
+      "terme",
+      "notion",
+      "concept",
+      "description"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de définition et explication."
+  },
+  "2_cause_consequence_condition_exception": {
+    "domain_name": "Cause, Conséquence, Condition, Exception",
+    "missing_words": [
+      "conséquence",
+      "condition",
+      "exception",
+      "sinon",
+      "sauf",
+      "cas-limite"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de cause, conséquence, condition, exception."
+  },
+  "3_comparaison_difference_ressemblance_opposition": {
+    "domain_name": "Comparaison, Différence, Ressemblance, Opposition",
+    "missing_words": [
+      "comparaison",
+      "opposition",
+      "analogie",
+      "contraste"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de comparaison, différence, ressemblance, opposition."
+  },
+  "4_precision_approximation_exactitude": {
+    "domain_name": "Précision, Approximation, Exactitude",
+    "missing_words": [
+      "précision",
+      "approximation",
+      "exactitude",
+      "marge"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de précision, approximation, exactitude."
+  },
+  "5_hypothese_doute_certitude_probabilite": {
+    "domain_name": "Hypothèse, Doute, Certitude, Probabilité",
+    "missing_words": [
+      "certitude",
+      "probabilité",
+      "incertitude",
+      "supposition"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de hypothèse, doute, certitude, probabilité."
+  },
+  "6_methode_processus_etape_structure": {
+    "domain_name": "Méthode, Processus, Étape, Structure",
+    "missing_words": [
+      "méthode",
+      "processus",
+      "étape",
+      "structure",
+      "séquence"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de méthode, processus, étape, structure."
+  },
+  "7_jugement_qualite_valeur_importance": {
+    "domain_name": "Jugement, Qualité, Valeur, Importance",
+    "missing_words": [
+      "importance",
+      "évaluation",
+      "critère",
+      "priorité"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de jugement, qualité, valeur, importance."
+  },
+  "8_argumentation_accord_desaccord_preuve_exemple": {
+    "domain_name": "Argumentation, Accord, Désaccord, Preuve, Exemple",
+    "missing_words": [
+      "argument",
+      "argumentation",
+      "exemple",
+      "objection",
+      "justification"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de argumentation, accord, désaccord, preuve, exemple."
+  },
+  "9_temporalite_logique_duree_frequence_repetition_ordre": {
+    "domain_name": "Temporalité Logique",
+    "missing_words": [
+      "durée",
+      "fréquence",
+      "répétition",
+      "intervalle",
+      "succession"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de temporalité logique."
+  },
+  "10_communication_avis_opinion_sens_signification": {
+    "domain_name": "Communication, Avis, Opinion, Sens, Signification",
+    "missing_words": [
+      "avis",
+      "opinion",
+      "signification",
+      "interprétation",
+      "formulation"
+    ],
+    "why_missing": "Le domaine reste paraphrasable, mais les mots méta-conceptuels manquent pour nommer directement les relations de communication, avis, opinion, sens, signification."
+  }
+}

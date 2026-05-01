@@ -1,0 +1,332 @@
+# Tests Conceptuels V6.0
+
+## 1. Définition et Explication
+
+- [naturel] Cette définition donne le sens d’un mot.
+- [naturel] Définir un terme aide une analyse.
+- [naturel] Une explication claire aide une définition.
+- [naturel] Cette notion donne un contexte à une idée.
+- [naturel] Ce concept est plus abstrait que concret.
+- [naturel] Ce terme a une signification précise.
+- [naturel] Cette description montre une chose concrète.
+- [naturel] Expliquer une idée demande une bonne formulation.
+- [naturel] Une définition peut être simple et logique.
+- [naturel] Cette explication donne une relation entre cause et effet.
+- [naturel] Une notion générale peut devenir un concept précis.
+- [naturel] Définir un mot demande une catégorie et un contexte.
+- [naturel] Cette description reste concrète, mais le concept reste abstrait.
+- [naturel] Une signification peut changer avec le contexte.
+- [naturel] Cette formulation donne une nuance utile.
+- [lourd] Cette définition et cette explication sont semblable.
+- [naturel] Un terme sans définition donne une incertitude.
+- [naturel] Cette notion aide à définir une catégorie.
+- [naturel] Décrire une chose concrète est plus simple que définir un concept.
+- [naturel] Cette explication justifie la définition.
+- [naturel] Une définition logique aide une communication précise.
+- [naturel] Le sens d’un terme peut demander une interprétation.
+- [naturel] Cette description donne un exemple concret.
+- [naturel] Une notion abstraite peut avoir une définition exacte.
+- [naturel] Cette formulation explique une relation logique.
+- [acceptable] Définir et expliquer sont deux action proche, mais pas la même.
+- [naturel] Une bonne définition donne une limite et une catégorie.
+- [naturel] Cette signification reste générale sans bon contexte.
+- [naturel] Une explication sans exemple reste plus abstraite.
+- [naturel] Cette analyse montre qu’une définition peut avoir une nuance.
+
+## 2. Condition, Conséquence, Exception
+
+- [naturel] Cette condition doit être vraie.
+- [naturel] Si cette condition est vraie, cette conséquence vient.
+- [naturel] Une cause peut produire une conséquence.
+- [naturel] Cette exception sort d’une règle générale.
+- [naturel] Sauf cette exception, la règle reste la même.
+- [naturel] Sinon, une autre conséquence vient.
+- [naturel] Une condition logique peut changer un choix.
+- [naturel] Cette conséquence montre l’effet d’une action.
+- [acceptable] Une exception change une règle, mais pas tout le système.
+- [naturel] Cette condition donne une limite claire.
+- [naturel] Si la cause change, la conséquence change aussi.
+- [naturel] Une conséquence peut venir après une condition et une action.
+- [naturel] Sauf une objection forte, accord reste possible.
+- [naturel] Sinon, le doute et incertitude restent.
+- [naturel] Une règle sans exception reste plus simple.
+- [naturel] Cette condition est logique, mais sa conséquence reste abstraite.
+- [naturel] Une exception concrète aide une explication générale.
+- [naturel] Cette conséquence donne une nuance à l’analyse.
+- [naturel] Une condition forte donne une limite forte.
+- [naturel] Sauf erreur, cette conséquence est bonne.
+- [naturel] Sinon, une autre méthode est nécessaire.
+- [naturel] Cette exception montre une différence importante.
+- [naturel] Une condition peut venir avant une justification.
+- [naturel] Une conséquence sans cause claire donne un doute.
+- [lourd] Cette exception est pas grande, mais elle change le jugement.
+- [acceptable] Si une condition manque, le processus reste pas complet.
+- [naturel] Une bonne analyse montre condition, cause et conséquence.
+- [naturel] Sauf une limite précise, cette règle reste utile.
+- [naturel] Sinon, la même objection revient.
+- [naturel] Cette condition et cette conséquence donnent une structure logique.
+
+## 3. Comparaison et Opposition
+
+- [naturel] Cette comparaison montre une différence.
+- [naturel] Cette opposition est forte.
+- [naturel] Ce contraste donne une nuance importante.
+- [naturel] Deux idée semblable peuvent rester autre.
+- [naturel] Comparer aide une analyse.
+- [naturel] Une comparaison logique demande un critère.
+- [naturel] Cette opposition reste abstraite.
+- [naturel] Le contraste entre concret et abstrait est utile.
+- [naturel] Deux catégorie semblable peuvent avoir une limite autre.
+- [naturel] Cette comparaison donne une précision plus grande.
+- [naturel] Une opposition sans contexte reste faible.
+- [naturel] Cette ressemblance est forte, mais la différence reste vraie.
+- [naturel] Comparer deux argument aide le jugement.
+- [naturel] Un contraste précis donne une bonne explication.
+- [naturel] Cette comparaison donne un exemple simple.
+- [naturel] Une opposition peut justifier une priorité.
+- [naturel] Deux méthode semblable peuvent avoir une conséquence autre.
+- [naturel] Cette différence est petite, mais importante.
+- [naturel] Cette comparaison reste logique.
+- [naturel] Le contraste donne une formulation plus claire.
+- [naturel] Une opposition entre deux opinion donne un désaccord.
+- [naturel] Cette ressemblance aide une interprétation.
+- [naturel] Comparer concret et abstrait demande une nuance.
+- [lourd] Cette opposition et cette comparaison sont proche.
+- [naturel] Un bon critère rend une comparaison plus exacte.
+- [naturel] Cette différence donne une marge utile pour l’analyse.
+- [naturel] Cette catégorie est semblable à une autre catégorie.
+- [naturel] Un contraste fort peut aider une communication.
+- [naturel] Comparer deux conséquence aide à choisir.
+- [naturel] Cette opposition montre une relation logique.
+
+## 4. Précision et Approximation
+
+- [naturel] Cette précision donne une définition plus exacte.
+- [naturel] Cette approximation reste utile.
+- [naturel] Cette exactitude donne moins de doute.
+- [naturel] Cette marge reste petite.
+- [naturel] Une approximation sans contexte reste faible.
+- [naturel] Une précision grande aide une analyse.
+- [naturel] Cette exactitude vient d’un bon critère.
+- [naturel] Une marge trop grande change la valeur du résultat.
+- [naturel] Cette formulation est précise.
+- [naturel] Cette description est approximatif.
+- [naturel] Une précision logique aide une comparaison.
+- [naturel] Cette approximation donne un sens encore utile.
+- [naturel] Cette exactitude demande une mesure et une règle.
+- [naturel] Une petite marge peut rester utile.
+- [naturel] Cette précision est plus importante que la vitesse.
+- [lourd] Cette approximation est pas exacte, mais elle reste bonne.
+- [naturel] Une marge aide à penser une limite.
+- [acceptable] Cette exactitude justifie le jugement.
+- [acceptable] Une approximation concrète peut aider une méthode.
+- [naturel] Cette précision donne une nuance utile.
+- [acceptable] Une marge entre deux valeur reste possible.
+- [acceptable] Cette exactitude donne une certitude plus forte.
+- [acceptable] Une précision faible donne une incertitude.
+- [acceptable] Cette approximation demande une explication.
+- [acceptable] Cette description concrète donne une précision plus grande.
+- [acceptable] Une grande exactitude aide un argument.
+- [acceptable] Cette marge change une évaluation simple.
+- [acceptable] Une approximation peut rester logique dans un contexte général.
+- [acceptable] Cette précision et cette exactitude sont proche, mais pas la même.
+- [acceptable] Une bonne analyse montre approximation, marge et exactitude.
+
+## 5. Certitude et Probabilité
+
+- [naturel] Cette certitude donne moins de doute.
+- [naturel] Cette probabilité reste grande.
+- [acceptable] Cette incertitude donne une objection.
+- [naturel] Supposer une cause sans preuve est possible.
+- [acceptable] Cette supposition vient avant une justification.
+- [acceptable] Une hypothèse et une supposition sont proche.
+- [naturel] La certitude demande une preuve.
+- [acceptable] La probabilité peut changer avec un exemple nouveau.
+- [acceptable] Une incertitude forte change le jugement.
+- [acceptable] Supposer une conséquence aide l’analyse.
+- [acceptable] Cette supposition est logique, mais pas certaine.
+- [naturel] Une probabilité faible laisse le doute.
+- [acceptable] Cette certitude est abstraite sans contexte.
+- [acceptable] Une incertitude peut rester utile dans une analyse.
+- [acceptable] Supposer une relation avant preuve est fréquent.
+- [lourd] Cette probabilité et cette certitude sont pas la même.
+- [acceptable] Une certitude trop rapide peut donner une erreur.
+- [acceptable] Cette supposition donne une étape de analyse.
+- [acceptable] Une petite incertitude peut rester utile.
+- [acceptable] La probabilité d’une conséquence change avec la condition.
+- [acceptable] Cette certitude justifie une priorité.
+- [acceptable] Une probabilité sans critère reste faible.
+- [acceptable] Supposer et expliquer sont deux action autre.
+- [acceptable] Cette incertitude montre une limite de la méthode.
+- [naturel] Une bonne preuve donne plus de certitude.
+- [acceptable] Cette supposition donne une hypothèse de travail.
+- [acceptable] La probabilité aide à évaluer un risque.
+- [acceptable] Cette certitude reste concrète dans un exemple simple.
+- [acceptable] Une incertitude grande demande une analyse plus longue.
+- [acceptable] Cette probabilité donne une nuance entre possible et certain.
+
+## 6. Méthode, Processus, Étape, Structure
+
+- [naturel] Cette méthode donne un ordre clair.
+- [acceptable] Ce processus a trois étape.
+- [naturel] Cette structure aide l’analyse.
+- [naturel] Cette séquence reste logique.
+- [acceptable] Une organisation claire aide une méthode.
+- [acceptable] Un système donne une relation entre des partie.
+- [naturel] Chaque étape change le résultat.
+- [acceptable] Cette structure reste abstraite sans exemple.
+- [acceptable] Le processus vient avec une condition.
+- [acceptable] La méthode vient avec une évaluation.
+- [acceptable] Cette séquence donne une succession simple.
+- [acceptable] Une organisation sans règle reste faible.
+- [acceptable] Un système logique aide la communication.
+- [naturel] Cette étape vient après une autre étape.
+- [acceptable] La structure du texte aide la signification.
+- [lourd] Ce processus et cette méthode sont proche.
+- [acceptable] Une organisation concrète aide un travail concret.
+- [acceptable] Un système abstrait peut rester utile.
+- [acceptable] Cette séquence montre un ordre de partie.
+- [lourd] Une méthode avec trop étape est pas simple.
+- [acceptable] Ce processus donne une limite à chaque étape.
+- [acceptable] Une structure forte donne une bonne formulation.
+- [acceptable] Cette organisation justifie la priorité des étape.
+- [acceptable] Un système peut avoir une exception.
+- [acceptable] Cette méthode aide à comparer deux résultat.
+- [acceptable] Le processus donne une durée et une fréquence.
+- [acceptable] Cette structure logique aide une définition.
+- [acceptable] Une étape sans contexte reste peu utile.
+- [acceptable] Cette séquence et cette succession sont proche.
+- [acceptable] Une analyse de méthode demande structure, étape et organisation.
+
+## 7. Évaluation, Critère, Priorité
+
+- [naturel] Cette importance est grande.
+- [naturel] Cette priorité vient avant une autre.
+- [naturel] Ce critère aide à choisir.
+- [acceptable] Évaluer une idée demande un critère.
+- [naturel] Cette évaluation reste logique.
+- [acceptable] Une priorité claire aide organisation.
+- [acceptable] Cette importance change avec le contexte.
+- [acceptable] Un critère sans justification reste faible.
+- [acceptable] Évaluer une qualité demande une comparaison.
+- [acceptable] Cette évaluation donne un jugement utile.
+- [acceptable] Une priorité peut changer après une objection.
+- [acceptable] Cette importance donne une valeur plus grande.
+- [acceptable] Un critère précis aide une exactitude plus forte.
+- [acceptable] Cette évaluation reste abstraite sans exemple.
+- [acceptable] Évaluer un argument aide une décision.
+- [lourd] Cette priorité est pas la même que une importance.
+- [acceptable] Un critère logique aide à comparer deux méthode.
+- [acceptable] Cette évaluation donne une nuance utile.
+- [acceptable] Une importance faible donne une priorité faible.
+- [acceptable] Cette priorité vient après une condition.
+- [acceptable] Évaluer un résultat peut demander une marge.
+- [acceptable] Cette importance concrète change le choix simple.
+- [acceptable] Une évaluation bonne demande une preuve.
+- [acceptable] Cette priorité donne un ordre de travail.
+- [acceptable] Un critère général aide une grande catégorie.
+- [acceptable] Cette évaluation aide la communication du jugement.
+- [acceptable] Une priorité sans contexte reste peu logique.
+- [acceptable] Cette importance donne un effet sur la décision.
+- [acceptable] Évaluer une formulation demande sens et précision.
+- [naturel] Cette évaluation simple reste claire et utile.
+
+## 8. Argumentation, Exemple, Objection
+
+- [acceptable] Ce argument donne une raison claire.
+- [acceptable] Cette argumentation donne un ordre logique.
+- [acceptable] Ce exemple montre une idée.
+- [naturel] Justifier un choix demande une preuve.
+- [naturel] Cette justification reste forte.
+- [naturel] Cette objection change la discussion.
+- [acceptable] Un argument sans exemple reste plus abstrait.
+- [acceptable] Une argumentation logique aide un accord.
+- [acceptable] Ce exemple concret aide la communication.
+- [acceptable] Justifier une définition demande une explication.
+- [acceptable] Cette objection donne une nuance importante.
+- [acceptable] Un argument peut être bon sans être complet.
+- [naturel] Une justification faible laisse le doute.
+- [acceptable] Ce exemple donne une comparaison simple.
+- [acceptable] Cette objection vient contre un choix.
+- [lourd] Cette argumentation est pas simple, mais elle reste logique.
+- [acceptable] Justifier une priorité demande un critère.
+- [acceptable] Un argument et une preuve sont proche, mais pas la même chose.
+- [acceptable] Cette objection demande une autre justification.
+- [acceptable] Une argumentation sans ordre reste faible.
+- [acceptable] Ce exemple aide une interprétation.
+- [acceptable] Justifier un jugement aide une évaluation.
+- [acceptable] Cette objection change la conséquence simple.
+- [acceptable] Un argument peut venir avant un exemple.
+- [acceptable] Cette justification donne une certitude plus forte.
+- [acceptable] Une objection logique aide une analyse.
+- [acceptable] Ce exemple concret limite le côté abstrait.
+- [acceptable] Une argumentation grande donne plus qu’un avis simple.
+- [acceptable] Justifier une méthode demande une comparaison.
+- [acceptable] Cette objection reste utile même sans accord.
+
+## 9. Durée, Fréquence, Répétition
+
+- [naturel] Cette durée est longue.
+- [naturel] Cette fréquence reste faible.
+- [naturel] Cette répétition revient souvent.
+- [acceptable] Ce intervalle reste court.
+- [acceptable] Cette succession donne un ordre de temps.
+- [acceptable] Une durée grande change le processus.
+- [acceptable] La fréquence d’une action aide l’analyse.
+- [acceptable] Cette répétition donne une habitude.
+- [acceptable] Un intervalle petit donne une répétition rapide.
+- [naturel] Cette succession reste logique.
+- [acceptable] La durée d’une étape change la méthode.
+- [acceptable] Une fréquence forte donne plus de répétition.
+- [acceptable] Cette répétition peut aider une mémoire.
+- [acceptable] Ce intervalle entre deux étape reste simple.
+- [acceptable] Cette succession vient après une condition.
+- [lourd] Cette durée est pas petite, mais reste utile.
+- [acceptable] Une fréquence concrète aide une évaluation.
+- [acceptable] Cette répétition sans nuance fatigue la communication.
+- [acceptable] Un intervalle long peut donner un doute.
+- [acceptable] Cette succession donne une structure de temps.
+- [acceptable] La durée d’un processus aide le jugement simple.
+- [acceptable] Une fréquence faible peut rester importante.
+- [acceptable] Cette répétition donne un effet sur le sens.
+- [acceptable] Un intervalle précis donne une analyse plus précise.
+- [acceptable] Cette succession de cause et conséquence est logique.
+- [acceptable] La durée, la fréquence et la répétition donnent une nuance du temps.
+- [acceptable] Cette fréquence explique une habitude générale.
+- [acceptable] Une répétition forte change la formulation d’un message.
+- [acceptable] Ce intervalle donne une limite entre deux action.
+- [acceptable] Cette succession grande aide la description du processus.
+
+## 10. Avis, Opinion, Interprétation
+
+- [acceptable] Ce avis reste simple.
+- [naturel] Cette opinion vient d’une idée.
+- [naturel] Cette signification change avec le contexte.
+- [naturel] Cette interprétation donne une nuance.
+- [naturel] Cette formulation reste claire.
+- [naturel] Cette communication donne un message précis.
+- [acceptable] Un avis sans argument reste faible.
+- [acceptable] Une opinion peut rester abstraite.
+- [acceptable] La signification d’un terme change avec un autre contexte.
+- [acceptable] Cette interprétation aide une explication.
+- [acceptable] Une formulation logique aide une définition.
+- [acceptable] La communication d’une idée demande une bonne formulation.
+- [acceptable] Ce avis et cette opinion sont proche.
+- [acceptable] Une interprétation sans contexte reste faible.
+- [acceptable] Cette signification donne une relation entre mot et idée.
+- [lourd] Cette formulation est pas la même que une définition.
+- [acceptable] Une communication concrète aide un avis clair.
+- [acceptable] Cette opinion demande une justification.
+- [acceptable] Une interprétation logique donne moins de incertitude.
+- [acceptable] Cette signification reste générale sans exemple.
+- [acceptable] Une formulation précise change le jugement.
+- [acceptable] Cette communication reste bonne même avec nuance.
+- [acceptable] Un avis simple peut devenir une opinion forte.
+- [acceptable] Cette interprétation donne une conséquence sur le sens.
+- [acceptable] Une signification abstraite demande une explication.
+- [acceptable] Cette formulation donne plus de précision.
+- [acceptable] Une communication logique aide accord.
+- [acceptable] Ce avis peut changer après une objection.
+- [acceptable] Cette opinion sans preuve reste probable, pas certaine.
+- [acceptable] Une interprétation et une formulation donnent une analyse du sens.
+

@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "D1",
+    "group": "vie quotidienne",
+    "constrained": "j’ai du pain et de l’eau.",
+    "natural": "j’ai du pain et de l’eau.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Phrase naturelle possible avec les formes déjà présentes.",
+    "normalized_tokens": [
+      "avoir",
+      "du",
+      "pain",
+      "et",
+      "de",
+      "eau"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D2",
+    "group": "vie quotidienne",
+    "constrained": "je vouloir dormir maintenant.",
+    "natural": "je veux dormir maintenant.",
+    "awk": "lourd",
+    "missing_forms": [
+      "veux -> vouloir"
+    ],
+    "missing_words": [],
+    "note": "Le verbe de volonté manque au présent simple.",
+    "normalized_tokens": [
+      "je",
+      "vouloir",
+      "dormir",
+      "maintenant"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D3",
+    "group": "vie quotidienne",
+    "constrained": "elle a un enfant malade.",
+    "natural": "elle a un enfant malade.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Phrase simple et naturelle.",
+    "normalized_tokens": [
+      "elle",
+      "avoir",
+      "un",
+      "enfant",
+      "malade"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D4",
+    "group": "vie quotidienne",
+    "constrained": "nous sommes dans la maison aujourd’hui.",
+    "natural": "nous sommes dans la maison aujourd’hui.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Naturel mais un peu rigide.",
+    "normalized_tokens": [
+      "nous",
+      "être",
+      "dans",
+      "la",
+      "maison",
+      "aujourd’hui"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D5",
+    "group": "vie quotidienne",
+    "constrained": "tu peux ouvrir la fenêtre ?",
+    "natural": "tu peux ouvrir la fenêtre ?",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Question simple bien couverte.",
+    "normalized_tokens": [
+      "tu",
+      "pouvoir",
+      "ouvrir",
+      "la",
+      "fenêtre"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D6",
+    "group": "vie quotidienne",
+    "constrained": "je laver le visage avec eau.",
+    "natural": "je lave mon visage avec de l’eau.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "lave -> laver"
+    ],
+    "missing_words": [],
+    "note": "Il manque la conjugaison ordinaire de nombreux verbes concrets.",
+    "normalized_tokens": [
+      "je",
+      "laver",
+      "le",
+      "visage",
+      "avec",
+      "eau"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D7",
+    "group": "vie quotidienne",
+    "constrained": "il fait un travail aujourd’hui.",
+    "natural": "il fait un travail aujourd’hui.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Possible mais peu idiomatique.",
+    "normalized_tokens": [
+      "il",
+      "faire",
+      "un",
+      "travail",
+      "aujourd’hui"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D8",
+    "group": "vie quotidienne",
+    "constrained": "nous vouloir acheter une table.",
+    "natural": "nous voulons acheter une table.",
+    "awk": "lourd",
+    "missing_forms": [
+      "voulons -> vouloir"
+    ],
+    "missing_words": [],
+    "note": "Le futur proche ou la volonté restent coûteux sans formes finies.",
+    "normalized_tokens": [
+      "nous",
+      "vouloir",
+      "acheter",
+      "une",
+      "table"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D9",
+    "group": "vie quotidienne",
+    "constrained": "vous avez un téléphone ?",
+    "natural": "vous avez un téléphone ?",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Forme très bonne pour le test.",
+    "normalized_tokens": [
+      "vous",
+      "avoir",
+      "un",
+      "téléphone"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "D10",
+    "group": "vie quotidienne",
+    "constrained": "elles parlent avec une femme.",
+    "natural": "elles parlent avec une femme.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Le paradigme de parler aide beaucoup l’expression.",
+    "normalized_tokens": [
+      "elles",
+      "parler",
+      "avec",
+      "une",
+      "femme"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L1",
+    "group": "déplacement et lieu",
+    "constrained": "je vais à la ville demain.",
+    "natural": "je vais à la ville demain.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Bonne couverture pour aller.",
+    "normalized_tokens": [
+      "je",
+      "aller",
+      "à",
+      "la",
+      "ville",
+      "demain"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L2",
+    "group": "déplacement et lieu",
+    "constrained": "tu vas vers la maison par la route.",
+    "natural": "tu vas vers la maison par la route.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "La direction de base est exprimable.",
+    "normalized_tokens": [
+      "tu",
+      "aller",
+      "vers",
+      "la",
+      "maison",
+      "par",
+      "la",
+      "route"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L3",
+    "group": "déplacement et lieu",
+    "constrained": "il vient de la ville.",
+    "natural": "il vient de la ville.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Bonne couverture pour venir.",
+    "normalized_tokens": [
+      "il",
+      "venir",
+      "de",
+      "la",
+      "ville"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L4",
+    "group": "déplacement et lieu",
+    "constrained": "nous monter sur la voiture.",
+    "natural": "nous montons dans la voiture.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "montons -> monter"
+    ],
+    "missing_words": [],
+    "note": "Le mouvement quotidien est possible mais très peu naturel sans conjugaison.",
+    "normalized_tokens": [
+      "nous",
+      "monter",
+      "sur",
+      "la",
+      "voiture"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L5",
+    "group": "déplacement et lieu",
+    "constrained": "vous descendre vers la route.",
+    "natural": "vous descendez vers la route.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "descendez -> descendre"
+    ],
+    "missing_words": [],
+    "note": "Même limite pour descendre.",
+    "normalized_tokens": [
+      "vous",
+      "descendre",
+      "vers",
+      "la",
+      "route"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L6",
+    "group": "déplacement et lieu",
+    "constrained": "elles entrer dans la maison et puis sortir.",
+    "natural": "elles entrent dans la maison puis sortent.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "entrent -> entrer",
+      "sortent -> sortir"
+    ],
+    "missing_words": [],
+    "note": "Les verbes de déplacement manquent de formes finies.",
+    "normalized_tokens": [
+      "elles",
+      "entrer",
+      "dans",
+      "la",
+      "maison",
+      "et",
+      "puis",
+      "sortir"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L7",
+    "group": "déplacement et lieu",
+    "constrained": "je chercher une place près de la porte.",
+    "natural": "je cherche une place près de la porte.",
+    "awk": "lourd",
+    "missing_forms": [
+      "cherche -> chercher"
+    ],
+    "missing_words": [],
+    "note": "La recherche concrète est exprimable mais lourde.",
+    "normalized_tokens": [
+      "je",
+      "chercher",
+      "une",
+      "place",
+      "près",
+      "de",
+      "la",
+      "porte"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L8",
+    "group": "déplacement et lieu",
+    "constrained": "il est ici mais son téléphone est ailleurs.",
+    "natural": "il est ici mais son téléphone est ailleurs.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Bonne phrase contrastive de lieu.",
+    "normalized_tokens": [
+      "il",
+      "être",
+      "ici",
+      "mais",
+      "son",
+      "téléphone",
+      "être",
+      "ailleurs"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L9",
+    "group": "déplacement et lieu",
+    "constrained": "nous aller de la ville au pays par train.",
+    "natural": "nous allons de la ville au pays en train.",
+    "awk": "lourd",
+    "missing_forms": [
+      "allons -> aller"
+    ],
+    "missing_words": [],
+    "note": "Le déplacement prolongé reste possible mais peu idiomatique.",
+    "normalized_tokens": [
+      "nous",
+      "aller",
+      "de",
+      "la",
+      "ville",
+      "au",
+      "pays",
+      "par",
+      "train"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "L10",
+    "group": "déplacement et lieu",
+    "constrained": "vous pouvez venir chez nous maintenant ?",
+    "natural": "vous pouvez venir chez nous maintenant ?",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Bonne interrogation de déplacement.",
+    "normalized_tokens": [
+      "vous",
+      "pouvoir",
+      "venir",
+      "chez",
+      "nous",
+      "maintenant"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P1",
+    "group": "pensée parole question réponse",
+    "constrained": "je penser que ce mot est difficile.",
+    "natural": "je pense que ce mot est difficile.",
+    "awk": "lourd",
+    "missing_forms": [
+      "pense -> penser"
+    ],
+    "missing_words": [],
+    "note": "La pensée reste coûteuse faute de conjugaison.",
+    "normalized_tokens": [
+      "je",
+      "penser",
+      "que",
+      "ce",
+      "mot",
+      "être",
+      "difficile"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P2",
+    "group": "pensée parole question réponse",
+    "constrained": "tu parles et je répondre.",
+    "natural": "tu parles et je réponds.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "réponds -> répondre"
+    ],
+    "missing_words": [],
+    "note": "Le dialogue est asymétrique selon les paradigmes disponibles.",
+    "normalized_tokens": [
+      "tu",
+      "parler",
+      "et",
+      "je",
+      "répondre"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P3",
+    "group": "pensée parole question réponse",
+    "constrained": "il demander pourquoi nous sommes ici.",
+    "natural": "il demande pourquoi nous sommes ici.",
+    "awk": "lourd",
+    "missing_forms": [
+      "demande -> demander"
+    ],
+    "missing_words": [],
+    "note": "Question indirecte possible mais lourde.",
+    "normalized_tokens": [
+      "il",
+      "demander",
+      "pourquoi",
+      "nous",
+      "être",
+      "ici"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P4",
+    "group": "pensée parole question réponse",
+    "constrained": "nous lire une page et vous écrire une réponse.",
+    "natural": "nous lisons une page et vous écrivez une réponse.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "lisons -> lire",
+      "écrivez -> écrire"
+    ],
+    "missing_words": [],
+    "note": "Lecture et écriture quotidiennes manquent de formes finies.",
+    "normalized_tokens": [
+      "nous",
+      "lire",
+      "une",
+      "page",
+      "et",
+      "vous",
+      "écrire",
+      "une",
+      "réponse"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P5",
+    "group": "pensée parole question réponse",
+    "constrained": "elle dire que la réponse est possible.",
+    "natural": "elle dit que la réponse est possible.",
+    "awk": "lourd",
+    "missing_forms": [
+      "dit -> dire"
+    ],
+    "missing_words": [],
+    "note": "Dire est central mais mal outillé pour l’usage courant.",
+    "normalized_tokens": [
+      "elle",
+      "dire",
+      "que",
+      "la",
+      "réponse",
+      "être",
+      "possible"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P6",
+    "group": "pensée parole question réponse",
+    "constrained": "je peux expliquer le problème.",
+    "natural": "je peux expliquer le problème.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Le modal pouvoir aide beaucoup.",
+    "normalized_tokens": [
+      "je",
+      "pouvoir",
+      "expliquer",
+      "le",
+      "problème"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P7",
+    "group": "pensée parole question réponse",
+    "constrained": "vous savoir la règle ?",
+    "natural": "vous savez la règle ?",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "savez -> savoir"
+    ],
+    "missing_words": [],
+    "note": "Savoir au présent manque cruellement.",
+    "normalized_tokens": [
+      "vous",
+      "savoir",
+      "la",
+      "règle"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P8",
+    "group": "pensée parole question réponse",
+    "constrained": "ils croire que ce mot est vrai.",
+    "natural": "ils croient que ce mot est vrai.",
+    "awk": "lourd",
+    "missing_forms": [
+      "croient -> croire"
+    ],
+    "missing_words": [],
+    "note": "Croire existe mais reste peu maniable.",
+    "normalized_tokens": [
+      "ils",
+      "croire",
+      "que",
+      "ce",
+      "mot",
+      "être",
+      "vrai"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P9",
+    "group": "pensée parole question réponse",
+    "constrained": "je ne comprendre pas ce nom.",
+    "natural": "je ne comprends pas ce nom.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "comprends -> comprendre"
+    ],
+    "missing_words": [],
+    "note": "Négation possible, mais le verbe reste à l’infinitif.",
+    "normalized_tokens": [
+      "je",
+      "ne",
+      "comprendre",
+      "pas",
+      "ce",
+      "nom"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "P10",
+    "group": "pensée parole question réponse",
+    "constrained": "nous parlons de la même question encore.",
+    "natural": "nous parlons encore de la même question.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Le verbe parler est un point fort du système.",
+    "normalized_tokens": [
+      "nous",
+      "parler",
+      "de",
+      "la",
+      "même",
+      "question",
+      "encore"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C1",
+    "group": "cause effet problème solution",
+    "constrained": "ce problème a une cause.",
+    "natural": "ce problème a une cause.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Très bonne phrase test.",
+    "normalized_tokens": [
+      "ce",
+      "problème",
+      "avoir",
+      "une",
+      "cause"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C2",
+    "group": "cause effet problème solution",
+    "constrained": "cette action fait un mauvais effet.",
+    "natural": "cette action fait un mauvais effet.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Bonne compacité explicative.",
+    "normalized_tokens": [
+      "cette",
+      "action",
+      "faire",
+      "un",
+      "mauvais",
+      "effet"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C3",
+    "group": "cause effet problème solution",
+    "constrained": "si une porte est fermé, alors je peux ouvrir une fenêtre.",
+    "natural": "si une porte est fermée, alors je peux ouvrir une fenêtre.",
+    "awk": "acceptable",
+    "missing_forms": [
+      "fermée -> fermé"
+    ],
+    "missing_words": [],
+    "note": "La fermeture lexicale force parfois des accords pauvres.",
+    "normalized_tokens": [
+      "si",
+      "une",
+      "porte",
+      "être",
+      "fermé",
+      "alors",
+      "je",
+      "pouvoir",
+      "ouvrir",
+      "une",
+      "fenêtre"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C4",
+    "group": "cause effet problème solution",
+    "constrained": "parce que la route est long, nous rester ici.",
+    "natural": "parce que la route est longue, nous restons ici.",
+    "awk": "très artificiel",
+    "missing_forms": [
+      "longue -> long",
+      "restons -> rester"
+    ],
+    "missing_words": [],
+    "note": "Accord et conjugaison rendent la phrase lourde.",
+    "normalized_tokens": [
+      "parce",
+      "que",
+      "la",
+      "route",
+      "être",
+      "long",
+      "nous",
+      "rester",
+      "ici"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C5",
+    "group": "cause effet problème solution",
+    "constrained": "il perdre son argent, donc il a un problème.",
+    "natural": "il perd son argent, donc il a un problème.",
+    "awk": "lourd",
+    "missing_forms": [
+      "perd -> perdre"
+    ],
+    "missing_words": [],
+    "note": "La structure causale marche, le verbe concret moins.",
+    "normalized_tokens": [
+      "il",
+      "perdre",
+      "son",
+      "argent",
+      "donc",
+      "il",
+      "avoir",
+      "un",
+      "problème"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C6",
+    "group": "cause effet problème solution",
+    "constrained": "nous chercher une solution pour ce problème.",
+    "natural": "nous cherchons une solution pour ce problème.",
+    "awk": "lourd",
+    "missing_forms": [
+      "cherchons -> chercher"
+    ],
+    "missing_words": [],
+    "note": "Le noyau problème/solution est bon, la conjugaison manque.",
+    "normalized_tokens": [
+      "nous",
+      "chercher",
+      "une",
+      "solution",
+      "pour",
+      "ce",
+      "problème"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C7",
+    "group": "cause effet problème solution",
+    "constrained": "vous pouvez aider une personne malade.",
+    "natural": "vous pouvez aider une personne malade.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Phrase naturelle possible.",
+    "normalized_tokens": [
+      "vous",
+      "pouvoir",
+      "aider",
+      "une",
+      "personne",
+      "malade"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C8",
+    "group": "cause effet problème solution",
+    "constrained": "si je tombe, tu peux me aider ?",
+    "natural": "si je tombe, tu peux m’aider ?",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "La phrase passe, mais la syntaxe des clitiques reste lourde.",
+    "normalized_tokens": [
+      "si",
+      "je",
+      "tomber",
+      "tu",
+      "pouvoir",
+      "me",
+      "aider"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C9",
+    "group": "cause effet problème solution",
+    "constrained": "une erreur peut faire un autre problème.",
+    "natural": "une erreur peut faire un autre problème.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Correct mais peu idiomatique.",
+    "normalized_tokens": [
+      "une",
+      "erreur",
+      "pouvoir",
+      "faire",
+      "un",
+      "autre",
+      "problème"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "C10",
+    "group": "cause effet problème solution",
+    "constrained": "un bon choix peut changer la fin de une histoire.",
+    "natural": "un bon choix peut changer la fin d’une histoire.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "La contraction naturelle existe, mais la phrase reste possible.",
+    "normalized_tokens": [
+      "un",
+      "bon",
+      "choix",
+      "pouvoir",
+      "changer",
+      "la",
+      "fin",
+      "de",
+      "une",
+      "histoire"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A1",
+    "group": "abstraites simples",
+    "constrained": "ce mot est vrai pour cette histoire.",
+    "natural": "ce mot est vrai pour cette histoire.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Phrase valide mais le domaine de vrai reste abstrait.",
+    "normalized_tokens": [
+      "ce",
+      "mot",
+      "être",
+      "vrai",
+      "pour",
+      "cette",
+      "histoire"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A2",
+    "group": "abstraites simples",
+    "constrained": "ce mot est faux pour cette réponse.",
+    "natural": "ce mot est faux pour cette réponse.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Même limite pour faux.",
+    "normalized_tokens": [
+      "ce",
+      "mot",
+      "être",
+      "faux",
+      "pour",
+      "cette",
+      "réponse"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A3",
+    "group": "abstraites simples",
+    "constrained": "ce choix est bon pour nous.",
+    "natural": "ce choix est bon pour nous.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Bonne phrase courte.",
+    "normalized_tokens": [
+      "ce",
+      "choix",
+      "être",
+      "bon",
+      "pour",
+      "nous"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A4",
+    "group": "abstraites simples",
+    "constrained": "cette idée a un mauvais effet pour le groupe.",
+    "natural": "cette idée a un mauvais effet pour le groupe.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Le lexique causal compense bien.",
+    "normalized_tokens": [
+      "cette",
+      "idée",
+      "avoir",
+      "un",
+      "mauvais",
+      "effet",
+      "pour",
+      "le",
+      "groupe"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A5",
+    "group": "abstraites simples",
+    "constrained": "ce travail est possible aujourd’hui.",
+    "natural": "ce travail est possible aujourd’hui.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Très bon test de modalité.",
+    "normalized_tokens": [
+      "ce",
+      "travail",
+      "être",
+      "possible",
+      "aujourd’hui"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A6",
+    "group": "abstraites simples",
+    "constrained": "ce travail est impossible demain.",
+    "natural": "ce travail est impossible demain.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Très bon test de modalité négative.",
+    "normalized_tokens": [
+      "ce",
+      "travail",
+      "être",
+      "impossible",
+      "demain"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A7",
+    "group": "abstraites simples",
+    "constrained": "cette règle a une valeur pour le groupe.",
+    "natural": "cette règle a une valeur pour le groupe.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Valeur est disponible, mais la phrase reste scolaire.",
+    "normalized_tokens": [
+      "cette",
+      "règle",
+      "avoir",
+      "une",
+      "valeur",
+      "pour",
+      "le",
+      "groupe"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A8",
+    "group": "abstraites simples",
+    "constrained": "un choix peut être bon ou mauvais.",
+    "natural": "un choix peut être bon ou mauvais.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Test clair des oppositions de base.",
+    "normalized_tokens": [
+      "un",
+      "choix",
+      "pouvoir",
+      "être",
+      "bon",
+      "ou",
+      "mauvais"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A9",
+    "group": "abstraites simples",
+    "constrained": "une chose simple peut avoir beaucoup de valeur.",
+    "natural": "une chose simple peut avoir beaucoup de valeur.",
+    "awk": "acceptable",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Phrase abstraite mais stable.",
+    "normalized_tokens": [
+      "une",
+      "chose",
+      "simple",
+      "pouvoir",
+      "avoir",
+      "beaucoup",
+      "de",
+      "valeur"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  },
+  {
+    "id": "A10",
+    "group": "abstraites simples",
+    "constrained": "ce qui est possible aujourd’hui peut être impossible demain.",
+    "natural": "ce qui est possible aujourd’hui peut être impossible demain.",
+    "awk": "naturel",
+    "missing_forms": [],
+    "missing_words": [],
+    "note": "Très bonne phrase abstraite courte.",
+    "normalized_tokens": [
+      "ce",
+      "qui",
+      "être",
+      "possible",
+      "aujourd’hui",
+      "pouvoir",
+      "être",
+      "impossible",
+      "demain"
+    ],
+    "constraint_validation": "ok",
+    "constraint_unknown_tokens": []
+  }
+]

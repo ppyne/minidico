@@ -1,0 +1,4167 @@
+[
+  {
+    "issue": "chose_de",
+    "word": "assiette",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "chose_de",
+    "word": "bol",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "chose_de",
+    "word": "cuillère",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "chose_de",
+    "word": "bouteille",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "chose_de",
+    "word": "nappe",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "chose_de",
+    "word": "serviette",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "chose_de",
+    "word": "menu",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "chose_de",
+    "word": "goût",
+    "definition": "chose de bouche"
+  },
+  {
+    "issue": "chose_de",
+    "word": "yaourt",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "chose_de",
+    "word": "gâteau",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "chose_de",
+    "word": "miel",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "chose_de",
+    "word": "épice",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "chose_de",
+    "word": "graisse",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "chose_de",
+    "word": "pâtisserie",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "chose_de",
+    "word": "vinaigre",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "chose_de",
+    "word": "camion",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "ambulance",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "bagage",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "valise",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "avance",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "correspondance",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "retour",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "plan",
+    "definition": "chose de direction ou de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "panneau",
+    "definition": "chose de direction ou de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "carrefour",
+    "definition": "chose de direction ou de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "passage",
+    "definition": "chose de direction ou de trajet"
+  },
+  {
+    "issue": "chose_de",
+    "word": "autoroute",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "piste",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "rail",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "moteur",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "roue",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "essence",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "frein",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "casque",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "ceinture",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "camping",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "réservation",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "place-assise",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "atterrissage",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "décollage",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "portail",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "boussole",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "passager",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "passeur",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "retour-voyage",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "cabine-pilotage",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "remorque",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "chose_de",
+    "word": "étoile",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "planète",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "orbite",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "comète",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "météore",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "soleil-système",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "atome",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "liquide",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "électricité",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "magnétique",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "tempête-solaire",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "satellite",
+    "definition": "chose de ciel ou de espace"
+  },
+  {
+    "issue": "chose_de",
+    "word": "métal",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "plastique",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "verre-matière",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "poussière",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "flamme",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "fumée",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "vapeur",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "cristal",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "rotation",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "révolution",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "mesure-temps",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "signal-science",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "champ-magnétique",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "réaction",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "densité",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "particule",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "thermique",
+    "definition": "chose de science"
+  },
+  {
+    "issue": "chose_de",
+    "word": "dessin",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "peinture",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "tableau",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "photo",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "cadre",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "sculpture",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "toile",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "exposition",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "rythme",
+    "definition": "chose de musique"
+  },
+  {
+    "issue": "chose_de",
+    "word": "mélodie",
+    "definition": "chose de musique"
+  },
+  {
+    "issue": "chose_de",
+    "word": "harmonie",
+    "definition": "chose de musique"
+  },
+  {
+    "issue": "chose_de",
+    "word": "piano",
+    "definition": "chose de musique"
+  },
+  {
+    "issue": "chose_de",
+    "word": "guitare",
+    "definition": "chose de musique"
+  },
+  {
+    "issue": "chose_de",
+    "word": "violon",
+    "definition": "chose de musique"
+  },
+  {
+    "issue": "chose_de",
+    "word": "tambour",
+    "definition": "chose de musique"
+  },
+  {
+    "issue": "chose_de",
+    "word": "conte",
+    "definition": "chose de texte"
+  },
+  {
+    "issue": "chose_de",
+    "word": "chapitre",
+    "definition": "chose de texte"
+  },
+  {
+    "issue": "chose_de",
+    "word": "paragraphe",
+    "definition": "chose de texte"
+  },
+  {
+    "issue": "chose_de",
+    "word": "acteur",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "costume",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "style",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "beauté",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "création",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "forme-art",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "fiction",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "récit",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "édition",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "publication",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "bande-dessinée",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "illustration",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "chant",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "refrain",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "couplet",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "micro",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "improvisation",
+    "definition": "chose de art"
+  },
+  {
+    "issue": "chose_de",
+    "word": "amitié",
+    "definition": "chose de relation"
+  },
+  {
+    "issue": "chose_de",
+    "word": "message",
+    "definition": "chose de relation"
+  },
+  {
+    "issue": "chose_de",
+    "word": "conversation",
+    "definition": "chose de relation"
+  },
+  {
+    "issue": "chose_de",
+    "word": "respect",
+    "definition": "chose de relation"
+  },
+  {
+    "issue": "chose_de",
+    "word": "conflit",
+    "definition": "chose de relation"
+  },
+  {
+    "issue": "chose_de",
+    "word": "surprise",
+    "definition": "chose de émotion"
+  },
+  {
+    "issue": "chose_de",
+    "word": "colère",
+    "definition": "chose de émotion"
+  },
+  {
+    "issue": "chose_de",
+    "word": "fierté",
+    "definition": "chose de émotion"
+  },
+  {
+    "issue": "chose_de",
+    "word": "espoir",
+    "definition": "chose de émotion"
+  },
+  {
+    "issue": "chose_de",
+    "word": "doute",
+    "definition": "chose de émotion"
+  },
+  {
+    "issue": "chose_de",
+    "word": "inquiétude",
+    "definition": "chose de émotion"
+  },
+  {
+    "issue": "chose_de",
+    "word": "pièce",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "salon",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "salle",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "toilette",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "linge",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "rideau",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "plafond",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "tapis",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "armoire",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "étagère",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "serviette-bain",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "lessive",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "déchet",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "internet",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "mail",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "logiciel",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "ordinateur",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "mot-de-passe",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "donnée",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "touche",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "souris",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "chargeur",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "batterie-mobile",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "caméra",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "vidéo",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "audio",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "sécurité-numérique",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "mise-à-jour",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "historique",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "abonnement",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "profil-public",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "paramètre",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "réglage",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "connexion",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "déconnexion",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "mise-en-page",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "archive",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "conversation-écrite",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "liste",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "coussin",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "placard",
+    "definition": "chose de maison"
+  },
+  {
+    "issue": "chose_de",
+    "word": "dossier-partagé",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "mot-clé",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "recherche-web",
+    "definition": "chose de information ou de message"
+  },
+  {
+    "issue": "chose_de",
+    "word": "discussion",
+    "definition": "chose de relation"
+  },
+  {
+    "issue": "chose_de",
+    "word": "désaccord",
+    "definition": "chose de relation"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "vendre",
+    "definition": "donner une chose pour recevoir argent"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "utiliser",
+    "definition": "faire une action avec une chose pour une fonction"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "argent",
+    "definition": "chose pour acheter"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "air",
+    "definition": "chose pour vivre"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "témoin",
+    "definition": "personne qui voit ou savoir une chose pour une preuve"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "repas",
+    "definition": "moment ou ensemble de chose pour manger"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "science",
+    "definition": "chose pour comprendre le monde"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "observer",
+    "definition": "chose pour science"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "lunette",
+    "definition": "chose pour science"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "théorie",
+    "definition": "chose pour science"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "échantillon",
+    "definition": "chose pour science"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "vêtement",
+    "definition": "chose pour porter sur corps"
+  },
+  {
+    "issue": "chose_pour",
+    "word": "savon",
+    "definition": "chose pour laver"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "enfant",
+    "definition": "personne jeune"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "fois",
+    "definition": "un moment"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "soleil",
+    "definition": "grand lumière"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "mer",
+    "definition": "grand eau"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "herbe",
+    "definition": "plante petit"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "faute",
+    "definition": "mauvais fait"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "vérité",
+    "definition": "information vrai"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "ouvert",
+    "definition": "pas fermé"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "fermé",
+    "definition": "pas ouvert"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "privé",
+    "definition": "pas public"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "certain",
+    "definition": "très vrai"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "lointain",
+    "definition": "très loin"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "espace",
+    "definition": "grand lieu"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "émotion",
+    "definition": "sentiment fort"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "père",
+    "definition": "parent homme"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "mère",
+    "definition": "parent femme"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "inconscient",
+    "definition": "sans conscience"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "kilomètre",
+    "definition": "mille mètre"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "kilogramme",
+    "definition": "mille gramme"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "taureau",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "coq",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "renard",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "tigre",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "éléphant",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "zèbre",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "girafe",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "corbeau",
+    "definition": "oiseau noir"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "cru",
+    "definition": "pas cuit"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "cuit",
+    "definition": "pour goût"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "épicé",
+    "definition": "pour goût"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "doux",
+    "definition": "pour goût"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "navire",
+    "definition": "grand bateau"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "croquis",
+    "definition": "dessin rapide"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "précis",
+    "definition": "mot simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "réel",
+    "definition": "mot simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "imaginaire",
+    "definition": "mot simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "complet",
+    "definition": "mot simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "partiel",
+    "definition": "pas complet"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "nécessaire",
+    "definition": "mot simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "probable",
+    "definition": "mot simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "habitude",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "routine",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "préférence",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "objectif",
+    "definition": "but précis"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "progrès",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "échec",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "succès",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "motivation",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "silence",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "parfum",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "odeur",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "single_hyperonym",
+    "word": "présence",
+    "definition": "chose simple"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "du",
+    "definition": "article de relation"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "au",
+    "definition": "article avec à"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "aux",
+    "definition": "article avec à"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "il",
+    "definition": "pronom pour homme"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "elle",
+    "definition": "pronom pour femme"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "y",
+    "definition": "pronom pour lieu"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "jamais",
+    "definition": "à aucun moment"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "rien",
+    "definition": "pas une chose"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "tout",
+    "definition": "chose entier"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "toute",
+    "definition": "chose entier"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "tous",
+    "definition": "groupe entier"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "toutes",
+    "definition": "groupe entier"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "chaque",
+    "definition": "un par un"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "aucun",
+    "definition": "pas un"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "même",
+    "definition": "sans différence"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "puis",
+    "definition": "après ce"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "très",
+    "definition": "mot pour plus"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "trop",
+    "definition": "plus que assez"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "peu",
+    "definition": "petit quantité"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "beaucoup",
+    "definition": "grand quantité"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ici",
+    "definition": "dans ce lieu"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "aujourd’hui",
+    "definition": "dans ce jour"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "toujours",
+    "definition": "dans tout temps"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "déjà",
+    "definition": "avant maintenant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "sans",
+    "definition": "pas avec"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vers",
+    "definition": "dans une direction"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "hors",
+    "definition": "pas dans"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "jusque",
+    "definition": "avant une fin"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "pendant",
+    "definition": "dans un temps"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "afin",
+    "definition": "pour un but"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "savoir",
+    "definition": "avoir une information"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "falloir",
+    "definition": "être un besoin"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "entrer",
+    "definition": "aller dans intérieur"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "répondre",
+    "definition": "dire une réponse"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mourir",
+    "definition": "finir la vie"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ouvrir",
+    "definition": "rendre ouvert"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "fermer",
+    "definition": "rendre fermé"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "chercher",
+    "definition": "vouloir trouver"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "regarder",
+    "definition": "voir de près"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bouger",
+    "definition": "avoir un mouvement"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "perdre",
+    "definition": "ne plus avoir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "monter",
+    "definition": "aller vers haut"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "descendre",
+    "definition": "aller vers bas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "lever",
+    "definition": "mettre plus haut"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "marcher",
+    "definition": "aller avec jambe"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "créer",
+    "definition": "faire exister"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "apprendre",
+    "definition": "recevoir une information"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "enseigner",
+    "definition": "donner une information"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "décider",
+    "definition": "faire un choix"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "préparer",
+    "definition": "faire être prêt"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "rendre",
+    "definition": "faire devenir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ajouter",
+    "definition": "mettre en plus"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ôter",
+    "definition": "prendre une partie"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "remplir",
+    "definition": "rendre plein"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "gens",
+    "definition": "groupe de personne"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "enfant",
+    "definition": "personne jeune"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bras",
+    "definition": "partie de corps"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "sang",
+    "definition": "matière de corps"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "voix",
+    "definition": "son pour parler"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "livre",
+    "definition": "groupe de page"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "lettre",
+    "definition": "signe pour écrire"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "nombre",
+    "definition": "mot pour compter"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "travail",
+    "definition": "fait de travailler"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "argent",
+    "definition": "chose pour acheter"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "prix",
+    "definition": "nombre pour acheter"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "achat",
+    "definition": "fait de acheter"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vente",
+    "definition": "fait de vendre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "jeu",
+    "definition": "fait de jouer"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "matin",
+    "definition": "début de jour"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "heure",
+    "definition": "partie de temps"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "fois",
+    "definition": "un moment"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "moment",
+    "definition": "partie de temps"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mort",
+    "definition": "fin de vie"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "terre",
+    "definition": "partie de monde"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ciel",
+    "definition": "haut de monde"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "soleil",
+    "definition": "grand lumière"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "air",
+    "definition": "chose pour vivre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "feu",
+    "definition": "chaleur et lumière"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vent",
+    "definition": "air qui bouge"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "pluie",
+    "definition": "eau qui tombe"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mer",
+    "definition": "grand eau"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "herbe",
+    "definition": "plante petit"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "maison",
+    "definition": "lieu pour vivre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mur",
+    "definition": "partie de maison"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "lit",
+    "definition": "objet pour dormir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "papier",
+    "definition": "matière pour écrire"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ombre",
+    "definition": "place sans lumière"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "usage",
+    "definition": "fonction d’une chose"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "intérieur",
+    "definition": "partie de dans"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "extérieur",
+    "definition": "partie de hors"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "but",
+    "definition": "fin de vouloir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "faute",
+    "definition": "mauvais fait"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vérité",
+    "definition": "information vrai"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "paix",
+    "definition": "état sans guerre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "avenir",
+    "definition": "temps après maintenant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "passé",
+    "definition": "temps avant maintenant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "présent",
+    "definition": "temps de maintenant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "naissance",
+    "definition": "début de vie"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "école",
+    "definition": "lieu pour apprendre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "pain",
+    "definition": "chose à manger"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "large",
+    "definition": "grand de côté"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "libre",
+    "definition": "sans règle proche"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ouvert",
+    "definition": "pas fermé"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "fermé",
+    "definition": "pas ouvert"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vivant",
+    "definition": "qui a vie"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mortel",
+    "definition": "qui peut mourir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "local",
+    "definition": "d’un lieu proche"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "privé",
+    "definition": "pas public"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "inutile",
+    "definition": "sans usage utile"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "certain",
+    "definition": "très vrai"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "différent",
+    "definition": "pas le même"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "lointain",
+    "definition": "très loin"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mouvement",
+    "definition": "fait de bouger"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "espace",
+    "definition": "grand lieu"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "contact",
+    "definition": "fait de toucher"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "point",
+    "definition": "très petit lieu"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "état",
+    "definition": "manière de être"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "fonction",
+    "definition": "usage d’une chose"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "quantité",
+    "definition": "nombre de chose"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "devenir",
+    "definition": "commencer à être"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "signifier",
+    "definition": "avoir un sens"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "émotion",
+    "definition": "sentiment fort"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "grandir",
+    "definition": "devenir plus grand"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "nommer",
+    "definition": "donner un nom"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "faim",
+    "definition": "besoin de manger"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "soif",
+    "definition": "besoin de boire"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "respiration",
+    "definition": "action de respirer"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "saigner",
+    "definition": "rendre sang"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "père",
+    "definition": "parent homme"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mère",
+    "definition": "parent femme"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "foie",
+    "definition": "organe de ventre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "nausée",
+    "definition": "envie de vomir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "saignement",
+    "definition": "action de saigner"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "inconscient",
+    "definition": "sans conscience"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "emploi",
+    "definition": "travail d’une personne"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "paiement",
+    "definition": "action de payer"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "reçu",
+    "definition": "preuve de paiement"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "jugement",
+    "definition": "décision de justice"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "attestation",
+    "definition": "document de preuve"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "épargne",
+    "definition": "argent pour après"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "antidouleur",
+    "definition": "médicament contre douleur"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "rouge",
+    "definition": "couleur comme sang"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bleu",
+    "definition": "couleur comme ciel"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vert",
+    "definition": "couleur comme herbe"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "jaune",
+    "definition": "couleur comme soleil"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "noir",
+    "definition": "couleur très sombre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "midi",
+    "definition": "milieu de jour"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "minuit",
+    "definition": "milieu de nuit"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mois",
+    "definition": "partie de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "été",
+    "definition": "saison de chaleur"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "hiver",
+    "definition": "saison de froid"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "janvier",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "février",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mars",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "avril",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mai",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "juin",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "juillet",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "août",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "septembre",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "octobre",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "novembre",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "décembre",
+    "definition": "mois de année"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "week-end",
+    "definition": "fin de semaine"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "nord",
+    "definition": "direction de carte"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "sud",
+    "definition": "direction de carte"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "entrée",
+    "definition": "lieu pour entrer"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "sortie",
+    "definition": "lieu pour sortir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "paysage",
+    "definition": "ensemble de lieu"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "grotte",
+    "definition": "lieu dans rocher"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "torrent",
+    "definition": "rivière très rapide"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "dune",
+    "definition": "colline de sable"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "zéro",
+    "definition": "nombre avant un"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "deux",
+    "definition": "nombre après un"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "trois",
+    "definition": "nombre après deux"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "quatre",
+    "definition": "nombre après trois"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "cinq",
+    "definition": "nombre après quatre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "six",
+    "definition": "nombre après cinq"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "sept",
+    "definition": "nombre après six"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "huit",
+    "definition": "nombre après sept"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "neuf",
+    "definition": "nombre après huit"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "dix",
+    "definition": "nombre après neuf"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "onze",
+    "definition": "nombre après dix"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "douze",
+    "definition": "nombre après onze"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "treize",
+    "definition": "nombre après douze"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "quatorze",
+    "definition": "nombre après treize"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "quinze",
+    "definition": "nombre après quatorze"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "seize",
+    "definition": "nombre après quinze"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vingt",
+    "definition": "nombre après seize"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "cent",
+    "definition": "dix fois dix"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mille",
+    "definition": "dix fois cent"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "somme",
+    "definition": "résultat d’une addition"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mètre",
+    "definition": "unité de longueur"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "kilomètre",
+    "definition": "mille mètre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "kilogramme",
+    "definition": "mille gramme"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "degré",
+    "definition": "unité pour température"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "hauteur",
+    "definition": "mesure de haut"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "largeur",
+    "definition": "mesure de large"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "longueur",
+    "definition": "mesure de long"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "fraction",
+    "definition": "partie d’un tout"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "additionner",
+    "definition": "faire une addition"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "soustraire",
+    "definition": "faire une soustraction"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "diviser",
+    "definition": "faire une division"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "multiplier",
+    "definition": "faire une multiplication"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "tronc",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bois",
+    "definition": "matière de arbre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "champignon",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bambou",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "pin",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vigne",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "roseau",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "taureau",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "coq",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "chaton",
+    "definition": "petit de chat"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "chiot",
+    "definition": "petit de chien"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "renard",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "tigre",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "éléphant",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "zèbre",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "girafe",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "hibou",
+    "definition": "oiseau de nuit"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "corbeau",
+    "definition": "oiseau noir"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "moustique",
+    "definition": "petit animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "papillon",
+    "definition": "petit animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "libellule",
+    "definition": "petit animal vivant"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "huître",
+    "definition": "coquillage de mer"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "truite",
+    "definition": "poisson de rivière"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "écorce",
+    "definition": "peau de arbre"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ruche",
+    "definition": "maison de abeille"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "souris-animal",
+    "definition": "petit animal gris"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "banane",
+    "definition": "fruit long jaune"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "carotte",
+    "definition": "légume long orange"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "fraise",
+    "definition": "petit fruit rouge"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "courgette",
+    "definition": "légume vert long"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mélanger",
+    "definition": "faire en cuisine"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "verser",
+    "definition": "faire en cuisine"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "mordre",
+    "definition": "prendre avec dent"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "éplucher",
+    "definition": "faire en cuisine"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "chauffer",
+    "definition": "rendre plus chaud"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "assiette",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "verre",
+    "definition": "objet pour boire"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bol",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "couteau",
+    "definition": "outil pour couper"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "cuillère",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bouteille",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "nappe",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "serviette",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "menu",
+    "definition": "chose de repas"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "goût",
+    "definition": "chose de bouche"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "cru",
+    "definition": "pas cuit"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "cuit",
+    "definition": "pour goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "épicé",
+    "definition": "pour goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "doux",
+    "definition": "pour goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "yaourt",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "gâteau",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "miel",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "confiture",
+    "definition": "fruit sucré cuit"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "épice",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "graisse",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "pâtisserie",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "omelette",
+    "definition": "plat de œuf"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "vinaigre",
+    "definition": "chose de goût"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "cerise",
+    "definition": "petit fruit rouge"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "abricot",
+    "definition": "fruit orange doux"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "noix",
+    "definition": "fruit sec dur"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "véhicule",
+    "definition": "objet pour transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "camion",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bateau",
+    "definition": "véhicule sur eau"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "avion",
+    "definition": "véhicule dans ciel"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "navire",
+    "definition": "grand bateau"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ambulance",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "gare",
+    "definition": "lieu de train"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "port",
+    "definition": "lieu pour bateau"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "aéroport",
+    "definition": "lieu pour avion"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "pont",
+    "definition": "lieu de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "bagage",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "valise",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "avance",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "correspondance",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "retour",
+    "definition": "chose de trajet"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "autoroute",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "piste",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "rail",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "wagon",
+    "definition": "partie de train"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "moteur",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "roue",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "essence",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "frein",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "casque",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "ceinture",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "camping",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "réservation",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "place-assise",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "atterrissage",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "décollage",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "portail",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "boussole",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "passager",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "passeur",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "short_lt4",
+    "word": "retour-voyage",
+    "definition": "chose de transport"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chose",
+    "definition": "objet ou partie qui peut exister ou faire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "gens",
+    "definition": "groupe de personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "homme",
+    "definition": "personne qu’on nommer il"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "femme",
+    "definition": "personne qu’on nommer elle"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "enfant",
+    "definition": "personne jeune"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "famille",
+    "definition": "groupe de personne avec relation de vie"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "main",
+    "definition": "partie de corps pour prendre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "bras",
+    "definition": "partie de corps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "jambe",
+    "definition": "partie de corps pour marcher"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "pied",
+    "definition": "partie de corps sous jambe"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "tête",
+    "definition": "partie haut de corps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "œil",
+    "definition": "partie de corps pour voir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "oreille",
+    "definition": "partie de corps pour entendre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "nez",
+    "definition": "partie de corps pour sentir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "bouche",
+    "definition": "partie de corps pour manger boire et parler"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "dent",
+    "definition": "partie dur de bouche"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "visage",
+    "definition": "partie avant de tête"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "peau",
+    "definition": "partie extérieur de corps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "os",
+    "definition": "partie dur de corps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "cœur",
+    "definition": "partie de corps pour vie et sentiment"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "esprit",
+    "definition": "partie de personne pour penser comprendre et vouloir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "voix",
+    "definition": "son pour parler"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "mot",
+    "definition": "signe de langue avec un sens"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "pensée",
+    "definition": "action de penser ou idée dans esprit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "rêve",
+    "definition": "image dans esprit pendant dormir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "livre",
+    "definition": "groupe de page"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "page",
+    "definition": "partie de livre ou de ensemble de mot"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "lettre",
+    "definition": "signe pour écrire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "prix",
+    "definition": "nombre pour acheter"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "jour",
+    "definition": "partie de temps avec lumière"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "nuit",
+    "definition": "partie de temps sans soleil"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "heure",
+    "definition": "partie de temps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "moment",
+    "definition": "partie de temps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "vie",
+    "definition": "état de être vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "terre",
+    "definition": "partie de monde"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "arbre",
+    "definition": "plante grand et haut"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fleur",
+    "definition": "partie de plante souvent beau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "herbe",
+    "definition": "plante petit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "oiseau",
+    "definition": "animal qui va dans air"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "poisson",
+    "definition": "animal qui vit dans eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chien",
+    "definition": "animal souvent avec une personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "maison",
+    "definition": "lieu pour vivre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "porte",
+    "definition": "partie de maison pour entrer ou sortir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fenêtre",
+    "definition": "partie de maison pour voir ou faire entrer lumière"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "mur",
+    "definition": "partie de maison"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "toit",
+    "definition": "partie haut de maison"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sol",
+    "definition": "partie bas d’un lieu"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "table",
+    "definition": "objet pour mettre une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chaise",
+    "definition": "objet pour asseoir une personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "lit",
+    "definition": "objet pour dormir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "feuille",
+    "definition": "partie de plante ou de page"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "mesure",
+    "definition": "nombre pour dire quantité taille poids ou temps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chaleur",
+    "definition": "état de ce qui est chaud"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "face",
+    "definition": "partie avant d’une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "côté",
+    "definition": "partie de place ou de surface"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "intérieur",
+    "definition": "partie de dans"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "extérieur",
+    "definition": "partie de hors"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "moyen",
+    "definition": "objet action ou relation pour faire un but"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "choix",
+    "definition": "action de choisir entre des sorte"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "tristesse",
+    "definition": "état de cœur triste"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "paix",
+    "definition": "état sans guerre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "guerre",
+    "definition": "action de groupe ou de pays contre un autre groupe ou pays"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "mémoire",
+    "definition": "partie de esprit pour garder une information"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "avenir",
+    "definition": "temps après maintenant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "passé",
+    "definition": "temps avant maintenant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "présent",
+    "definition": "temps de maintenant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "école",
+    "definition": "lieu pour apprendre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "outil",
+    "definition": "objet pour faire une action"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "machine",
+    "definition": "objet qui fait une action"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "voiture",
+    "definition": "objet pour aller sur route"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "train",
+    "definition": "objet pour aller d’un lieu à un autre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "téléphone",
+    "definition": "objet pour parler avec une autre personne en un autre lieu"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "bruit",
+    "definition": "son qu’on peut entendre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "place",
+    "definition": "partie de lieu pour une chose ou une personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "surface",
+    "definition": "partie de hors d’une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "ensemble",
+    "definition": "groupe de chose ou de personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "quantité",
+    "definition": "nombre de chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sorte",
+    "definition": "groupe de chose proche"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "reste",
+    "definition": "partie qui est encore là"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "résultat",
+    "definition": "effet de fin d’une action"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sentiment",
+    "definition": "état du cœur ou de esprit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fièvre",
+    "definition": "état de corps avec beaucoup de chaleur"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "toux",
+    "definition": "action de corps avec son de gorge"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fatigue",
+    "definition": "état de corps avec peu de force"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "médecin",
+    "definition": "personne de santé qui donne un soin ou un traitement"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "soin",
+    "definition": "action pour aider corps ou esprit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "organe",
+    "definition": "partie de corps avec une fonction"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "ventre",
+    "definition": "partie de corps sous poitrine"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "dos",
+    "definition": "partie de corps derrière poitrine et ventre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "gorge",
+    "definition": "partie de corps entre bouche et poitrine"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "poitrine",
+    "definition": "partie avant de corps entre gorge et ventre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "muscle",
+    "definition": "partie de corps qui aide le mouvement"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "respiration",
+    "definition": "action de respirer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sexe",
+    "definition": "partie de corps pour relation sexuel et pour naissance"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "grossesse",
+    "definition": "état d’une personne enceinte"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "couple",
+    "definition": "groupe de personne dans une même relation"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "hôpital",
+    "definition": "lieu de soin pour malade"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "traitement",
+    "definition": "groupe de soin ou de médicament"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "symptôme",
+    "definition": "signe de maladie ou de problème de santé"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "maladie",
+    "definition": "état de corps ou de esprit pas en bon santé"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "infection",
+    "definition": "maladie qui vient par virus ou bactérie"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "allergie",
+    "definition": "maladie où le corps a une mauvaise réponse à une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "examen",
+    "definition": "action pour voir et comprendre un problème de santé"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "analyse",
+    "definition": "action pour comprendre un résultat ou un problème de santé"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "patient",
+    "definition": "personne malade ou personne qui vient voir un médecin"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "prévention",
+    "definition": "action pour prévenir une maladie ou un danger"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "dose",
+    "definition": "quantité de médicament pour une fois"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "pharmacie",
+    "definition": "lieu pour avoir un médicament"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "infirmier",
+    "definition": "personne de soin dans un hôpital ou une clinique"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "infirmière",
+    "definition": "personne de soin dans un hôpital ou une clinique"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "clinique",
+    "definition": "lieu de soin avec médecin et infirmier"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "vagin",
+    "definition": "partie de sexe de femme"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "pénis",
+    "definition": "partie de sexe de homme"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sperme",
+    "definition": "partie de sexe de homme pour naissance"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "ovule",
+    "definition": "partie de corps de femme pour naissance"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "préservatif",
+    "definition": "objet pour prévenir une grossesse ou une infection dans une relation sexuel"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "saignement",
+    "definition": "action de saigner"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "conscience",
+    "definition": "état de esprit qui peut sentir comprendre et répondre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "contamination",
+    "definition": "action de faire venir une infection à une personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fertilité",
+    "definition": "état de pouvoir avoir un enfant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "nerf",
+    "definition": "partie de corps entre cerveau et autre partie de corps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "emploi",
+    "definition": "travail d’une personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "métier",
+    "definition": "travail qu’une personne faire souvent pour argent"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "entreprise",
+    "definition": "groupe de personne pour travail et argent"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "bureau",
+    "definition": "lieu de travail avec table papier et document"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "collègue",
+    "definition": "personne qui travaille avec une autre personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "responsable",
+    "definition": "personne qui doit répondre d’un travail ou d’un groupe"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "client",
+    "definition": "personne qui paie pour un service ou pour une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "projet",
+    "definition": "travail avec un but et un temps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "congé",
+    "definition": "temps sans travail avec autorisation"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "dossier",
+    "definition": "groupe de document sur une personne ou un projet"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "formulaire",
+    "definition": "document avec des question et des place pour écrire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "service",
+    "definition": "travail pour aider une personne ou un groupe"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "administration",
+    "definition": "service public avec document règle et formulaire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "mairie",
+    "definition": "lieu de administration d’une ville"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "banque",
+    "definition": "service pour argent et compte"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "paiement",
+    "definition": "action de payer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "facture",
+    "definition": "document qui montre un prix ou un paiement"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "aide",
+    "definition": "action ou argent pour aider"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "juge",
+    "definition": "personne de loi qui dit le droit dans un problème"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "tribunal",
+    "definition": "lieu où un juge voir une plainte ou un problème de droit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "avocat",
+    "definition": "personne de droit pour conseil défense ou recours"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "police",
+    "definition": "service public pour sécurité contrôle et loi"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "délai",
+    "definition": "temps avant une action à faire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "reçu",
+    "definition": "preuve de paiement"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "contrôle",
+    "definition": "action pour voir une règle un papier ou une sécurité"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sécurité",
+    "definition": "état sans danger pour une personne ou un lieu"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "infraction",
+    "definition": "action contre une loi ou une règle"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "défense",
+    "definition": "action pour protéger une personne ou répondre contre une plainte"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "justice",
+    "definition": "service de droit avec juge tribunal et décision"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "témoin",
+    "definition": "personne qui voit ou savoir une chose pour une preuve"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "enquête",
+    "definition": "action pour trouver une preuve après un problème"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chômage",
+    "definition": "état sans emploi mais avec besoin de travail"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "retraite",
+    "definition": "temps après travail long quand une personne ne travailler plus"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "embauche",
+    "definition": "action de donner un emploi à une personne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "candidat",
+    "definition": "personne qui demande un poste ou une formation"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "formation",
+    "definition": "temps pour apprendre un travail ou une compétence"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "certificat",
+    "definition": "document qui montre une preuve"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "attestation",
+    "definition": "document de preuve"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "allocation",
+    "definition": "aide de argent par un service public"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "logement",
+    "definition": "lieu pour vivre et dormir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "propriétaire",
+    "definition": "personne qui a un logement ou une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "locataire",
+    "definition": "personne qui paie un loyer pour un logement"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "bail",
+    "definition": "contrat de logement entre propriétaire et locataire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "charge",
+    "definition": "dépense à payer avec un logement ou un service"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "retard",
+    "definition": "temps après le bon moment"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "remboursement",
+    "definition": "action de rendre argent après un paiement ou un crédit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "garantie",
+    "definition": "aide contre un problème de chose ou de service"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "plaie",
+    "definition": "partie de peau avec sang ou douleur"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "secours",
+    "definition": "aide rapide dans un danger"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "anxiété",
+    "definition": "état de peur et de mal dans esprit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "stress",
+    "definition": "état de tension de esprit ou de corps"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "isolement",
+    "definition": "état sans relation proche avec les autre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "soutien",
+    "definition": "aide à une personne en problème"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "psychologue",
+    "definition": "personne qui aide par mot pour problème de esprit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "victime",
+    "definition": "personne qui reçoit un mal ou un danger"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "semaine",
+    "definition": "temps de beaucoup de jour"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "mois",
+    "definition": "partie de année"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "saison",
+    "definition": "partie de année comme été ou hiver"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "calendrier",
+    "definition": "document avec jour mois et année"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "dessus",
+    "definition": "partie en haut d’une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "dessous",
+    "definition": "partie en bas d’une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "milieu",
+    "definition": "partie entre début et fin"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "coin",
+    "definition": "partie entre des bord"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fond",
+    "definition": "partie la plus loin dans un lieu"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "entrée",
+    "definition": "lieu pour entrer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sortie",
+    "definition": "lieu pour sortir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "colline",
+    "definition": "lieu de terre ou de eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "vallée",
+    "definition": "lieu bas entre des montagne ou des colline"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "rivière",
+    "definition": "lieu de terre ou de eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "source",
+    "definition": "lieu où eau commencer à sortir de terre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sable",
+    "definition": "lieu de terre ou de eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "rocher",
+    "definition": "lieu de terre ou de eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "océan",
+    "definition": "lieu de terre ou de eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "grotte",
+    "definition": "lieu dans rocher"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sommet",
+    "definition": "partie la plus en haut de montagne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "vallon",
+    "definition": "lieu de terre ou de eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "zéro",
+    "definition": "nombre avant un"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "deux",
+    "definition": "nombre après un"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "trois",
+    "definition": "nombre après deux"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "quatre",
+    "definition": "nombre après trois"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "cinq",
+    "definition": "nombre après quatre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "six",
+    "definition": "nombre après cinq"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "sept",
+    "definition": "nombre après six"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "huit",
+    "definition": "nombre après sept"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "neuf",
+    "definition": "nombre après huit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "dix",
+    "definition": "nombre après neuf"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "onze",
+    "definition": "nombre après dix"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "douze",
+    "definition": "nombre après onze"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "treize",
+    "definition": "nombre après douze"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "quatorze",
+    "definition": "nombre après treize"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "quinze",
+    "definition": "nombre après quatorze"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "seize",
+    "definition": "nombre après quinze"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "vingt",
+    "definition": "nombre après seize"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chiffre",
+    "definition": "signe pour écrire un nombre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "calcul",
+    "definition": "action de trouver un nombre avec autre nombre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "total",
+    "definition": "nombre de fin d’un calcul ou d’un ensemble"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "pourcentage",
+    "definition": "nombre sur cent pour comparer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "capacité",
+    "definition": "quantité possible dans une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "moyenne",
+    "definition": "nombre au milieu entre beaucoup de valeur"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "taux",
+    "definition": "nombre pour un pourcentage"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fraction",
+    "definition": "partie d’un tout"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "élevage",
+    "definition": "travail pour faire vivre des animal domestique"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "racine",
+    "definition": "partie de plante dans terre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "tronc",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "champignon",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "bambou",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "pin",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "vigne",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "roseau",
+    "definition": "partie d’une plante"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "cochon",
+    "definition": "animal domestique rose ou noir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chèvre",
+    "definition": "animal domestique avec corne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "âne",
+    "definition": "animal proche de cheval"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "taureau",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "coq",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "loup",
+    "definition": "animal sauvage proche de chien"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "renard",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "serpent",
+    "definition": "animal long sans patte"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "singe",
+    "definition": "animal proche de homme"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "tigre",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "éléphant",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "zèbre",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "girafe",
+    "definition": "animal vivant"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "algue",
+    "definition": "plante de eau ou de mer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "patte",
+    "definition": "partie de animal pour marcher"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "tanière",
+    "definition": "lieu où vivre un animal sauvage"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "lierre",
+    "definition": "plante qui monte sur arbre ou mur"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "banane",
+    "definition": "fruit long jaune"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "citron",
+    "definition": "fruit jaune et acide"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "carotte",
+    "definition": "légume long orange"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "poivron",
+    "definition": "légume rouge vert ou jaune"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "concombre",
+    "definition": "légume long vert frais"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "courgette",
+    "definition": "légume vert long"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "cuisine",
+    "definition": "lieu pour faire un repas"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "verre",
+    "definition": "objet pour boire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "couteau",
+    "definition": "outil pour couper"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "fourchette",
+    "definition": "outil avec dent pour manger"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "casserole",
+    "definition": "objet pour cuire sur feu"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "poêle",
+    "definition": "objet plat pour cuire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "frigo",
+    "definition": "objet froid pour garder aliment"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "crème",
+    "definition": "aliment doux ou gras"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "chocolat",
+    "definition": "aliment brun sucré ou amer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "confiture",
+    "definition": "fruit sucré cuit"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "abricot",
+    "definition": "fruit orange doux"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "noix",
+    "definition": "fruit sec dur"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "véhicule",
+    "definition": "objet pour transport"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "gare",
+    "definition": "lieu de train"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "arrêt",
+    "definition": "lieu où un bus ou tram venir"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "station",
+    "definition": "lieu de métro de bus ou de service"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "port",
+    "definition": "lieu pour bateau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "aéroport",
+    "definition": "lieu pour avion"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "parking",
+    "definition": "lieu pour laisser véhicule"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "pont",
+    "definition": "lieu de transport"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "signal",
+    "definition": "signe ou lumière pour donner une information"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "voie",
+    "definition": "partie de route ou de rail pour aller"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "virage",
+    "definition": "partie de route qui tourne"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "marin",
+    "definition": "personne qui travaille sur mer ou navire"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "vague",
+    "definition": "mouvement haut et bas de eau"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "marée",
+    "definition": "mouvement de mer qui monte et descendre"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "équipage",
+    "definition": "groupe de personne dans un bateau ou avion"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "trottoir",
+    "definition": "partie de rue pour marcher"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "wagon",
+    "definition": "partie de train"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "péage",
+    "definition": "paiement pour une route"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "douane",
+    "definition": "service à une frontière"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "touriste",
+    "definition": "personne qui fait un voyage pour voir un lieu"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "auberge",
+    "definition": "lieu simple pour dormir pendant voyage"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "hôtel",
+    "definition": "lieu pour dormir pendant voyage"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "carte-embarquement",
+    "definition": "document pour entrer dans avion"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "port-bagage",
+    "definition": "lieu pour bagage"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "stationnement",
+    "definition": "action de laisser un véhicule dans un lieu"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "croisement",
+    "definition": "lieu où deux route se rencontrer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "descente",
+    "definition": "partie de route vers le bas"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "montée",
+    "definition": "partie de route vers le haut"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "masse",
+    "definition": "quantité de matière dans une chose"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "onde",
+    "definition": "mouvement qui passe dans eau air ou autre matière"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "instrument",
+    "definition": "outil pour observer mesurer ou jouer"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "laboratoire",
+    "definition": "lieu pour expérience et science"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "cosmonaute",
+    "definition": "personne qui va dans espace"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "aimant",
+    "definition": "objet avec force magnétique"
+  },
+  {
+    "issue": "no_article_expected",
+    "word": "expansion",
+    "definition": "action de devenir plus grand"
+  }
+]

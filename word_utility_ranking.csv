@@ -1,0 +1,501 @@
+rank,word,categorie,utility_score,tier,inbound_dependencies,outbound_dependencies,definition_v0,notes
+1,avec,grammaire,119.2,A-core,27,4,dans le même groupe,structuring_word;indirect_cycle
+2,dans,grammaire,118.4,A-core,33,3,à intérieur de,structuring_word;indirect_cycle
+3,mot,nom,118.4,A-core,138,3,partie de langue,axiom_or_quasi_axiom;structuring_word;indirect_cycle
+4,pour,grammaire,118.4,A-core,76,3,mot avec but,structuring_word;indirect_cycle
+5,faire,verbe,113.6,A-core,112,2,mot simple,axiom_or_quasi_axiom;structuring_word;definition_too_short;indirect_cycle
+6,partie,nom,113.4,A-core,53,3,chose dans une chose,axiom_or_quasi_axiom;structuring_word;indirect_cycle
+7,personne,nom,111.6,A-core,16,4,homme femme ou enfant,axiom_or_quasi_axiom;structuring_word
+8,de,grammaire,105.6,A-core,90,2,mot simple,structuring_word;definition_too_short;indirect_cycle
+9,pas,grammaire,105.6,A-core,50,2,mot simple,structuring_word;definition_too_short;indirect_cycle
+10,ou,grammaire,105.2,A-core,12,3,mot pour choix,structuring_word
+11,chose,nom,103.6,A-core,26,2,mot simple,axiom_or_quasi_axiom;structuring_word;definition_too_short;indirect_cycle
+12,autre,grammaire,102.0,A-core,9,3,pas le même,axiom_or_quasi_axiom;indirect_cycle
+13,qui,grammaire,102.0,A-core,10,5,mot pour personne ou chose,structuring_word
+14,temps,nom,101.2,A-core,19,2,mot simple,axiom_or_quasi_axiom;structuring_word;definition_too_short;indirect_cycle
+15,lieu,nom,98.0,A-core,19,3,partie de monde,structuring_word;indirect_cycle
+16,même,grammaire,96.4,A-core,7,2,pas autre,axiom_or_quasi_axiom;indirect_cycle
+17,corps,nom,94.4,A-core,15,3,partie de personne,structuring_word
+18,beaucoup,grammaire,94.0,A-core,14,3,plus que peu,structuring_word;indirect_cycle
+19,et,grammaire,90.8,A-core,6,3,mot pour groupe,
+20,sans,grammaire,87.6,B-strong,5,2,pas avec,
+21,un,grammaire,86.4,B-strong,12,2,mot simple,structuring_word;definition_too_short;indirect_cycle
+22,je,grammaire,85.2,B-strong,3,5,mot pour personne qui parler,
+23,tu,grammaire,82.0,B-strong,1,7,mot pour personne avec qui je parler,
+24,le,grammaire,81.6,B-strong,10,2,mot simple,structuring_word;definition_too_short;indirect_cycle
+25,une,grammaire,81.6,B-strong,10,2,mot simple,structuring_word;definition_too_short;indirect_cycle
+26,plus,grammaire,81.4,B-strong,6,5,mot pour beaucoup ou pour pas,indirect_cycle
+27,sur,grammaire,81.2,B-strong,2,3,plus haut que,
+28,tout,grammaire,81.2,B-strong,2,3,la chose entier,
+29,avant,grammaire,80.4,B-strong,8,4,dans un temps premier,indirect_cycle
+30,jamais,grammaire,79.6,B-strong,1,4,pas dans aucun temps,
+31,sous,grammaire,78.8,B-strong,1,3,plus bas que,
+32,être,verbe,78.8,B-strong,3,2,mot simple,axiom_or_quasi_axiom;definition_too_short
+33,ce,grammaire,78.4,B-strong,5,3,mot pour montrer,
+34,comme,grammaire,78.4,B-strong,4,6,mot pour dire près du même,
+35,nous,grammaire,78.0,B-strong,0,5,mot pour groupe avec je,
+36,où,grammaire,78.0,B-strong,0,5,mot pour demander un lieu,
+37,vous,grammaire,78.0,B-strong,0,5,mot pour groupe ou personne,
+38,mais,grammaire,77.2,B-strong,0,4,mot pour autre sens,
+39,simple,adjectif,76.6,B-strong,94,2,pas difficile,structuring_word;indirect_cycle
+40,elle,grammaire,76.4,B-strong,0,3,mot pour femme,
+41,elles,grammaire,76.4,B-strong,0,3,mot pour groupe,
+42,il,grammaire,76.4,B-strong,0,3,mot pour homme,
+43,ils,grammaire,76.4,B-strong,0,3,mot pour groupe,
+44,rien,grammaire,76.4,B-strong,0,3,pas une chose,
+45,après,grammaire,75.6,B-strong,6,4,dans un temps dernier,indirect_cycle
+46,peu,grammaire,73.8,B-strong,8,2,pas beaucoup,indirect_cycle
+47,groupe,nom,73.6,B-strong,15,2,mot simple,structuring_word;definition_too_short;indirect_cycle
+48,maintenant,grammaire,73.2,B-strong,5,4,dans le temps présent,indirect_cycle
+49,que,grammaire,73.2,B-strong,4,2,mot simple,definition_too_short
+50,entre,grammaire,72.8,B-strong,2,5,dans plus de un côté,
+51,très,grammaire,72.0,B-strong,3,1,plus,
+52,avoir,verbe,71.6,C-useful,0,2,mot simple,axiom_or_quasi_axiom;definition_too_short
+53,du,grammaire,70.8,C-useful,3,2,mot simple,definition_too_short
+54,souvent,grammaire,69.6,C-useful,1,4,dans beaucoup de fois,
+55,comment,grammaire,68.8,C-useful,1,3,mot pour demander,
+56,pendant,grammaire,68.8,C-useful,1,3,dans un temps,
+57,toujours,grammaire,68.8,C-useful,1,3,dans tout temps,
+58,tous,grammaire,68.8,C-useful,1,3,le groupe entier,
+59,toute,grammaire,68.8,C-useful,1,3,la chose entier,
+60,la,grammaire,68.4,C-useful,2,2,mot simple,definition_too_short
+61,aucun,grammaire,68.0,C-useful,1,2,pas un,
+62,chez,grammaire,68.0,C-useful,0,5,dans le lieu de personne,
+63,eau,nom,68.0,C-useful,9,3,chose pour boire,
+64,hors,grammaire,68.0,C-useful,1,2,pas dans,
+65,pourquoi,grammaire,68.0,C-useful,0,5,mot pour demander une raison,
+66,quand,grammaire,68.0,C-useful,0,5,mot pour demander un temps,
+67,quoi,grammaire,68.0,C-useful,0,5,mot pour demander une chose,
+68,ailleurs,grammaire,67.2,C-useful,0,4,dans un autre lieu,
+69,bientôt,grammaire,67.2,C-useful,0,4,après peu de temps,
+70,demain,grammaire,67.2,C-useful,0,4,dans le jour après,
+71,depuis,grammaire,67.2,C-useful,0,4,à partir de avant,
+72,hier,grammaire,67.2,C-useful,0,4,dans le jour avant,
+73,malgré,grammaire,67.2,C-useful,0,4,avec un autre effet,
+74,parfois,grammaire,67.2,C-useful,0,4,pas toujours et pas jamais,
+75,alors,grammaire,66.4,C-useful,0,3,dans ce moment,
+76,aujourd’hui,grammaire,66.4,C-useful,0,3,dans ce jour,
+77,car,grammaire,66.4,C-useful,0,3,mot pour raison,
+78,ces,grammaire,66.4,C-useful,0,3,mot pour montrer,
+79,cette,grammaire,66.4,C-useful,0,3,mot pour montrer,
+80,contre,grammaire,66.4,C-useful,0,3,sur autre face,
+81,donc,grammaire,66.4,C-useful,0,3,mot pour effet,
+82,encore,grammaire,66.4,C-useful,0,3,une autre fois,
+83,eux,grammaire,66.4,C-useful,0,3,mot pour groupe,
+84,ici,grammaire,66.4,C-useful,0,3,dans ce lieu,
+85,jusque,grammaire,66.4,C-useful,0,3,avant une fin,
+86,lui,grammaire,66.4,C-useful,0,3,mot pour personne,
+87,là,grammaire,66.4,C-useful,0,3,dans un lieu,
+88,moi,grammaire,66.4,C-useful,0,3,mot pour je,
+89,non,grammaire,66.4,C-useful,0,3,réponse pas bon,
+90,on,grammaire,66.4,C-useful,0,3,mot pour personne,
+91,toi,grammaire,66.4,C-useful,0,3,mot pour tu,
+92,y,grammaire,66.4,C-useful,0,3,mot pour lieu,
+93,idée,nom,66.0,C-useful,4,3,mot dans esprit,axiom_or_quasi_axiom
+94,les,grammaire,66.0,C-useful,1,2,mot simple,definition_too_short
+95,afin,grammaire,65.6,C-useful,0,2,pour but,
+96,chaque,grammaire,65.6,C-useful,0,2,un par un,
+97,déjà,grammaire,65.6,C-useful,0,2,avant maintenant,
+98,oui,grammaire,65.6,C-useful,0,2,réponse bon,
+99,vers,grammaire,65.6,C-useful,0,2,pour aller,
+100,puis,grammaire,64.8,C-useful,0,1,après,
+101,selon,grammaire,64.8,C-useful,0,1,comme,
+102,près,grammaire,64.4,C-useful,2,2,pas loin,indirect_cycle
+103,mal,grammaire,64.2,C-useful,4,2,pas bien,indirect_cycle
+104,des,grammaire,63.6,C-useful,0,2,mot simple,definition_too_short
+105,ne,grammaire,63.6,C-useful,0,2,mot simple,definition_too_short
+106,si,grammaire,63.6,C-useful,0,2,mot simple,definition_too_short
+107,lumière,nom,63.2,C-useful,7,3,chose pour voir,
+108,toutes,grammaire,62.8,C-useful,1,3,le groupe entier,indirect_cycle
+109,trop,grammaire,62.8,C-useful,1,3,plus que assez,indirect_cycle
+110,à,grammaire,62.4,C-useful,2,2,mot simple,definition_too_short;indirect_cycle
+111,loin,grammaire,61.8,C-useful,3,2,pas près,indirect_cycle
+112,voir,verbe,61.8,C-useful,5,1,faire,definition_too_short
+113,animal,nom,60.8,C-useful,6,3,vivant pas personne,
+114,jour,nom,60.8,C-useful,6,3,temps avec lumière,
+115,ainsi,grammaire,60.6,C-useful,0,2,comme même,
+116,aussi,grammaire,60.6,C-useful,0,2,comme même,
+117,bien,grammaire,59.4,C-useful,2,2,pas mal,indirect_cycle
+118,assez,grammaire,58.6,C-useful,1,4,pas peu et pas trop,indirect_cycle
+119,grand,adjectif,58.0,C-useful,7,4,avec beaucoup de taille,
+120,petit,adjectif,58.0,C-useful,7,4,avec peu de taille,
+121,esprit,nom,57.6,C-useful,4,5,partie de personne pour penser,
+122,dire,verbe,57.0,C-useful,3,1,faire,definition_too_short
+123,aller,verbe,56.4,C-useful,4,1,faire,definition_too_short
+124,langue,nom,56.4,C-useful,1,5,groupe de mot pour parler,indirect_cycle
+125,en,grammaire,56.0,C-useful,1,2,mot simple,definition_too_short
+126,maison,nom,56.0,C-useful,4,3,lieu pour vivre,
+127,par,grammaire,56.0,C-useful,1,2,mot simple,definition_too_short
+128,règle,nom,55.2,D-secondary,3,5,mot pour dire comment faire,
+129,au,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+130,aux,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+131,côté,nom,53.6,D-secondary,3,3,partie de lieu,
+132,force,nom,53.6,D-secondary,2,6,partie pour pousser tirer ou porter,
+133,leur,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+134,leurs,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+135,ma,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+136,me,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+137,mes,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+138,mon,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+139,ni,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+140,nombre,nom,53.6,D-secondary,3,3,mot pour compter,
+141,nos,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+142,notre,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+143,parce,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+144,réponse,nom,53.6,D-secondary,3,3,mot pour répondre,
+145,sa,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+146,se,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+147,ses,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+148,son,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+149,ta,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+150,te,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+151,tes,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+152,ton,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+153,vie,nom,53.6,D-secondary,3,3,fait de vivre,
+154,vos,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+155,votre,grammaire,53.6,D-secondary,0,2,mot simple,definition_too_short
+156,bouche,nom,52.8,D-secondary,1,8,partie de corps pour manger boire et parler,
+157,âge,nom,52.0,D-secondary,2,4,nombre de temps de vie,
+158,fin,nom,51.6,D-secondary,5,2,dernier partie,indirect_cycle
+159,air,nom,51.2,D-secondary,2,3,chose pour vivre,
+160,argent,nom,51.2,D-secondary,2,3,chose pour acheter,
+161,chemin,nom,51.2,D-secondary,2,3,lieu pour marcher,
+162,cœur,nom,51.2,D-secondary,2,3,partie de corps,
+163,image,nom,51.2,D-secondary,2,3,chose pour montrer,
+164,moment,nom,51.2,D-secondary,2,3,partie de temps,
+165,raison,nom,51.2,D-secondary,2,3,idée pour expliquer,
+166,voix,nom,51.2,D-secondary,2,3,partie pour parler,
+167,début,nom,50.4,D-secondary,2,2,premier partie,
+168,fois,nom,50.4,D-secondary,2,2,un moment,
+169,jambe,nom,50.4,D-secondary,1,5,partie de corps pour marcher,
+170,pays,nom,50.4,D-secondary,2,2,grand lieu,
+171,sens,nom,50.4,D-secondary,1,5,idée de mot ou de chose,
+172,signe,nom,50.4,D-secondary,2,2,petit forme,
+173,ville,nom,50.4,D-secondary,1,5,lieu avec beaucoup de maison,
+174,effet,nom,50.0,D-secondary,4,3,partie après cause,indirect_cycle
+175,taille,nom,50.0,D-secondary,4,3,partie de mesure,indirect_cycle
+176,guerre,nom,49.6,D-secondary,1,4,grand mauvais entre groupe,
+177,minute,nom,49.6,D-secondary,1,4,petit partie de heure,
+178,tête,nom,49.6,D-secondary,1,4,partie haut de corps,
+179,demander,verbe,49.2,D-secondary,6,1,faire,definition_too_short
+180,monde,nom,49.2,D-secondary,3,5,tout lieu et toute chose,indirect_cycle
+181,amour,nom,48.8,D-secondary,1,3,fait de aimer,
+182,centre,nom,48.8,D-secondary,1,3,partie entre côté,
+183,choix,nom,48.8,D-secondary,1,3,fait de choisir,
+184,ciel,nom,48.8,D-secondary,1,3,haut de monde,
+185,extérieur,nom,48.8,D-secondary,1,3,partie de hors,
+186,forme,nom,48.8,D-secondary,1,3,partie de image,
+187,heure,nom,48.8,D-secondary,1,3,partie de temps,
+188,mémoire,nom,48.8,D-secondary,0,6,partie de esprit pour garder idée,
+189,nom,nom,48.8,D-secondary,0,6,mot pour personne chose ou lieu,
+190,papier,nom,48.8,D-secondary,1,3,chose pour écrire,
+191,terre,nom,48.8,D-secondary,1,3,partie de monde,
+192,usage,nom,48.8,D-secondary,1,3,fait de utiliser,
+193,mesure,nom,48.4,D-secondary,2,7,nombre pour dire taille poids ou temps,indirect_cycle
+194,chaise,nom,48.0,D-secondary,0,5,chose pour asseoir une personne,
+195,erreur,nom,48.0,D-secondary,0,5,faute dans mot ou fait,
+196,face,nom,48.0,D-secondary,1,2,partie avant,
+197,faute,nom,48.0,D-secondary,1,2,mauvais fait,
+198,histoire,nom,48.0,D-secondary,0,5,groupe de fait dans temps,
+199,ligne,nom,48.0,D-secondary,0,5,groupe de mot ou de signe,
+200,main,nom,48.0,D-secondary,0,5,partie de corps pour prendre,
+201,nez,nom,48.0,D-secondary,0,5,partie de corps pour sentir,
+202,oiseau,nom,48.0,D-secondary,0,5,animal qui aller dans air,
+203,oreille,nom,48.0,D-secondary,0,5,partie de corps pour entendre,
+204,pied,nom,48.0,D-secondary,0,5,partie de corps sous jambe,
+205,porte,nom,48.0,D-secondary,0,5,partie pour entrer ou sortir,
+206,problème,nom,48.0,D-secondary,1,2,chose difficile,
+207,rêve,nom,48.0,D-secondary,0,5,image dans esprit pendant dormir,
+208,soleil,nom,48.0,D-secondary,1,2,grand lumière,
+209,œil,nom,48.0,D-secondary,0,5,partie de corps pour voir,
+210,dent,nom,47.2,D-secondary,0,4,partie dur de bouche,
+211,os,nom,47.2,D-secondary,0,4,partie dur de corps,
+212,peau,nom,47.2,D-secondary,0,4,partie extérieur de corps,
+213,seconde,nom,47.2,D-secondary,0,4,petit partie de minute,
+214,sol,nom,47.2,D-secondary,0,4,partie bas de lieu,
+215,table,nom,47.2,D-secondary,0,4,chose pour mettre une chose,
+216,toit,nom,47.2,D-secondary,0,4,partie haut de maison,
+217,tristesse,nom,47.2,D-secondary,0,4,fait de être triste,
+218,achat,nom,46.4,D-secondary,0,3,fait de acheter,
+219,avenir,nom,46.4,D-secondary,0,3,temps après maintenant,
+220,bord,nom,46.4,D-secondary,0,3,partie de fin,
+221,bras,nom,46.4,D-secondary,0,3,partie de corps,
+222,chat,nom,46.4,D-secondary,0,3,animal avec personne,
+223,chien,nom,46.4,D-secondary,0,3,animal avec personne,
+224,couleur,nom,46.4,D-secondary,0,3,partie pour voir,
+225,douleur,nom,46.4,D-secondary,0,3,mal dans corps,
+226,droit,nom,46.4,D-secondary,0,3,règle pour personne,
+227,envie,nom,46.4,D-secondary,0,3,vouloir une chose,
+228,fenêtre,nom,46.4,D-secondary,0,3,partie pour voir,
+229,feu,nom,46.4,D-secondary,0,3,chaleur et lumière,
+230,feuille,nom,46.4,D-secondary,0,3,partie de papier,
+231,jeu,nom,46.4,D-secondary,0,3,fait de jouer,
+232,lit,nom,46.4,D-secondary,0,3,chose pour dormir,
+233,loi,nom,46.4,D-secondary,0,3,règle de pays,
+234,matin,nom,46.4,D-secondary,0,3,début de jour,
+235,mort,nom,46.4,D-secondary,0,3,fin de vie,
+236,moyen,nom,46.4,D-secondary,0,3,chose pour faire,
+237,mur,nom,46.4,D-secondary,0,3,partie de maison,
+238,naissance,nom,46.4,D-secondary,0,3,début de vie,
+239,nuit,nom,46.4,D-secondary,0,3,temps sans soleil,
+240,ordre,nom,46.4,D-secondary,0,3,mot pour faire,
+241,passé,nom,46.4,D-secondary,0,3,temps avant maintenant,
+242,pensée,nom,46.4,D-secondary,0,3,idée de esprit,
+243,phrase,nom,46.4,D-secondary,0,3,groupe de mot,
+244,pluie,nom,46.4,D-secondary,0,3,eau qui tomber,
+245,poisson,nom,46.4,D-secondary,0,3,animal dans eau,
+246,prix,nom,46.4,D-secondary,0,3,nombre pour acheter,
+247,question,nom,46.4,D-secondary,0,3,mot pour demander,
+248,route,nom,46.4,D-secondary,0,3,chemin pour voiture,
+249,rue,nom,46.4,D-secondary,0,3,chemin dans ville,
+250,sang,nom,46.4,D-secondary,0,3,partie de corps,
+251,soir,nom,46.4,D-secondary,0,3,fin de jour,
+252,solution,nom,46.4,D-secondary,0,3,réponse de problème,
+253,travail,nom,46.4,D-secondary,0,3,fait de travailler,
+254,vent,nom,46.4,D-secondary,0,3,air qui bouger,
+255,vente,nom,46.4,D-secondary,0,3,fait de vendre,
+256,visage,nom,46.4,D-secondary,0,3,partie de tête,
+257,besoin,nom,45.6,D-secondary,0,2,chose utile,
+258,haine,nom,45.6,D-secondary,0,2,pas amour,
+259,joie,nom,45.6,D-secondary,0,2,très content,
+260,lettre,nom,45.6,D-secondary,0,2,petit signe,
+261,mensonge,nom,45.6,D-secondary,0,2,mot faux,
+262,mer,nom,45.6,D-secondary,0,2,grand eau,
+263,ombre,nom,45.6,D-secondary,0,2,pas lumière,
+264,paix,nom,45.6,D-secondary,0,2,pas guerre,
+265,peur,nom,45.6,D-secondary,0,2,très triste,
+266,but,nom,45.2,D-secondary,2,3,fin de vouloir,indirect_cycle
+267,chaleur,nom,45.2,D-secondary,2,3,partie du chaud,indirect_cycle
+268,intérieur,nom,45.2,D-secondary,2,3,partie de dans,indirect_cycle
+269,possible,adjectif,45.2,D-secondary,2,3,qui peut être,
+270,triste,adjectif,45.2,D-secondary,2,3,mal dans cœur,
+271,utile,adjectif,45.2,D-secondary,2,3,bon pour usage,
+272,entier,adjectif,44.8,D-secondary,4,4,avec toutes les partie,indirect_cycle
+273,venir,verbe,44.8,D-secondary,0,1,faire,definition_too_short
+274,faux,adjectif,44.4,D-secondary,2,2,pas vrai,
+275,froid,adjectif,44.4,D-secondary,2,2,pas chaud,
+276,montrer,verbe,44.4,D-secondary,4,1,faire,definition_too_short
+277,vivre,verbe,44.4,D-secondary,4,1,faire,definition_too_short
+278,content,adjectif,43.6,D-secondary,1,4,heureux pour une chose,
+279,vérité,nom,43.6,D-secondary,1,4,ce qui est vrai,indirect_cycle
+280,dur,adjectif,43.2,D-secondary,4,2,pas mou,indirect_cycle
+281,haut,adjectif,43.0,D-secondary,6,2,pas bas,indirect_cycle
+282,beau,adjectif,42.8,D-secondary,1,3,bon pour voir,
+283,cause,nom,42.8,D-secondary,1,3,partie avant effet,indirect_cycle
+284,heureux,adjectif,42.8,D-secondary,1,3,bien dans cœur,
+285,large,adjectif,42.8,D-secondary,1,3,grand de côté,
+286,livre,nom,42.8,D-secondary,1,3,groupe de page,indirect_cycle
+287,page,nom,42.8,D-secondary,1,3,partie de livre,indirect_cycle
+288,poids,nom,42.8,D-secondary,1,3,partie de mesure,indirect_cycle
+289,présent,nom,42.8,D-secondary,1,3,temps de maintenant,indirect_cycle
+290,acheter,verbe,42.0,D-secondary,3,1,faire,definition_too_short
+291,public,adjectif,42.0,D-secondary,1,2,pour tous,
+292,vivant,adjectif,42.0,D-secondary,1,2,qui vivre,
+293,bruyant,adjectif,41.2,D-secondary,0,4,avec beaucoup de voix,
+294,clair,adjectif,41.2,D-secondary,0,4,avec beaucoup de lumière,
+295,faible,adjectif,41.2,D-secondary,0,4,avec peu de force,
+296,fort,adjectif,41.2,D-secondary,0,4,avec beaucoup de force,
+297,général,adjectif,41.2,D-secondary,0,4,pour beaucoup de chose,
+298,jeune,adjectif,41.2,D-secondary,0,4,avec peu de âge,
+299,pauvre,adjectif,41.2,D-secondary,0,4,avec peu de argent,
+300,riche,adjectif,41.2,D-secondary,0,4,avec beaucoup de argent,
+301,sombre,adjectif,41.2,D-secondary,0,4,avec peu de lumière,
+302,vieux,adjectif,41.2,D-secondary,0,4,avec beaucoup de âge,
+303,difficile,adjectif,40.8,D-secondary,3,2,pas facile,indirect_cycle
+304,parler,verbe,40.8,D-secondary,5,1,faire,definition_too_short;indirect_cycle
+305,bon,adjectif,40.6,D-secondary,5,2,pas mauvais,indirect_cycle
+306,différent,adjectif,40.4,D-secondary,0,3,pas le même,
+307,local,adjectif,40.4,D-secondary,0,3,de ce lieu,
+308,malade,adjectif,40.4,D-secondary,0,3,mal dans corps,
+309,seul,adjectif,40.4,D-secondary,0,3,sans autre personne,
+310,boire,verbe,39.6,E-weak,2,1,faire,definition_too_short
+311,dormir,verbe,39.6,E-weak,2,1,faire,definition_too_short
+312,impossible,adjectif,39.6,E-weak,0,2,pas possible,
+313,inutile,adjectif,39.6,E-weak,0,2,pas utile,
+314,laid,adjectif,39.6,E-weak,0,2,pas beau,
+315,libre,adjectif,39.6,E-weak,0,2,sans règle,
+316,lointain,adjectif,39.6,E-weak,0,2,très loin,
+317,marcher,verbe,39.6,E-weak,2,1,faire,definition_too_short
+318,mortel,adjectif,39.6,E-weak,0,2,qui mourir,
+319,normal,adjectif,39.6,E-weak,0,2,comme souvent,
+320,privé,adjectif,39.6,E-weak,0,2,pas public,
+321,prêt,adjectif,39.6,E-weak,0,2,possible maintenant,
+322,étroit,adjectif,39.6,E-weak,0,2,pas large,
+323,long,adjectif,39.4,E-weak,1,5,grand en taille ou en temps,
+324,vide,adjectif,38.6,E-weak,1,4,sans chose dans intérieur,
+325,chaud,adjectif,38.4,E-weak,2,2,avec chaleur,indirect_cycle
+326,dernier,adjectif,38.4,E-weak,2,2,après autre,indirect_cycle
+327,femme,nom,38.4,E-weak,2,2,mot simple,definition_too_short
+328,homme,nom,38.4,E-weak,2,2,mot simple,definition_too_short
+329,premier,adjectif,38.4,E-weak,2,2,avant autre,indirect_cycle
+330,vrai,adjectif,38.4,E-weak,2,2,avec vérité,indirect_cycle
+331,aimer,verbe,37.2,E-weak,1,1,faire,definition_too_short
+332,asseoir,verbe,37.2,E-weak,1,1,faire,definition_too_short
+333,bouger,verbe,37.2,E-weak,1,1,faire,definition_too_short
+334,choisir,verbe,37.2,E-weak,1,1,faire,definition_too_short
+335,compter,verbe,37.2,E-weak,1,1,faire,definition_too_short
+336,entendre,verbe,37.2,E-weak,1,1,faire,definition_too_short
+337,entrer,verbe,37.2,E-weak,1,1,faire,definition_too_short
+338,expliquer,verbe,37.2,E-weak,1,1,faire,definition_too_short
+339,garder,verbe,37.2,E-weak,1,1,faire,definition_too_short
+340,jouer,verbe,37.2,E-weak,1,1,faire,definition_too_short
+341,manger,verbe,37.2,E-weak,1,1,faire,definition_too_short
+342,mettre,verbe,37.2,E-weak,1,1,faire,definition_too_short
+343,mourir,verbe,37.2,E-weak,1,1,faire,definition_too_short
+344,partir,verbe,37.2,E-weak,1,1,faire,definition_too_short
+345,penser,verbe,37.2,E-weak,1,1,faire,definition_too_short
+346,porter,verbe,37.2,E-weak,1,1,faire,definition_too_short
+347,pousser,verbe,37.2,E-weak,1,1,faire,definition_too_short
+348,pouvoir,verbe,37.2,E-weak,1,1,faire,definition_too_short
+349,prendre,verbe,37.2,E-weak,1,1,faire,definition_too_short
+350,répondre,verbe,37.2,E-weak,1,1,faire,definition_too_short
+351,sentir,verbe,37.2,E-weak,1,1,faire,definition_too_short
+352,sortir,verbe,37.2,E-weak,1,1,faire,definition_too_short
+353,tirer,verbe,37.2,E-weak,1,1,faire,definition_too_short
+354,tomber,verbe,37.2,E-weak,1,1,faire,definition_too_short
+355,travailler,verbe,37.2,E-weak,1,1,faire,definition_too_short
+356,utiliser,verbe,37.2,E-weak,1,1,faire,definition_too_short
+357,vendre,verbe,37.2,E-weak,1,1,faire,definition_too_short
+358,écrire,verbe,37.2,E-weak,1,1,faire,definition_too_short
+359,humide,adjectif,37.0,E-weak,1,2,avec eau,
+360,calme,adjectif,36.2,E-weak,0,4,sans beaucoup de voix,
+361,important,adjectif,36.2,E-weak,0,4,avec beaucoup de effet,
+362,arbre,nom,36.0,E-weak,1,2,mot simple,definition_too_short
+363,enfant,nom,36.0,E-weak,1,2,mot simple,definition_too_short
+364,facile,adjectif,36.0,E-weak,1,2,pas difficile,indirect_cycle
+365,fermé,adjectif,36.0,E-weak,1,2,pas ouvert,indirect_cycle
+366,lent,adjectif,36.0,E-weak,1,2,pas rapide,indirect_cycle
+367,mou,adjectif,36.0,E-weak,1,2,pas dur,indirect_cycle
+368,ouvert,adjectif,36.0,E-weak,1,2,pas fermé,indirect_cycle
+369,propre,adjectif,36.0,E-weak,1,2,pas sale,indirect_cycle
+370,rapide,adjectif,36.0,E-weak,1,2,pas lent,indirect_cycle
+371,sale,adjectif,36.0,E-weak,1,2,pas propre,indirect_cycle
+372,voiture,nom,36.0,E-weak,1,2,mot simple,definition_too_short
+373,bas,adjectif,35.8,E-weak,3,2,pas haut,indirect_cycle
+374,mauvais,adjectif,35.8,E-weak,3,2,pas bon,indirect_cycle
+375,aider,verbe,34.8,E-weak,0,1,faire,definition_too_short
+376,ajouter,verbe,34.8,E-weak,0,1,faire,definition_too_short
+377,appeler,verbe,34.8,E-weak,0,1,faire,definition_too_short
+378,apprendre,verbe,34.8,E-weak,0,1,faire,definition_too_short
+379,arriver,verbe,34.8,E-weak,0,1,faire,definition_too_short
+380,attendre,verbe,34.8,E-weak,0,1,faire,definition_too_short
+381,casser,verbe,34.8,E-weak,0,1,faire,definition_too_short
+382,changer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+383,chercher,verbe,34.8,E-weak,0,1,faire,definition_too_short
+384,commencer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+385,comprendre,verbe,34.8,E-weak,0,1,faire,definition_too_short
+386,connaître,verbe,34.8,E-weak,0,1,faire,definition_too_short
+387,continuer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+388,couper,verbe,34.8,E-weak,0,1,faire,definition_too_short
+389,courir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+390,croire,verbe,34.8,E-weak,0,1,faire,definition_too_short
+391,créer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+392,descendre,verbe,34.8,E-weak,0,1,faire,definition_too_short
+393,devoir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+394,donner,verbe,34.8,E-weak,0,1,faire,definition_too_short
+395,décider,verbe,34.8,E-weak,0,1,faire,definition_too_short
+396,enseigner,verbe,34.8,E-weak,0,1,faire,definition_too_short
+397,envoyer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+398,essayer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+399,falloir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+400,fermer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+401,finir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+402,gagner,verbe,34.8,E-weak,0,1,faire,definition_too_short
+403,laisser,verbe,34.8,E-weak,0,1,faire,definition_too_short
+404,laver,verbe,34.8,E-weak,0,1,faire,definition_too_short
+405,lever,verbe,34.8,E-weak,0,1,faire,definition_too_short
+406,lire,verbe,34.8,E-weak,0,1,faire,definition_too_short
+407,mesurer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+408,monter,verbe,34.8,E-weak,0,1,faire,definition_too_short
+409,ouvrir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+410,passer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+411,payer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+412,perdre,verbe,34.8,E-weak,0,1,faire,definition_too_short
+413,pleurer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+414,préparer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+415,recevoir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+416,regarder,verbe,34.8,E-weak,0,1,faire,definition_too_short
+417,remplir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+418,rencontrer,verbe,34.8,E-weak,0,1,faire,definition_too_short
+419,rendre,verbe,34.8,E-weak,0,1,faire,definition_too_short
+420,rester,verbe,34.8,E-weak,0,1,faire,definition_too_short
+421,rire,verbe,34.8,E-weak,0,1,faire,definition_too_short
+422,savoir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+423,sembler,verbe,34.8,E-weak,0,1,faire,definition_too_short
+424,servir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+425,suivre,verbe,34.8,E-weak,0,1,faire,definition_too_short
+426,tenir,verbe,34.8,E-weak,0,1,faire,definition_too_short
+427,toucher,verbe,34.8,E-weak,0,1,faire,definition_too_short
+428,tourner,verbe,34.8,E-weak,0,1,faire,definition_too_short
+429,trouver,verbe,34.8,E-weak,0,1,faire,definition_too_short
+430,ôter,verbe,34.8,E-weak,0,1,faire,definition_too_short
+431,certain,adjectif,34.6,E-weak,0,2,pas faux,
+432,court,adjectif,34.6,E-weak,0,2,pas long,
+433,plein,adjectif,34.6,E-weak,0,2,pas vide,
+434,proche,adjectif,34.6,E-weak,0,2,pas loin,
+435,sec,adjectif,34.6,E-weak,0,2,pas humide,
+436,égal,adjectif,34.6,E-weak,0,2,le même,
+437,famille,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+438,fleur,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+439,gens,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+440,herbe,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+441,machine,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+442,musique,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+443,outil,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+444,pain,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+445,train,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+446,téléphone,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+447,vouloir,verbe,33.6,E-weak,2,1,faire,definition_too_short;indirect_cycle
+448,école,nom,33.6,E-weak,0,2,mot simple,definition_too_short
+449,ancien,adjectif,31.0,E-weak,1,2,pas nouveau,indirect_cycle
+450,nouveau,adjectif,31.0,E-weak,1,2,pas ancien,indirect_cycle
+451,forêt,nom,28.0,E-weak,0,5,lieu avec beaucoup de arbre,replace_in_v1
+452,pont,nom,28.0,E-weak,0,5,partie sur eau pour aller,replace_in_v1
+453,coin,nom,27.2,E-weak,0,4,petit partie de lieu,replace_in_v1
+454,glace,nom,27.2,E-weak,0,4,eau froid et dur,replace_in_v1
+455,village,nom,27.2,E-weak,0,4,petit lieu avec maison,replace_in_v1
+456,lac,nom,26.4,E-weak,0,3,eau dans terre,replace_in_v1
+457,lune,nom,26.4,E-weak,0,3,chose du ciel,replace_in_v1
+458,midi,nom,26.4,E-weak,0,3,centre de jour,replace_in_v1
+459,rivière,nom,26.4,E-weak,0,3,eau qui aller,replace_in_v1
+460,région,nom,26.4,E-weak,0,3,partie de pays,replace_in_v1
+461,vache,nom,26.4,E-weak,0,3,animal pour lait,replace_in_v1
+462,cheval,nom,25.6,E-weak,0,2,grand animal,replace_in_v1
+463,montagne,nom,25.6,E-weak,0,2,haut lieu,replace_in_v1
+464,neige,nom,25.6,E-weak,0,2,eau froid,replace_in_v1
+465,étoile,nom,25.6,E-weak,0,2,petit lumière,replace_in_v1
+466,lait,nom,16.0,E-weak,1,2,mot simple,replace_in_v1;definition_too_short
+467,ami,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+468,art,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+469,avion,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+470,bateau,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+471,bouteille,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+472,bureau,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+473,chant,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+474,chaussure,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+475,chemise,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+476,classe,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+477,clé,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+478,cuisine,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+479,danse,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+480,film,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+481,fruit,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+482,huile,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+483,jardin,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+484,légume,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+485,magasin,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+486,marché,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+487,pantalon,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+488,radio,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+489,repas,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+490,robe,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+491,sac,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+492,science,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+493,sel,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+494,sucre,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+495,tasse,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+496,usine,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+497,verre,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+498,viande,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+499,voisin,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short
+500,vêtement,nom,13.6,E-weak,0,2,mot simple,replace_in_v1;definition_too_short

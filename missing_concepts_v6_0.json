@@ -1,0 +1,44 @@
+{
+  "définition_et_explication": [
+    "principe",
+    "cohérence",
+    "classification"
+  ],
+  "cause_condition_consequence": [
+    "nécessairement",
+    "suffisant",
+    "causalité"
+  ],
+  "comparaison_opposition": [
+    "analogie",
+    "symétrie"
+  ],
+  "précision_approximation": [
+    "tolérance",
+    "erreur-type"
+  ],
+  "certitude_probabilité": [
+    "vraisemblance",
+    "estimation"
+  ],
+  "méthode_processus_structure": [
+    "procédure",
+    "modèle"
+  ],
+  "évaluation_priorité": [
+    "pondération",
+    "classement"
+  ],
+  "argumentation_objection": [
+    "réfutation",
+    "thèse"
+  ],
+  "durée_fréquence_répétition": [
+    "cycle",
+    "période"
+  ],
+  "avis_opinion_interprétation": [
+    "intention",
+    "ambiguïté"
+  ]
+}
